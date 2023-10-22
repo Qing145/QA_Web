@@ -1,0 +1,32 @@
+Student Lockers|Website|https://www.polyu.edu.hk/saolocker/
+Student Affairs Office|Website|https://www.polyu.edu.hk/sao/
+Optometry Clinic|Website|https://www.polyu.edu.hk/so/optometry-clinic/
+Rehabilitation Clinic|Website|https://www.polyu.edu.hk/rs/rehabclinic/en/home/index.html
+Student Dental Service|Website|https://polyu.bjdental.com
+Traditional Chinese Medicine|Website|https://www.polyu.edu.hk/uhs/our-services/chinese-medicine/general-information/
+Travel Health Clinic|Website|https://www.polyu.edu.hk/uhs/preventive-care/travel-health-clinic/
+General Enquiries|Website|https://www.polyu.edu.hk/contact-us/form.php
+Alumni Affairs|Website|https://www.polyu.edu.hk/alumni/
+Pao Yue-kong Library|Website|https://www.lib.polyu.edu.hk/
+polyu|Website|https://www.polyu.edu.hk/
+Faculty of Applied Science & Textiles|Website|https://www.polyu.edu.hk/fast/
+Faculty of Humanities|Website|https://www.polyu.edu.hk/fh/
+Faculty of Business|Website|https://www.polyu.edu.hk/fb/
+Faculty of Construction & Environment|Website|https://www.polyu.edu.hk/fce/
+Faculty of Engineering|Website|https://www.polyu.edu.hk/feng/
+Faculty of Health & Social Sciences|Website|https://www.polyu.edu.hk/fhss/
+School of Design|Website|https://www.sd.polyu.edu.hk/en/
+School of Hotel & Tourism Management|Website|https://shtm.polyu.edu.hk/
+Shaw Sports Complex|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Fong Shu Chuen Hall|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Kwong On Jubilee Sports Centre|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Block X Sports Centre|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Michael Clinton Swimming Pool|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Block X Swimming Pool|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Joint Sports Centre|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+e-Learning|Website|https://www.polyu.edu.hk/elearning/
+Good Practices (including Communities of Practice)|Website|https://www.polyu.edu.hk/CoP/2020/index.html
+Quality Assurance under the Outcome-Based Framework|Website|https://www.polyu.edu.hk/education/quality-assurance/
+General University Requirements|Website|https://www.polyu.edu.hk/ous/undergraduate-degree-curriculum/general-university-requirements/
+Study@PolyU|Website|http://www51.polyu.edu.hk/eprospectus/
+MOOC|Website|https://www.edx.org/school/hkpolyux

@@ -1,0 +1,40 @@
+{
+  "rules_array": [
+    {
+      "rules": [
+        ".*\\b(how many)\\b.*",
+        "^(the )?\\b(number of)\\b.*",
+        "\\b(what is )\\b(the )?\\b(number of)\\b.*"
+      ],
+      "type": "Number"
+    },
+    {
+      "rules": [
+        "^(the )?\\b(duration of)\\b.*",
+        "\\b(what is)\\b.*\\b(duration of)\\b.*",
+        "^(the )?\\b(year of)\\b.*",
+        "\\b(what is)\\b.*\\b(year of)\\b.*",
+        ".*\\b(how long)\\b.*",
+        ".*\\b(how many year)\\b.*",
+        "^(the )?\\b(\\b(learning|study|learn|studying|learnt|studied)\\b time of)\\b.*"
+      ],
+      "type": "Time"
+    },
+    {
+      "rules": [
+        ".*\\b(where is)\\b.*",
+        "^(the )?\\b(location of)\\b.*",
+        ".*\\b(how can i get to)\\b.*",
+        "\\b(what is)\\b.*\\b(location)\\b.*"
+      ],
+      "type": "Location"
+    },
+    {
+      "rules": [
+        ".*\\b(how much)\\b.*",
+        ".*\\b(money|tuition fee|tuition|cost|expense|charge|expend|fee|pay for)\\b.*"
+      ],
+      "type": "Tuition"
+    }
+  ]
+}

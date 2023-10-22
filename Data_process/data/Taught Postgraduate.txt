@@ -1,0 +1,94 @@
+polyu|Taught Postgraduate Programmes|Accountancy - MSc
+polyu|Taught Postgraduate Programmes|Accounting and Finance Analytics - MSc
+polyu|Taught Postgraduate Programmes|Applied Language Sciences - Doctor
+polyu|Taught Postgraduate Programmes|Applied Mathematics for Science and Technology (Actuarial and Investment Science) - MSc
+polyu|Taught Postgraduate Programmes|Applied Mathematics for Science and Technology (Decision Science) - MSc
+polyu|Taught Postgraduate Programmes|Applied Psychology - Master
+polyu|Taught Postgraduate Programmes|Applied Psychology (Diverse Learning Needs) - Master
+polyu|Taught Postgraduate Programmes|Aviation Engineering - MSc
+polyu|Taught Postgraduate Programmes|Bilingual Corporate Communication - MA
+polyu|Taught Postgraduate Programmes|Biomedical Engineering - MSc
+polyu|Taught Postgraduate Programmes|Blockchain Technology - MSc
+polyu|Taught Postgraduate Programmes|Building Services Engineering - MEng
+polyu|Taught Postgraduate Programmes|Building Services Engineering - MSc
+polyu|Taught Postgraduate Programmes|Business Administration - Doctor
+polyu|Taught Postgraduate Programmes|Business Administration - Master
+polyu|Taught Postgraduate Programmes|Business Administration - Master
+polyu|Taught Postgraduate Programmes|Business Analytics - MSc
+polyu|Taught Postgraduate Programmes|Business Management - MSc
+polyu|Taught Postgraduate Programmes|China Business Studies - MSc
+polyu|Taught Postgraduate Programmes|Chinese Culture - MA
+polyu|Taught Postgraduate Programmes|Chinese Linguistics - MA
+polyu|Taught Postgraduate Programmes|Civil Engineering - MSc
+polyu|Taught Postgraduate Programmes|Construction and Real Estate - MSc
+polyu|Taught Postgraduate Programmes|Construction Law and Dispute Resolution - MSc
+polyu|Taught Postgraduate Programmes|Corporate Governance - Master
+polyu|Taught Postgraduate Programmes|Data Science and Analytics - MSc
+polyu|Taught Postgraduate Programmes|Design - Master
+polyu|Taught Postgraduate Programmes|Electrical Engineering - MSc
+polyu|Taught Postgraduate Programmes|Electronic and Information Engineering - MSc
+polyu|Taught Postgraduate Programmes|Engineering Business Management - MSc/PgD
+polyu|Taught Postgraduate Programmes|Engineering Doctorate - EngD
+polyu|Taught Postgraduate Programmes|English Studies for the Professions - MA
+polyu|Taught Postgraduate Programmes|Environmental Management and Engineering - MSc
+polyu|Taught Postgraduate Programmes|Facility Management - MSc
+polyu|Taught Postgraduate Programmes|Fashion and Textile Design - MA
+polyu|Taught Postgraduate Programmes|Fashion and Textiles - MA
+polyu|Taught Postgraduate Programmes|Finance (Corporate Finance) - Master
+polyu|Taught Postgraduate Programmes|Finance (Financial Economics in Energy and Environment) - Master
+polyu|Taught Postgraduate Programmes|Finance (Investment Management) - Master
+polyu|Taught Postgraduate Programmes|Finance (Investment Management) - Master
+polyu|Taught Postgraduate Programmes|FinTech - Doctor
+polyu|Taught Postgraduate Programmes|Fire and Safety Engineering - MSc
+polyu|Taught Postgraduate Programmes|Geomatics (Geographic Information Systems) - MSc
+polyu|Taught Postgraduate Programmes|Geomatics (Surveying) - MSc
+polyu|Taught Postgraduate Programmes|Global Food Safety Management and Risk Analysis - MSc
+polyu|Taught Postgraduate Programmes|Global Hospitality Business - MSc
+polyu|Taught Postgraduate Programmes|Global Supply Chain Management - MSc/PgD
+polyu|Taught Postgraduate Programmes|Guidance and Counselling - MA
+polyu|Taught Postgraduate Programmes|Health Communication - Master
+polyu|Taught Postgraduate Programmes|Health Informatics - MSc
+polyu|Taught Postgraduate Programmes|Health Science - Doctor
+polyu|Taught Postgraduate Programmes|High Performance Buildings - MSc
+polyu|Taught Postgraduate Programmes|Hospitality and Tourism Management - MSc Scheme
+polyu|Taught Postgraduate Programmes|Hospitality Business Innovation - MSc
+polyu|Taught Postgraduate Programmes|Hotel and Tourism Management - Doctor
+polyu|Taught Postgraduate Programmes|Human Resource Management - MSc
+polyu|Taught Postgraduate Programmes|Industrial Logistics Systems - MSc
+polyu|Taught Postgraduate Programmes|Information Technology - MSc
+polyu|Taught Postgraduate Programmes|International Real Estate and Construction - Doctor
+polyu|Taught Postgraduate Programmes|International Shipping and Transport Logistics - MSc
+polyu|Taught Postgraduate Programmes|International Shipping and Transport Logistics - MSc/PgD
+polyu|Taught Postgraduate Programmes|Knowledge and Technology Management - MSc
+polyu|Taught Postgraduate Programmes|Manipulative Physiotherapy - MSc
+polyu|Taught Postgraduate Programmes|Manufacturing Systems Engineering and Management - MSc/PgD
+polyu|Taught Postgraduate Programmes|Marketing Management - MSc
+polyu|Taught Postgraduate Programmes|Mechanical Engineering - MSc
+polyu|Taught Postgraduate Programmes|Medical Imaging and Radiation Science - MSc
+polyu|Taught Postgraduate Programmes|Medical Laboratory Science - MSc
+polyu|Taught Postgraduate Programmes|Medical Physics - MSc
+polyu|Taught Postgraduate Programmes|Multimedia and Entertainment Technology - MSc
+polyu|Taught Postgraduate Programmes|Nursing - Master
+polyu|Taught Postgraduate Programmes|Nursing - MSc
+polyu|Taught Postgraduate Programmes|Nutrition and Healthy Ageing - MSc
+polyu|Taught Postgraduate Programmes|Occupational Therapy - MSc
+polyu|Taught Postgraduate Programmes|Operational Research and Risk Analysis - MSc
+polyu|Taught Postgraduate Programmes|Operations Management - MSc
+polyu|Taught Postgraduate Programmes|Professional Accounting - Master/PgD
+polyu|Taught Postgraduate Programmes|Project Management - MSc
+polyu|Taught Postgraduate Programmes|Rehabilitation of People with Developmental Disabilities - MSc
+polyu|Taught Postgraduate Programmes|Rehabilitation Sciences - MSc
+polyu|Taught Postgraduate Programmes|School and Community Psychology - MA
+polyu|Taught Postgraduate Programmes|Social Policy and Social Development - MA
+polyu|Taught Postgraduate Programmes|Social Work - Doctor
+polyu|Taught Postgraduate Programmes|Social Work - Master
+polyu|Taught Postgraduate Programmes|Social Work (Family-centred Practice and Family Therapy) - MA
+polyu|Taught Postgraduate Programmes|Social Work (Mental Health) - MA
+polyu|Taught Postgraduate Programmes|Speech Therapy - Master
+polyu|Taught Postgraduate Programmes|Sports Physiotherapy - MSc
+polyu|Taught Postgraduate Programmes|Supply Chain and Logistics Management - MSc/PgD
+polyu|Taught Postgraduate Programmes|Sustainable Urban Development - MSc
+polyu|Taught Postgraduate Programmes|Teaching Chinese as a Foreign Language - MA
+polyu|Taught Postgraduate Programmes|Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) - MA/PgD
+polyu|Taught Postgraduate Programmes|Translating and Interpreting - MA
+polyu|Taught Postgraduate Programmes|Urban Informatics and Smart Cities - MSc

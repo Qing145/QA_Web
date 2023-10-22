@@ -1,0 +1,3 @@
+Location inside POLYU|Do you want to know the location of which place inside POLYU|Location
+Elective Subjects|Which master programme you want to query its elective subjects?|Elective Subjects
+Contact way of department|Which department do you want to contact?|Contact

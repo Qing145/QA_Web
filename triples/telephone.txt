@@ -1,0 +1,23 @@
+Alumni Affairs|Telephone|+852 27665979
+Information Technology Services|Telephone|+852 27665900
+Optometry Clinic|Telephone|+852 27665225
+Rehabilitation Clinic|Telephone|+852 27666734
+Student Counselling Service|Telephone|+852 27666800
+Student Dental Service|Telephone|+852 23309414
+Traditional Chinese Medicine|Telephone|+852 27665553
+Western Medicine|Telephone|+852 27665433
+Emergency Campus Security Service|Telephone|+852 27667999
+Academic Registry|Telephone|+852 23330600
+Communal Staff Restaurant|Telephone|+852 23283933
+Communal Student Canteen|Telephone|+852 23289886
+Student Restaurant|Telephone|+852 23283933
+X Cafe|Telephone|+852 23683869
+Travel Health Clinic|Telephone|+852 27665433
+Pao Yue-kong Library (LIB)|Telephone|+852 27666863
+Faculty of Engineering (FENG)|Telephone|+852 27665064
+Faculty of Science (FS)|Telephone|+852 2766 5057-5059
+Faculty of Humanities (FH)|Telephone|+852 34008212
+Faculty of Business (FB)|Telephone|+852 34003570
+Faculty of Construction and Environment (FCE)|Telephone|+852 34008496
+Faculty of Health and Social Sciences (FHSS)|Telephone|+852 27665075
+School of Design (SD)|Telephone|+852 27665454

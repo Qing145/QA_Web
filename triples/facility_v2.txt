@@ -1,0 +1,8 @@
+polyu|Sports Facilities|Shaw Sports Complex, Fong Shu Chuen Hall, Kwong On Jubilee Sports Centre, Block X Sports Centre, Michael Clinton Swimming Pool, Block X Swimming Pool, Joint Sports Centre
+polyu|Student Halls of Residence|Hall of Residence (Hung Hom), Hall of Residence (Homantin), Hall of Residence (Kowloon Tong)
+polyu|Catering|Communal Staff Restaurant, Communal Student Canteen, Communal Student Restaurant, H Cafe, Lawn Cafe, LibCafe, Theatre Lounge, V Cafe, VA Kisok, VA Staff Canteen, VA Student Canteen, W Kiosk, X Cafe, Z Restaurant
+polyu|Health Service|Optometry Clinic, Rehabilitation Clinic, Staff Dental Service, Student Counselling Service, Student Dental Service, Traditional Chinese Medicine, Western Medicine, Travel Health Clinic
+polyu|Global Student Hub|Global Student Hub (GSH)
+polyu|Student Lockers|Student Lockers
+polyu|Office|Student Affairs Office (SAO), Offices of the President (P), Offices of the President (P), Finance Office (FO), Global Engagement Office (GEO), Health and Safety Office (HSO), Human Resources Office (HRO), Mainland Development Office (MDO), Knowledge Transfer and Entrepreneurship Office (KTEO), Office of General University Requirements (OGUR), Office of Undergraduate Studies (OUS), Campus Development Office (CDO), Campus Facilities and Sustainability Office (CFSO), Communications and Public Affairs Office (CPA)
+polyu|Library|Pao Yue-kong Library (LIB)

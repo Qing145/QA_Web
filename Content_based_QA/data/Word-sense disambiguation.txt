@@ -1,0 +1,13 @@
+Word-sense disambiguation (WSD) is the process of identifying which sense of a word is meant in a sentence or other segment of context. In human language processing and cognition, it is usually subconscious/automatic but can often come to conscious attention when ambiguity impairs clarity of communication, given the pervasive polysemy in natural language. 
+
+Many techniques have been researched, including dictionary-based methods that use the knowledge encoded in lexical resources, supervised machine learning methods in which a classifier is trained for each distinct word on a corpus of manually sense-annotated examples, and completely unsupervised methods that cluster occurrences of words, thereby inducing word senses. Among these, supervised learning approaches have been the most successful algorithms to date.
+
+Disambiguation requires two strict inputs: a dictionary to specify the senses which are to be disambiguated and a corpus of language data to be disambiguated (in some methods, a training corpus of language examples is also required). 
+
+Word-sense disambiguation task has two variants: "lexical sample" (disambiguating the occurrences of a small sample of target words which were previously selected) and "all words" task (disambiguation of all the words in a running text). 
+
+There are two main approaches to WSD – deep approaches and shallow approaches. Deep approaches presume access to a comprehensive body of world knowledge. These approaches are generally not considered to be very successful in practice, mainly because such a body of knowledge does not exist in a computer-readable format, outside very limited domains; Shallow approaches don't try to understand the text, but instead consider the surrounding words. These rules can be automatically derived by the computer, using a training corpus of words tagged with their word senses. This approach, while theoretically not as powerful as deep approaches, gives superior results in practice, due to the computer's limited world knowledge.
+
+Challenges in Word Sense Disambiguation is a lot of text information is out there and often it is not possible to process everything properly.
+
+WSD can be used alongside Lexicography. Much of the modern Lexicography is corpus-based. WSD, used in Lexicography can provide significant textual indicators. WSD can also be used in Text Mining and Information Extraction tasks.

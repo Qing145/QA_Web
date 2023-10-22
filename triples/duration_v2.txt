@@ -1,0 +1,96 @@
+Accountancy MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Accounting and Finance Analytics MSc|Duration|1 year (Full-time), 2 years (Part-time)
+Applied Language Sciences Doctor|Duration|4 years (Full-time), 5 years (Part-time)
+Applied Mathematics for Science and Technology (Actuarial and Investment Science) MSc|Duration|2 years
+Applied Mathematics for Science and Technology (Decision Science) MSc|Duration|3 years
+Applied Psychology MSc|Duration|1 year (Full-time), 2 years (Part-time)
+Applied Psychology (Diverse Learning Needs) MSc|Duration|1 year (Full-time), 2 years (Part-time)
+Aviation Engineering MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time), 2.5 years (Online Mode)
+Bilingual Corporate Communication MA|Duration|1.5 years (Full-time), 3 years (Part-time)
+Biomedical Engineering MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Blockchain Technology MSc|Duration|1 year (Full-time), 2 years (Part-time)
+Building Services Engineering MEng|Duration|1 year (Full-time), 2 years (Part-time)
+Building Services Engineering MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Business Administration Doctor|Duration|2 years (Full-time), 3 years (Part-time)
+Business Administration MSc|Duration|1 year/2 years
+Business Analytics MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Business Management MSc|Duration|1 year
+China Business Studies MSc|Duration|1 year
+Chinese Culture MA|Duration|1 year (Full-time), 2 years (Part-time)
+Chinese Linguistics MA|Duration|1.5 years (Full-time), 3 years (Part-time)
+Civil Engineering MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Construction and Real Estate MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Construction Law and Dispute Resolution MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Corporate Governance MSc|Duration|2 years
+Data Science and Analytics MSc|Duration|1.5 years (Full-time), 3 years (Part-time)
+Design MSc|Duration|Innovative Business Design 1 year (Full-time), Intelligent Systems Design 1 year (Full-time), Smart Service Design 1 year (Full-time), Transitional Environments Design 1 year (Full-time)
+Electrical Engineering MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Electronic and Information Engineering MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Engineering Business Management MSc|Duration|1.5 years (Full-time), 3 years (Part-time)
+Engineering Business Management PgD|Duration|1.5 years (Full-time), 3 years (Part-time)
+Engineering Doctorate EngD|Duration|3 years (Full-time), 5 years (Part-time)
+English Studies for the Professions MA|Duration|1 year (Full-time), 2 years (Part-time)
+Environmental Management and Engineering MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Facility Management MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Fashion and Textile Design MA|Duration|1 year
+Fashion and Textiles MA|Duration|1 year (Full-time), 2 years (Part-time)
+Finance (Corporate Finance) MSc|Duration|2 years
+Finance (Financial Economics in Energy and Environment) MSc|Duration|1 year
+Finance (Investment Management) MSc|Duration|1 year/2 years
+Fire and Safety Engineering MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Geomatics (Geographic Information Systems) MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Geomatics (Surveying) MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Global Food Safety Management and Risk Analysis MSc|Duration|1 year
+Global Hospitality Business MSc|Duration|1.5 years
+Global Supply Chain Management MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Global Supply Chain Management PgD|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Guidance and Counselling MA|Duration|1.5 years (Full-time), 3 years (Part-time)
+Health Communication MSc|Duration|3 years
+Health Informatics MSc|Duration|1 year (Full-time), 3 years (Part-time)
+Health Science Doctor|Duration|3 years (Full-time), 4 years (Part-time)
+High Performance Buildings MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Hospitality and Tourism Management MSc|Duration|1-1.5 years for MSc (Full-time), 3 years for MSc (Part-time)
+Hospitality Business Innovation MSc|Duration|3 years
+Hotel and Tourism Management Doctor|Duration|3-5 years
+Human Resource Management MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Industrial Logistics Systems MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Information Technology MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+International Real Estate and Construction Doctor|Duration|3 years
+International Shipping and Transport Logistics MSc|Duration|2 years, 2.5 years for MSc (Part-time)
+International Shipping and Transport Logistics PgD|Duration|2 years for PgD (Full-time), 2.5 years for PgD (Part-time)
+Knowledge and Technology Management MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Manipulative Physiotherapy MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Manufacturing Systems Engineering and Management MSc|Duration|1.5 years (Full-time), 3 years (Part-time)
+Manufacturing Systems Engineering and Management PgD|Duration|1.5 years (Full-time), 3 years (Part-time)
+Marketing Management MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Mechanical Engineering MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Medical Imaging and Radiation Science MSc|Duration|1.5 year (Full-time), 3 years (Part-time)
+Medical Laboratory Science MSc|Duration|1.5 year (Full-time), 3 years (Part-time)
+Medical Physics MSc|Duration|1.5 year (Full-time), 3 years (Part-time)
+Multimedia and Entertainment Technology MSc|Duration|12 months (from September to August of the following year)
+Nursing MSc|Duration|2 years (Full-time), 2.5 years (Part-time)
+Nutrition and Healthy Ageing MSc|Duration|1 year
+Occupational Therapy MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Operational Research and Risk Analysis MSc|Duration|1.5 years (Full-time), 3 years (Part-time)
+Operations Management MSc|Duration|1.5 years (Full-time), 2.5 years (Part-time)
+Professional Accounting MSc|Duration|1 year for Master (Full-time), 2 years for Master (Part-time)
+Professional Accounting PgD|Duration|1 year for PgD (Full-time), 1.5 years for PgD (Part-time)
+Project Management MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Rehabilitation of People with Developmental Disabilities MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Rehabilitation Sciences MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+School and Community Psychology MA|Duration|1 year (Full-time), 2 years (Part-time)
+Social Policy and Social Development MA|Duration|1 year (Full-time) with summer term, 2 years (Part-time) with summer terms
+Social Work Doctor|Duration|3 years (Full-time) with summer terms, 4 years (Part-time) with summer terms
+Social Work MSc|Duration|3 years
+Social Work (Family-centred Practice and Family Therapy) MA|Duration|1.5 years (Full-time), 3 years (Part-time)
+Social Work (Mental Health) MA|Duration|1.5 years (Full-time), 3 years (Part-time)
+Speech Therapy MSc|Duration|2.5 years
+Sports Physiotherapy MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Supply Chain and Logistics Management MSc|Duration|1.5 years (Full-time), 3 years (Part-time)
+Supply Chain and Logistics Management PgD|Duration|1.5 years (Full-time), 3 years (Part-time)
+Sustainable Urban Development MSc|Duration|1 year (Full-time), 2.5 years (Part-time)
+Teaching Chinese as a Foreign Language MA|Duration|1.5 years (Full-time), 3 years (Part-time)
+Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) MA|Duration|3 years
+Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) PgD|Duration|3 years
+Translating and Interpreting MA|Duration|1.5 years (Full-time), 3 years (Part-time)
+Urban Informatics and Smart Cities MSc|Duration|1 year (Full-time), 2.5 years (Part-time)

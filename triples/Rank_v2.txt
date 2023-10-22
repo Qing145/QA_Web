@@ -1,0 +1,27 @@
+Linguistics|Ranking|55
+Architecture & Built Environment|Ranking|15
+Art & Design|Ranking|16
+English Language and Literature|Ranking|101-150
+Modern Languages|Ranking|151-200
+Chemical|Ranking|101-150
+Computer Science and Information Systems|Ranking|92
+Electrical and Electronic|Ranking|76
+Mechanical|Ranking|74
+Biological Sciences|Ranking|351-400
+Nursing|Ranking|51-100
+Pharmacy & Pharmacology|Ranking|301-350
+Chemistry|Rank|151-200
+Earth and Marine Sciences|Ranking|201-220
+Environmental Sciences|Ranking|46
+Geography|Ranking|51-100
+Geology|Ranking|201-220
+Geophysics|Ranking|201-220
+Mathematics|Ranking|109
+Physics & Astronomy|Ranking|201-250
+Accounting and Finance|Ranking|57
+Business & Management Studies|Ranking|48
+Economics and Econometrics|Ranking|132
+Hospitality & Leisure Management|Ranking|10
+Sociology|Ranking|201-250
+Statistics and Operational Research|Ranking|51-100
+polyu|Ranking|QS World University Rankings-65, QS Graduate Employability Rankings-71, QS Asia University Rankings-25, Times Higher Education World University Rankings-91, Times Higher Education Young University Rankings-5, Times Higher Education Asia University Rankings-15, ShanghaiRanking's Global Rankings-between 151and200, U.S. News & World Report Best Global Universities Rankings-124

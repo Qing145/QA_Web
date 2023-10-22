@@ -1,0 +1,6 @@
+In the early days, many language-processing systems were designed by symbolic methods, i.e., the hand-coding of a set of rules, coupled with a dictionary lookup: such as by writing grammars or devising heuristic rules for stemming.
+
+symbolic methods are still commonly used:
+when the amount of training data is insufficient to successfully apply machine learning methods (e.g., for the machine translation of low-resource languages such as provided by the Apertium system), for preprocessing in NLP pipelines (e.g., tokenization), or for postprocessing and transforming the output of NLP pipelines (e.g., for knowledge extraction from syntactic parses).
+
+The challenges of rule-based nlp is difficulty in generating rules for complex system.

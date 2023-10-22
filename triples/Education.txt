@@ -1,0 +1,4 @@
+polyu|Students Number|27200+
+polyu|Graduates Number|448000+
+polyu|Faculty Members Number|1240
+polyu|Taught Programmes Number|160+

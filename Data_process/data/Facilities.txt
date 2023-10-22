@@ -1,0 +1,36 @@
+polyu|Sports Facilities|Shaw Sports Complex
+polyu|Sports Facilities|Fong Shu Chuen Hall
+polyu|Sports Facilities|Kwong On Jubilee Sports Centre
+polyu|Sports Facilities|Block X Sports Centre
+polyu|Sports Facilities|Michael Clinton Swimming Pool
+polyu|Sports Facilities|Block X Swimming Pool
+polyu|Sports Facilities|Joint Sports Centre
+polyu|Student Halls of Residence|Hung Hom
+polyu|Student Halls of Residence|Homantin
+polyu|Student Halls of Residence|Kowloon Tong
+polyu|Catering|Communal Staff Restaurant
+polyu|Catering|Communal Student Canteen
+polyu|Catering|Communal Student Restaurant
+polyu|Catering|H Cafe
+polyu|Catering|Lawn Cafe
+polyu|Catering|LibCafe
+polyu|Catering|Theatre Lounge
+polyu|Catering|V Cafe
+polyu|Catering|VA Kisok
+polyu|Catering|VA Staff Canteen
+polyu|Catering|VA Student Canteen
+polyu|Catering|W Kiosk
+polyu|Catering|X Cafe
+polyu|Catering|Z Restaurant
+polyu|University Health Service|Optometry Clinic
+polyu|University Health Service|Rehabilitation Clinic
+polyu|University Health Service|Staff Dental Service
+polyu|University Health Service|Student Counselling Service
+polyu|University Health Service|Student Dental Service
+polyu|University Health Service|Traditional Chinese Medicine
+polyu|University Health Service|Western Medicine
+polyu|Global Student Hub|Global Student Hub (GSH)
+polyu|Student Lockers|Student Lockers
+polyu|Student Affairs Office|Student Affairs Office (SAO)
+polyu|University Health Service|Travel Health Clinic	
+polyu|Library|Pao Yue-kong Library

@@ -1,0 +1,9 @@
+In natural language processing (NLP), word embedding is a term used for the representation of words for text analysis, typically in the form of a real-valued vector that encodes the meaning of the word such that the words that are closer in the vector space are expected to be similar in meaning. Word embeddings can be obtained using a set of language modeling and feature learning techniques where words or phrases from the vocabulary are mapped to vectors of real numbers.
+
+Methods to generate word embedding include neural networks, dimensionality reduction on the word co-occurrence matrix, probabilistic models, explainable knowledge base method, and explicit representation in terms of the context in which words appear.
+
+Word and phrase embeddings, when used as the underlying input representation, have been shown to boost the performance in NLP tasks such as syntactic parsing and sentiment analysis.
+
+Word2vec Challenges are Inability to handle unknown or OOV words, No shared representations at sub-word levels, Scaling to new languages requires new embedding matrices, Cannot be used to initialize state-of-the-art architectures.
+
+word embedding is used in survey responses, comment analysis, recommendation engines and more.

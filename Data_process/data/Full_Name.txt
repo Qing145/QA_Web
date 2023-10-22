@@ -1,0 +1,93 @@
+Accountancy - MSc|Full Name|Master of Science in Accountancy
+Accounting and Finance Analytics - MSc|Full Name|Master of Science in Accounting and Finance Analytics
+Applied Language Sciences - Doctor|Full Name|Doctor of Applied Language Sciences
+Applied Mathematics for Science and Technology (Actuarial and Investment Science) - MSc|Full Name|Master of Science in Applied Mathematics for Science and Technology (Actuarial and Investment Science)
+Applied Mathematics for Science and Technology (Decision Science) - MSc|Full Name|Master of Science in Applied Mathematics for Science and Technology (Decision Science)
+Applied Psychology - Master|Full Name|Master of Applied Psychology
+Applied Psychology (Diverse Learning Needs) - Master|Full Name|Master of Applied Psychology (Diverse Learning Needs)
+Aviation Engineering - MSc|Full Name|Master of Science in Aviation Engineering
+Bilingual Corporate Communication - MA|Full Name|Master of Arts in Bilingual Corporate Communication
+Biomedical Engineering - MSc|Full Name|Master of Science in Biomedical Engineering
+Blockchain Technology - MSc|Full Name|Master of Science in Blockchain Technology
+Building Services Engineering - MEng|Full Name|Master of Engineering in Building Services Engineering
+Building Services Engineering - MSc|Full Name|Master of Science in Building Services Engineering
+Business Administration - Doctor|Full Name|Doctor of Business Administration
+Business Administration - Master|Full Name|Master of Business Administration
+Business Administration - Master|Full Name|Master of Business Administration
+Business Analytics - MSc|Full Name|Master of Science in Business Analytics
+Business Management - MSc|Full Name|Master of Science in Business Management
+China Business Studies - MSc|Full Name|Master of Science in China Business Studies
+Chinese Culture - MA|Full Name|Master of Arts in Chinese Culture
+Chinese Linguistics  - MA|Full Name|Master of Arts in Chinese Linguistics 
+Civil Engineering - MSc|Full Name|Master of Science in Civil Engineering
+Construction and Real Estate - MSc|Full Name|Master of Science in Construction and Real Estate
+Construction Law and Dispute Resolution - MSc|Full Name|Master of Science in Construction Law and Dispute Resolution
+Corporate Governance - Master|Full Name|Master of Corporate Governance
+Data Science and Analytics - MSc|Full Name|Master of Science in Data Science and Analytics
+Design - Master|Full Name|Master of Design
+Electrical Engineering - MSc|Full Name|Master of Science in Electrical Engineering
+Electronic and Information Engineering - MSc|Full Name|Master of Science in Electronic and Information Engineering
+Engineering Business Management - MSc/PgD|Full Name|Master of Science/Postgraduate Diploma in Engineering Business Management
+Engineering Doctorate - EngD|Full Name|Engineering Doctorate
+English Studies for the Professions  - MA|Full Name|Master of Arts in English Studies for the Professions 
+Environmental Management and Engineering - MSc|Full Name|Master of Science in Environmental Management and Engineering
+Facility Management  - MSc|Full Name|Master of Science in Facility Management 
+Fashion and Textile Design - MA|Full Name|Master of Arts in Fashion and Textile Design
+Fashion and Textiles - MA|Full Name|Master of Arts in Fashion and Textiles
+Finance (Corporate Finance) - Master|Full Name|Master of Finance (Corporate Finance)
+Finance (Financial Economics in Energy and Environment) - Master|Full Name|Master of Finance (Financial Economics in Energy and Environment)
+Finance (Investment Management) - Master|Full Name|Master of Finance (Investment Management)
+Finance (Investment Management) - Master|Full Name|Master of Finance (Investment Management)
+Fire and Safety Engineering  - MSc|Full Name|Master of Science in Fire and Safety Engineering 
+Geomatics (Geographic Information Systems) - MSc|Full Name|Master of Science in Geomatics (Geographic Information Systems)
+Geomatics (Surveying) - MSc|Full Name|Master of Science in Geomatics (Surveying)
+Global Food Safety Management and Risk Analysis - MSc|Full Name|Master of Science in Global Food Safety Management and Risk Analysis
+Global Hospitality Business - MSc|Full Name|Master of Science in Global Hospitality Business
+Global Supply Chain Management - MSc/PgD|Full Name|Master of Science/Postgraduate Diploma in Global Supply Chain Management
+Guidance and Counselling - MA|Full Name|Master of Arts in Guidance and Counselling
+Health Communication - Master|Full Name|Master of Health Communication
+Health Informatics  - MSc|Full Name|Master of Science in Health Informatics 
+Health Science - Doctor|Full Name|Doctor of Health Science
+High Performance Buildings  - MSc|Full Name|Master of Science in High Performance Buildings 
+Hospitality and Tourism Management  - MSc Scheme|Full Name|Master of Science Scheme in Hospitality and Tourism Management 
+Hospitality Business Innovation  - MSc|Full Name|Master of Science in Hospitality Business Innovation 
+Hotel and Tourism Management - Doctor|Full Name|Doctor of Hotel and Tourism Management
+Human Resource Management - MSc|Full Name|Master of Science in Human Resource Management
+Industrial Logistics Systems  - MSc|Full Name|Master of Science in Industrial Logistics Systems 
+Information Technology - MSc|Full Name|Master of Science in Information Technology
+International Real Estate and Construction - Doctor|Full Name|Doctor of International Real Estate and Construction
+International Shipping and Transport Logistics - MSc|Full Name|Master of Science in International Shipping and Transport Logistics
+International Shipping and Transport Logistics - MSc/PgD|Full Name|Master of Science/Postgraduate Diploma in International Shipping and Transport Logistics
+Knowledge and Technology Management - MSc|Full Name|Master of Science in Knowledge and Technology Management
+Manipulative Physiotherapy - MSc|Full Name|Master of Science in Manipulative Physiotherapy
+Manufacturing Systems Engineering and Management - MSc/PgD|Full Name|Master of Science/Postgraduate Diploma in Manufacturing Systems Engineering and Management
+Marketing Management - MSc|Full Name|Master of Science in Marketing Management
+Mechanical Engineering - MSc|Full Name|Master of Science in Mechanical Engineering
+Medical Imaging and Radiation Science - MSc|Full Name|Master of Science in Medical Imaging and Radiation Science
+Medical Laboratory Science - MSc|Full Name|Master of Science in Medical Laboratory Science
+Medical Physics - MSc|Full Name|Master of Science in Medical Physics
+Multimedia and Entertainment Technology  - MSc|Full Name|Master of Science in Multimedia and Entertainment Technology 
+Nursing - Master|Full Name|Master of Nursing
+Nursing - MSc|Full Name|Master of Science in Nursing
+Nutrition and Healthy Ageing - MSc|Full Name|Master of Science in Nutrition and Healthy Ageing
+Occupational Therapy - MSc|Full Name|Master of Science in Occupational Therapy
+Operational Research and Risk Analysis  - MSc|Full Name|Master of Science in Operational Research and Risk Analysis 
+Operations Management - MSc|Full Name|Master of Science in Operations Management
+Professional Accounting - Master/PgD|Full Name|Master of/Postgraduate Diploma in Professional Accounting
+Project Management - MSc|Full Name|Master of Science in Project Management
+Rehabilitation of People with Developmental Disabilities - MSc|Full Name|Master of Science in Rehabilitation of People with Developmental Disabilities
+Rehabilitation Sciences - MSc|Full Name|Master of Science in Rehabilitation Sciences
+School and Community Psychology - MA|Full Name|Master of Arts in School and Community Psychology
+Social Policy and Social Development  - MA|Full Name|Master of Arts in Social Policy and Social Development 
+Social Work - Doctor|Full Name|Doctor of Social Work
+Social Work  - Master|Full Name|Master of Social Work 
+Social Work (Family-centred Practice and Family Therapy) - MA|Full Name|Master of Arts in Social Work (Family-centred Practice and Family Therapy)
+Social Work (Mental Health) - MA|Full Name|Master of Arts in Social Work (Mental Health)
+Speech Therapy - Master|Full Name|Master of Speech Therapy
+Sports Physiotherapy - MSc|Full Name|Master of Science in Sports Physiotherapy
+Supply Chain and Logistics Management - MSc/PgD|Full Name|Master of Science/Postgraduate Diploma in Supply Chain and Logistics Management
+Sustainable Urban Development - MSc|Full Name|Master of Science in Sustainable Urban Development
+Teaching Chinese as a Foreign Language - MA|Full Name|Master of Arts in Teaching Chinese as a Foreign Language
+Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) - MA/PgD|Full Name|Master of Arts/Postgraduate Diploma in Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools)
+Translating and Interpreting - MA|Full Name|Master of Arts in Translating and Interpreting
+Urban Informatics and Smart Cities - MSc|Full Name|Master of Science in Urban Informatics and Smart Cities

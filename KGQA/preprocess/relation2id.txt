@@ -1,0 +1,38 @@
+Website|0
+Professional Title|1
+Office|2
+Telephone|3
+Email|4
+Credits Required for Graduation|5
+Department|6
+Duration|7
+Students Number|8
+Graduates Number|9
+Faculty Members Number|10
+Taught Programmes Number|11
+Date of Creation|12
+Sports Facilities|13
+Student Halls of Residence|14
+Catering|15
+Health Service|16
+Global Student Hub|17
+Student Lockers|18
+Library|19
+Faculty|20
+School|21
+Location|22
+Mode of Study|23
+Ranking|24
+Taught Postgraduate Programmes|25
+Fund Type|26
+Compulsory Subjects|27
+Elective Subjects|28
+Tuition|29
+Application|30
+Book|31
+Field of Work|32
+Introduction|33
+Inventor|34
+Subtopic|35
+Supertopic|36
+Video|37

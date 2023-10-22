@@ -1,0 +1,9 @@
+An n-gram model models sequences, notably natural languages, using the statistical properties of n-grams. When used for language modeling, independence assumptions are made so that each word depends only on the last n − 1 words. This idea can be traced to an experiment by Claude Shannon's work in information theory. 
+
+Note that in a simple n-gram language model, the probability of a word, conditioned on some number of previous words (one word in a bigram model, two words in a trigram model, etc.) can be described as following a categorical distribution (often imprecisely called a "multinomial distribution").
+
+In practice, the probability distributions are smoothed by assigning non-zero probabilities to unseen words or n-grams.
+
+In practice, n-gram models have been shown to be extremely effective in modeling language data, which is a core component in modern statistical language applications.
+
+The chanllenge of n-gram model is significant dependence on the training corpus。

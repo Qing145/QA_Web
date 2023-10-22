@@ -1,0 +1,71 @@
+{
+  "rules_array": [
+    {
+      "rules": [
+        ".*\\b(elective|selective|optional)\\b.*\\b(courses|course|subject|subjects|class|classes)\\b.*",
+        ".*\\b(courses|course|subject|subjects|class|classes)\\b.*\\b(elective|selective|optional)\\b.*"
+      ],
+      "type": "Elective Subjects",
+      "level": 3
+    },
+    {
+      "rules": [
+        ".*\\b(compulsory|required|obligatory)\\b.*\\b(courses|course|subject|subjects|class|classes)\\b.*",
+        ".*\\b(courses|course|subject|subjects|class|classes)\\b.*\\b(compulsory|required|obligatory)\\b.*"
+      ],
+      "type": "Compulsory Subjects",
+      "level": 3
+    },
+    {
+      "rules": [
+        ".*\\b(credits|credit)\\b.*\\b(master|msc|program|programme|master of science|postgraduate|graduate|graduation|major)\\b.*",
+        ".*\\b(master|msc|program|programme|master of science|postgraduate|graduate|graduation)\\b.*\\b(credits|credit)\\b.*"
+      ],
+      "type": "Credits Required for Graduation",
+      "level": 3
+    },
+    {
+      "rules": [
+        ".*\\b(departments|department|sections|section|branch|branches)\\b.*"
+      ],
+      "type": "Department",
+      "level": 1
+    },
+    {
+      "rules": [
+        ".*\\b(student(s){0,1}|pupil|scholastic)\\b.*\\b(graduate|graduation|finish school)\\b.*",
+        ".*\\b(graduate(d){0,1}|graduation|finish school)\\b.*\\b(student(s){0,1}|pupil|scholastic)\\b.*"
+      ],
+      "type": "Graduates Number",
+      "level": 3
+    },
+    {
+      "rules": [
+        ".*\\b(graduates|graduate|graduated)\\b.*"
+      ],
+      "type": "Graduates Number",
+      "level": 1
+    },
+    {
+      "rules": [
+        ".*\\b(student(s){0,1}|pupil|scholastic)\\b.*"
+      ],
+      "type": "Students Number",
+      "level": 1
+    },
+    {
+      "rules": [
+        ".*\\b(faculty member(s){0,1}|teaching staff(s){0,1}|teaching and administrative staff(s){0,1}|staff(s){0,1})\\b.*"
+      ],
+      "type": "Faculty Members Number",
+      "level": 2
+    },
+    {
+      "rules": [
+        ".*\\b(taught programme(s){0,1}|major(s){0,1}|programme(s){0,1}|program(s){0,1})\\b.*"
+      ],
+      "type": "Taught Programmes Number",
+      "level": 1
+    }
+  ]
+}

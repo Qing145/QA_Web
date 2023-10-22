@@ -1,0 +1,483 @@
+FAST	Faculty of Applied Science and Textiles
+ABCT	Department of Applied Biology and Chemical Technology
+AMA	Department of Applied Mathematics
+AP	Department of Applied Physics
+ITC	Institute of Textiles and Clothing
+FB	Faculty of Business
+AF	School of Accounting and Finance
+LMS	Department of Logistics and Maritime Studies
+MM	Department of Management and Marketing
+FCE	Faculty of Construction and Environment
+BRE	Department of Building and Real Estate
+BEEE	Department of Building Environment and Energy Engineering
+CEE	Department of Civil and Environmental Engineering
+LSGI	Department of Land Surveying and Geo-Informatics
+FENG	Faculty of Engineering
+AAE	Department of Aeronautical and Aviation Engineering
+BME	Department of Biomedical Engineering
+COMP	Department of Computing
+EE	Department of Electrical Engineering
+EIE	Department of Electronic and Information Engineering
+ISE	Department of Industrial and Systems Engineering
+ME	Department of Mechanical Engineering
+FHSS	Faculty of Health and Social Sciences
+APSS	Department of Applied Social Sciences
+HTI	Department of Health Technology and Informatics
+RS	Department of Rehabilitation Sciences
+SN	School of Nursing
+SO	School of Optometry
+FH	Faculty of Humanities
+CBS	Department of Chinese and Bilingual Studies
+CC	Department of Chinese Culture
+ENGL	Department of English and Communication
+CIHK	Confucius Institute of Hong Kong
+ELC	English Language Centre
+GEC	General Education Centre
+SD	School of Design
+SHTM	School of Hotel and Tourism Management
+Department of English	Department of English and Communication
+P	Offices of the President
+AR	Academic Registry
+AADO	Alumni Affairs and Development Office
+CDO	Campus Development Office
+CFSO	Campus Facilities and Sustainability Office
+CPA	Communications and Public Affairs Office
+CPEO	Culture Promotion and Events Office
+EDC	Educational Development Centre
+FO	Finance Office
+GEO	Global Engagement Office
+HSO	Health and Safety Office
+HRO	Human Resources Office
+IC	Industrial Centre
+ITS	Information Technology Services Office
+IAEE	Institute of Advanced Executive Education
+IAU	Internal Audit Unit
+IPAO	Institutional Planning and Analytics Office
+JCDISI	Jockey Club Design Institute for Social Innovation
+KTEO	Knowledge Transfer and Entrepreneurship Office
+MDO	Mainland Development Office
+OGUR	Office of General University Requirements
+OUS	Office of Undergraduate Studies
+LIB	Pao Yue-kong Library
+PAIR	PolyU Academy for Interdisciplinary Research
+RISE	Research Institute For Smart Energy
+RISU	Research Institute for Sustainable Urban Development
+SAO	Student Affairs Office
+SLLO	Service-Learning and Leadership Office
+UHS	University Health Service
+AEML	UMF - Atomic Electron Microscopy Laboratory
+CEM	UMF - Centre for Electron Microscopy
+MRC	UMF - Materials Research Centre
+DFST	UMF - Micro/Nano Device Fabrication and Sensing Technologies
+U3DP	URF - 3D Printing
+UBSN	URF - Behavioral and Systems Neuroscience
+UBDA	URF - Big Data Analytics
+ULS	URF - Life Sciences
+
+PgD in International Tourism and Convention Management	International Tourism and Convention Management - PgD
+Postgraduate Diploma in International Tourism and Convention Management	International Tourism and Convention Management - PgD
+Postgraduate in International Tourism and Convention Management	International Tourism and Convention Management - PgD
+PgD in International Wine Management	International Wine Management - PgD
+Postgraduate Diploma in International Wine Management	International Wine Management - PgD
+Postgraduate in International Wine Management	International Wine Management - PgD
+PgD in Global Supply Chain Management	Global Supply Chain Management - PgD
+Postgraduate Diploma in Global Supply Chain Management	Global Supply Chain Management - PgD
+Postgraduate in Global Supply Chain Management	Global Supply Chain Management - PgD
+PgD in Manufacturing Systems Engineering and Management	Manufacturing Systems Engineering and Management - PgD
+Postgraduate Diploma in Manufacturing Systems Engineering and Management	Manufacturing Systems Engineering and Management - PgD
+Postgraduate in Manufacturing Systems Engineering and Management	Manufacturing Systems Engineering and Management - PgD
+PgD in International Shipping and Transport Logistics	International Shipping and Transport Logistics - PgD
+Postgraduate Diploma in International Shipping and Transport Logistics	International Shipping and Transport Logistics - PgD
+Postgraduate in International Shipping and Transport Logistics	International Shipping and Transport Logistics - PgD
+PgD in Engineering Business Management	Engineering Business Management - PgD
+Postgraduate Diploma in Engineering Business Management	Engineering Business Management - PgD
+Postgraduate in Engineering Business Management	Engineering Business Management - PgD
+PgD in Supply Chain and Logistics Management	Supply Chain and Logistics Management - PgD
+Postgraduate Diploma in Supply Chain and Logistics Management	Supply Chain and Logistics Management - PgD
+Postgraduate in Supply Chain and Logistics Management	Supply Chain and Logistics Management - PgD
+PgD in International Hospitality Management	International Hospitality Management - PgD
+Postgraduate Diploma in International Hospitality Management	International Hospitality Management - PgD
+Postgraduate in International Hospitality Management	International Hospitality Management - PgD
+PgD in Professional Accounting	Professional Accounting - PgD
+Postgraduate Diploma in Professional Accounting	Professional Accounting - PgD
+Postgraduate in Professional Accounting	Professional Accounting - PgD
+MA in Teaching Chinese as a Foreign Language	Teaching Chinese as a Foreign Language - MA
+Master of Arts in Teaching Chinese as a Foreign Language	Teaching Chinese as a Foreign Language - MA
+Master in Teaching Chinese as a Foreign Language	Teaching Chinese as a Foreign Language - MA
+Master of Teaching Chinese as a Foreign Language	Teaching Chinese as a Foreign Language - MA
+MA in Social Policy and Social Development	Social Policy and Social Development - MA
+Master of Arts in Social Policy and Social Development	Social Policy and Social Development - MA
+Master in Social Policy and Social Development	Social Policy and Social Development - MA
+Master of Social Policy and Social Development	Social Policy and Social Development - MA
+MA in Social Work (Family-centred Practice and Family Therapy)	Social Work (Family-centred Practice and Family Therapy) - MA
+Master of Arts in Social Work (Family-centred Practice and Family Therapy)	Social Work (Family-centred Practice and Family Therapy) - MA
+Master in Social Work (Family-centred Practice and Family Therapy)	Social Work (Family-centred Practice and Family Therapy) - MA
+Master of Social Work (Family-centred Practice and Family Therapy)	Social Work (Family-centred Practice and Family Therapy) - MA
+MA in Chinese Linguistics	Chinese Linguistics - MA
+Master of Arts in Chinese Linguistics	Chinese Linguistics - MA
+Master in Chinese Linguistics	Chinese Linguistics - MA
+Master of Chinese Linguistics	Chinese Linguistics - MA
+MA in Guidance and Counselling	Guidance and Counselling - MA
+Master of Arts in Guidance and Counselling	Guidance and Counselling - MA
+Master in Guidance and Counselling	Guidance and Counselling - MA
+Master of Guidance and Counselling	Guidance and Counselling - MA
+MA in English Studies for the Professions	English Studies for the Professions - MA
+Master of Arts in English Studies for the Professions	English Studies for the Professions - MA
+Master in English Studies for the Professions	English Studies for the Professions - MA
+Master of English Studies for the Professions	English Studies for the Professions - MA
+MA in Translating and Interpreting	Translating and Interpreting - MA
+Master of Arts in Translating and Interpreting	Translating and Interpreting - MA
+Master in Translating and Interpreting	Translating and Interpreting - MA
+Master of Translating and Interpreting	Translating and Interpreting - MA
+MA in School and Community Psychology	School and Community Psychology - MA
+Master of Arts in School and Community Psychology	School and Community Psychology - MA
+Master in School and Community Psychology	School and Community Psychology - MA
+Master of School and Community Psychology	School and Community Psychology - MA
+MA in Bilingual Corporate Communication	Bilingual Corporate Communication - MA
+Master of Arts in Bilingual Corporate Communication	Bilingual Corporate Communication - MA
+Master in Bilingual Corporate Communication	Bilingual Corporate Communication - MA
+Master of Bilingual Corporate Communication	Bilingual Corporate Communication - MA
+MA in Social Work (Mental Health)	Social Work (Mental Health) - MA
+Master of Arts in Social Work (Mental Health)	Social Work (Mental Health) - MA
+Master in Social Work (Mental Health)	Social Work (Mental Health) - MA
+Master of Social Work (Mental Health)	Social Work (Mental Health) - MA
+MA in Chinese Culture	Chinese Culture - MA
+Master of Arts in Chinese Culture	Chinese Culture - MA
+Master in Chinese Culture	Chinese Culture - MA
+Master of Chinese Culture	Chinese Culture - MA
+MA in Fashion and Textile Design	Fashion and Textile Design - MA
+Master of Arts in Fashion and Textile Design	Fashion and Textile Design - MA
+Master in Fashion and Textile Design	Fashion and Textile Design - MA
+Master of Fashion and Textile Design	Fashion and Textile Design - MA
+MF in Professional Accounting	Professional Accounting - MF
+Master of Finance in Professional Accounting	Professional Accounting - MF
+Master in Professional Accounting	Professional Accounting - MF
+Master of Professional Accounting	Professional Accounting - MF
+MSc in Biomedical Engineering	Biomedical Engineering - MSc
+Master of Science in Biomedical Engineering	Biomedical Engineering - MSc
+Master in Biomedical Engineering	Biomedical Engineering - MSc
+Master of Biomedical Engineering	Biomedical Engineering - MSc
+MSc in Operations Management	Operations Management - MSc
+Master of Science in Operations Management	Operations Management - MSc
+Master in Operations Management	Operations Management - MSc
+Master of Operations Management	Operations Management - MSc
+MSc in Applied Psychology	Applied Psychology - MSc
+Master of Science in Applied Psychology	Applied Psychology - MSc
+Master in Applied Psychology	Applied Psychology - MSc
+Master of Applied Psychology	Applied Psychology - MSc
+MSc in Human Resource Management (MHF/MHP)	Human Resource Management (MHF/MHP) - MSc
+Master of Science in Human Resource Management (MHF/MHP)	Human Resource Management (MHF/MHP) - MSc
+Master in Human Resource Management (MHF/MHP)	Human Resource Management (MHF/MHP) - MSc
+Master of Human Resource Management (MHF/MHP)	Human Resource Management (MHF/MHP) - MSc
+MSc in Geomatics (Geographic Information Systems)	Geomatics (Geographic Information Systems) - MSc
+Master of Science in Geomatics (Geographic Information Systems)	Geomatics (Geographic Information Systems) - MSc
+Master in Geomatics (Geographic Information Systems)	Geomatics (Geographic Information Systems) - MSc
+Master of Geomatics (Geographic Information Systems)	Geomatics (Geographic Information Systems) - MSc
+MSc in Environmental Management and Engineering	Environmental Management and Engineering - MSc
+Master of Science in Environmental Management and Engineering	Environmental Management and Engineering - MSc
+Master in Environmental Management and Engineering	Environmental Management and Engineering - MSc
+Master of Environmental Management and Engineering	Environmental Management and Engineering - MSc
+MSc in Manufacturing Systems Engineering and Management	Manufacturing Systems Engineering and Management - MSc
+Master of Science in Manufacturing Systems Engineering and Management	Manufacturing Systems Engineering and Management - MSc
+Master in Manufacturing Systems Engineering and Management	Manufacturing Systems Engineering and Management - MSc
+Master of Manufacturing Systems Engineering and Management	Manufacturing Systems Engineering and Management - MSc
+MSc in Engineering Business Management	Engineering Business Management - MSc
+Master of Science in Engineering Business Management	Engineering Business Management - MSc
+Master in Engineering Business Management	Engineering Business Management - MSc
+Master of Engineering Business Management	Engineering Business Management - MSc
+MSc in Medical Imaging and Radiation Science	Medical Imaging and Radiation Science - MSc
+Master of Science in Medical Imaging and Radiation Science	Medical Imaging and Radiation Science - MSc
+Master in Medical Imaging and Radiation Science	Medical Imaging and Radiation Science - MSc
+Master of Medical Imaging and Radiation Science	Medical Imaging and Radiation Science - MSc
+MSc in Finance (Investment Management)	Finance (Investment Management) - MSc
+Master of Science in Finance (Investment Management)	Finance (Investment Management) - MSc
+Master in Finance (Investment Management)	Finance (Investment Management) - MSc
+Master of Finance (Investment Management)	Finance (Investment Management) - MSc
+MSc in Applied Mathematics for Science and Technology	Applied Mathematics for Science and Technology - MSc
+Master of Science in Applied Mathematics for Science and Technology	Applied Mathematics for Science and Technology - MSc
+Master in Applied Mathematics for Science and Technology	Applied Mathematics for Science and Technology - MSc
+Master of Applied Mathematics for Science and Technology	Applied Mathematics for Science and Technology - MSc
+MSc in Urban Informatics and Smart Cities	Urban Informatics and Smart Cities - MSc
+Master of Science in Urban Informatics and Smart Cities	Urban Informatics and Smart Cities - MSc
+Master in Urban Informatics and Smart Cities	Urban Informatics and Smart Cities - MSc
+Master of Urban Informatics and Smart Cities	Urban Informatics and Smart Cities - MSc
+MSc in Medical Physics	Medical Physics - MSc
+Master of Science in Medical Physics	Medical Physics - MSc
+Master in Medical Physics	Medical Physics - MSc
+Master of Medical Physics	Medical Physics - MSc
+MSc in Construction and Real Estate	Construction and Real Estate - MSc
+Master of Science in Construction and Real Estate	Construction and Real Estate - MSc
+Master in Construction and Real Estate	Construction and Real Estate - MSc
+Master of Construction and Real Estate	Construction and Real Estate - MSc
+MSc in Construction Law and Dispute Resolution	Construction Law and Dispute Resolution - MSc
+Master of Science in Construction Law and Dispute Resolution	Construction Law and Dispute Resolution - MSc
+Master in Construction Law and Dispute Resolution	Construction Law and Dispute Resolution - MSc
+Master of Construction Law and Dispute Resolution	Construction Law and Dispute Resolution - MSc
+MSc in Global Hospitality Business	Global Hospitality Business - MSc
+Master of Science in Global Hospitality Business	Global Hospitality Business - MSc
+Master in Global Hospitality Business	Global Hospitality Business - MSc
+Master of Global Hospitality Business	Global Hospitality Business - MSc
+MSc in Applied Psychology (Diverse Learning Needs)	Applied Psychology (Diverse Learning Needs) - MSc
+Master of Science in Applied Psychology (Diverse Learning Needs)	Applied Psychology (Diverse Learning Needs) - MSc
+Master in Applied Psychology (Diverse Learning Needs)	Applied Psychology (Diverse Learning Needs) - MSc
+Master of Applied Psychology (Diverse Learning Needs)	Applied Psychology (Diverse Learning Needs) - MSc
+MSc in Hospitality Business Innovation	Hospitality Business Innovation - MSc
+Master of Science in Hospitality Business Innovation	Hospitality Business Innovation - MSc
+Master in Hospitality Business Innovation	Hospitality Business Innovation - MSc
+Master of Hospitality Business Innovation	Hospitality Business Innovation - MSc
+MSc in Marketing Management (MKF/MKP)	Marketing Management (MKF/MKP) - MSc
+Master of Science in Marketing Management (MKF/MKP)	Marketing Management (MKF/MKP) - MSc
+Master in Marketing Management (MKF/MKP)	Marketing Management (MKF/MKP) - MSc
+Master of Marketing Management (MKF/MKP)	Marketing Management (MKF/MKP) - MSc
+MSc in Global Supply Chain Management	Global Supply Chain Management - MSc
+Master of Science in Global Supply Chain Management	Global Supply Chain Management - MSc
+Master in Global Supply Chain Management	Global Supply Chain Management - MSc
+Master of Global Supply Chain Management	Global Supply Chain Management - MSc
+MSc in International Tourism and Convention Management	International Tourism and Convention Management - MSc
+Master of Science in International Tourism and Convention Management	International Tourism and Convention Management - MSc
+Master in International Tourism and Convention Management	International Tourism and Convention Management - MSc
+Master of International Tourism and Convention Management	International Tourism and Convention Management - MSc
+MSc in Business Administration	Business Administration - MSc
+Master of Science in Business Administration	Business Administration - MSc
+Master in Business Administration	Business Administration - MSc
+Master of Business Administration	Business Administration - MSc
+MSc in Operational Research and Risk Analysis	Operational Research and Risk Analysis - MSc
+Master of Science in Operational Research and Risk Analysis	Operational Research and Risk Analysis - MSc
+Master in Operational Research and Risk Analysis	Operational Research and Risk Analysis - MSc
+Master of Operational Research and Risk Analysis	Operational Research and Risk Analysis - MSc
+MSc in International Shipping and Transport Logistics	International Shipping and Transport Logistics - MSc
+Master of Science in International Shipping and Transport Logistics	International Shipping and Transport Logistics - MSc
+Master in International Shipping and Transport Logistics	International Shipping and Transport Logistics - MSc
+Master of International Shipping and Transport Logistics	International Shipping and Transport Logistics - MSc
+MSc in Supply Chain and Logistics Management	Supply Chain and Logistics Management - MSc
+Master of Science in Supply Chain and Logistics Management	Supply Chain and Logistics Management - MSc
+Master in Supply Chain and Logistics Management	Supply Chain and Logistics Management - MSc
+Master of Supply Chain and Logistics Management	Supply Chain and Logistics Management - MSc
+MSc in Fire and Safety Engineering	Fire and Safety Engineering - MSc
+Master of Science in Fire and Safety Engineering	Fire and Safety Engineering - MSc
+Master in Fire and Safety Engineering	Fire and Safety Engineering - MSc
+Master of Fire and Safety Engineering	Fire and Safety Engineering - MSc
+MSc in Business Analytics (MAF/MAP)	Business Analytics (MAF/MAP) - MSc
+Master of Science in Business Analytics (MAF/MAP)	Business Analytics (MAF/MAP) - MSc
+Master in Business Analytics (MAF/MAP)	Business Analytics (MAF/MAP) - MSc
+Master of Business Analytics (MAF/MAP)	Business Analytics (MAF/MAP) - MSc
+MSc in International Hospitality Management	International Hospitality Management - MSc
+Master of Science in International Hospitality Management	International Hospitality Management - MSc
+Master in International Hospitality Management	International Hospitality Management - MSc
+Master of International Hospitality Management	International Hospitality Management - MSc
+MSc in Rehabilitation of People with Developmental Disabilities	Rehabilitation of People with Developmental Disabilities - MSc
+Master of Science in Rehabilitation of People with Developmental Disabilities	Rehabilitation of People with Developmental Disabilities - MSc
+Master in Rehabilitation of People with Developmental Disabilities	Rehabilitation of People with Developmental Disabilities - MSc
+Master of Rehabilitation of People with Developmental Disabilities	Rehabilitation of People with Developmental Disabilities - MSc
+MSc in Knowledge and Technology Management	Knowledge and Technology Management - MSc
+Master of Science in Knowledge and Technology Management	Knowledge and Technology Management - MSc
+Master in Knowledge and Technology Management	Knowledge and Technology Management - MSc
+Master of Knowledge and Technology Management	Knowledge and Technology Management - MSc
+MSc in Aviation Engineering	Aviation Engineering - MSc
+Master of Science in Aviation Engineering	Aviation Engineering - MSc
+Master in Aviation Engineering	Aviation Engineering - MSc
+Master of Aviation Engineering	Aviation Engineering - MSc
+MSc in Global Food Safety Management and Risk Analysis	Global Food Safety Management and Risk Analysis - MSc
+Master of Science in Global Food Safety Management and Risk Analysis	Global Food Safety Management and Risk Analysis - MSc
+Master in Global Food Safety Management and Risk Analysis	Global Food Safety Management and Risk Analysis - MSc
+Master of Global Food Safety Management and Risk Analysis	Global Food Safety Management and Risk Analysis - MSc
+MSc in Biomedical Engineering (Digital Health)	Biomedical Engineering (Digital Health) - MSc
+Master of Science in Biomedical Engineering (Digital Health)	Biomedical Engineering (Digital Health) - MSc
+Master in Biomedical Engineering (Digital Health)	Biomedical Engineering (Digital Health) - MSc
+Master of Biomedical Engineering (Digital Health)	Biomedical Engineering (Digital Health) - MSc
+MSc in International Wine Management	International Wine Management - MSc
+Master of Science in International Wine Management	International Wine Management - MSc
+Master in International Wine Management	International Wine Management - MSc
+Master of International Wine Management	International Wine Management - MSc
+MSc in Electrical Engineering	Electrical Engineering - MSc
+Master of Science in Electrical Engineering	Electrical Engineering - MSc
+Master in Electrical Engineering	Electrical Engineering - MSc
+Master of Electrical Engineering	Electrical Engineering - MSc
+MSc in High Performance Buildings	High Performance Buildings - MSc
+Master of Science in High Performance Buildings	High Performance Buildings - MSc
+Master in High Performance Buildings	High Performance Buildings - MSc
+Master of High Performance Buildings	High Performance Buildings - MSc
+MSc in Civil Engineering	Civil Engineering - MSc
+Master of Science in Civil Engineering	Civil Engineering - MSc
+Master in Civil Engineering	Civil Engineering - MSc
+Master of Civil Engineering	Civil Engineering - MSc
+MSc in Mechanical Engineering	Mechanical Engineering - MSc
+Master of Science in Mechanical Engineering	Mechanical Engineering - MSc
+Master in Mechanical Engineering	Mechanical Engineering - MSc
+Master of Mechanical Engineering	Mechanical Engineering - MSc
+MSc in Biomedical Engineering (Rehabilitation Engineering)	Biomedical Engineering (Rehabilitation Engineering) - MSc
+Master of Science in Biomedical Engineering (Rehabilitation Engineering)	Biomedical Engineering (Rehabilitation Engineering) - MSc
+Master in Biomedical Engineering (Rehabilitation Engineering)	Biomedical Engineering (Rehabilitation Engineering) - MSc
+Master of Biomedical Engineering (Rehabilitation Engineering)	Biomedical Engineering (Rehabilitation Engineering) - MSc
+MSc in Rehabilitation Sciences	Rehabilitation Sciences - MSc
+Master of Science in Rehabilitation Sciences	Rehabilitation Sciences - MSc
+Master in Rehabilitation Sciences	Rehabilitation Sciences - MSc
+Master of Rehabilitation Sciences	Rehabilitation Sciences - MSc
+MSc in Medical Laboratory Science	Medical Laboratory Science - MSc
+Master of Science in Medical Laboratory Science	Medical Laboratory Science - MSc
+Master in Medical Laboratory Science	Medical Laboratory Science - MSc
+Master of Medical Laboratory Science	Medical Laboratory Science - MSc
+MSc in Manipulative Physiotherapy	Manipulative Physiotherapy - MSc
+Master of Science in Manipulative Physiotherapy	Manipulative Physiotherapy - MSc
+Master in Manipulative Physiotherapy	Manipulative Physiotherapy - MSc
+Master of Manipulative Physiotherapy	Manipulative Physiotherapy - MSc
+MSc in Accounting and Finance Analytics	Accounting and Finance Analytics - MSc
+Master of Science in Accounting and Finance Analytics	Accounting and Finance Analytics - MSc
+Master in Accounting and Finance Analytics	Accounting and Finance Analytics - MSc
+Master of Accounting and Finance Analytics	Accounting and Finance Analytics - MSc
+MSc in Industrial Logistics Systems	Industrial Logistics Systems - MSc
+Master of Science in Industrial Logistics Systems	Industrial Logistics Systems - MSc
+Master in Industrial Logistics Systems	Industrial Logistics Systems - MSc
+Master of Industrial Logistics Systems	Industrial Logistics Systems - MSc
+MSc in Project Management	Project Management - MSc
+Master of Science in Project Management	Project Management - MSc
+Master in Project Management	Project Management - MSc
+Master of Project Management	Project Management - MSc
+MSc in Electronic and Information Engineering	Electronic and Information Engineering - MSc
+Master of Science in Electronic and Information Engineering	Electronic and Information Engineering - MSc
+Master in Electronic and Information Engineering	Electronic and Information Engineering - MSc
+Master of Electronic and Information Engineering	Electronic and Information Engineering - MSc
+MSc in Accountancy	Accountancy - MSc
+Master of Science in Accountancy	Accountancy - MSc
+Master in Accountancy	Accountancy - MSc
+Master of Accountancy	Accountancy - MSc
+MSc in Finance (Financial Economics in Energy and Environment)	Finance (Financial Economics in Energy and Environment) - MSc
+Master of Science in Finance (Financial Economics in Energy and Environment)	Finance (Financial Economics in Energy and Environment) - MSc
+Master in Finance (Financial Economics in Energy and Environment)	Finance (Financial Economics in Energy and Environment) - MSc
+Master of Finance (Financial Economics in Energy and Environment)	Finance (Financial Economics in Energy and Environment) - MSc
+MSc in Information Technology	Information Technology - MSc
+Master of Science in Information Technology	Information Technology - MSc
+Master in Information Technology	Information Technology - MSc
+Master of Information Technology	Information Technology - MSc
+MSc in Corporate Governance	Corporate Governance - MSc
+Master of Science in Corporate Governance	Corporate Governance - MSc
+Master in Corporate Governance	Corporate Governance - MSc
+Master of Corporate Governance	Corporate Governance - MSc
+MSc in Data Science and Analytics	Data Science and Analytics - MSc
+Master of Science in Data Science and Analytics	Data Science and Analytics - MSc
+Master in Data Science and Analytics	Data Science and Analytics - MSc
+Master of Data Science and Analytics	Data Science and Analytics - MSc
+MSc in Occupational Therapy	Occupational Therapy - MSc
+Master of Science in Occupational Therapy	Occupational Therapy - MSc
+Master in Occupational Therapy	Occupational Therapy - MSc
+Master of Occupational Therapy	Occupational Therapy - MSc
+MSc in Geomatics (Surveying)	Geomatics (Surveying) - MSc
+Master of Science in Geomatics (Surveying)	Geomatics (Surveying) - MSc
+Master in Geomatics (Surveying)	Geomatics (Surveying) - MSc
+Master of Geomatics (Surveying)	Geomatics (Surveying) - MSc
+MSc in Sports Physiotherapy	Sports Physiotherapy - MSc
+Master of Science in Sports Physiotherapy	Sports Physiotherapy - MSc
+Master in Sports Physiotherapy	Sports Physiotherapy - MSc
+Master of Sports Physiotherapy	Sports Physiotherapy - MSc
+MSc in Sustainable Urban Development	Sustainable Urban Development - MSc
+Master of Science in Sustainable Urban Development	Sustainable Urban Development - MSc
+Master in Sustainable Urban Development	Sustainable Urban Development - MSc
+Master of Sustainable Urban Development	Sustainable Urban Development - MSc
+MSc in Nutrition and Healthy Ageing	Nutrition and Healthy Ageing - MSc
+Master of Science in Nutrition and Healthy Ageing	Nutrition and Healthy Ageing - MSc
+Master in Nutrition and Healthy Ageing	Nutrition and Healthy Ageing - MSc
+Master of Nutrition and Healthy Ageing	Nutrition and Healthy Ageing - MSc
+MSc in Finance (Corporate Finance)	Finance (Corporate Finance) - MSc
+Master of Science in Finance (Corporate Finance)	Finance (Corporate Finance) - MSc
+Master in Finance (Corporate Finance)	Finance (Corporate Finance) - MSc
+Master of Finance (Corporate Finance)	Finance (Corporate Finance) - MSc
+MSc in Blockchain Technology	Blockchain Technology - MSc
+Master of Science in Blockchain Technology	Blockchain Technology - MSc
+Master in Blockchain Technology	Blockchain Technology - MSc
+Master of Blockchain Technology	Blockchain Technology - MSc
+MSc in Facility Management	Facility Management - MSc
+Master of Science in Facility Management	Facility Management - MSc
+Master in Facility Management	Facility Management - MSc
+Master of Facility Management	Facility Management - MSc
+MEng in Building Services Engineering	Building Services Engineering - MEng
+Master of Engineering in Building Services Engineering	Building Services Engineering - MEng
+Master in Building Services Engineering	Building Services Engineering - MEng
+Master of Building Services Engineering	Building Services Engineering - MEng
+Doctor in Building Services Engineering	Building Services Engineering - Doctor
+Doctor of Building Services Engineering	Building Services Engineering - Doctor
+
+Hong Kong Polytechnic University	polyu
+
+LI Qing	Prof. LI Qing
+CAO Jiannong	Prof. CAO Jiannong
+CHEN Changwen	Prof. CHEN Changwen
+TAN Kay	Prof. TAN Kay Chen
+ZHANG Lei	Prof. ZHANG Lei John
+ZHANG Weixiong	Prof. ZHANG Weixiong
+RAYNAL Michel	Prof. RAYNAL Michel
+CHAN Chun	Dr CHAN Chun Bun Henry
+LEONG Hong	Dr LEONG Hong Va
+GUO Song	Prof. GUO Song
+HOORN Johan	Prof. HOORN Johan
+LI Wenjie	Prof LI Wenjie Maggie
+PATHAK Ajay	Prof. PATHAK Ajay Kumar
+WANG Dan	Prof. WANG Dan
+XIAO Bin	Prof. XIAO Bin
+YOU Jia	Prof. YOU Jia Jane
+CAO Yixin	Dr CAO Yixin
+CHUNG Fu	Dr CHUNG Fu Lai Korris
+LIU Yan	Dr LIU Yan Wang Dennis
+LOU Wei	Dr LOU Wei
+LUK Wing	Dr LUK Wing Pong Robert
+LUO Xiapu	Dr LUO Xiapu Daniel
+NGAI Grace	Dr NGAI Grace
+WANG Qixin	Dr WANG Qixin
+WU Xiaoming	Dr WU Xiaoming
+YANG Lei	Dr YANG Lei Ray
+YIU Man	Dr YIU Man Lung Ken
+ZHENG Yuanqing	Dr ZHENG Yuanqing
+HUANG Xiao	Dr HUANG Xiao
+LI Bo	Dr LI Bo
+LI Jing	Dr LI Jing Amelia
+LI Ping	Dr LI Ping
+PEI Yu	Dr PEI Yu Max
+SHI Jieming	Dr SHI Jieming
+YANG Bo	Dr YANG Bo
+ZHOU Kai	Dr ZHOU Kai
+CHEN Gong	Dr CHEN Gong
+DE CARNE	Dr DE CARNE DE CARNAVALET Xavier
+FAN Wenqi	Dr FAN Wenqi
+GAO Shang	Dr GAO Shang Jason
+JIANG Shan	Dr JIANG Shan
+LI Chen	Dr LI Chen Richard
+LIN Wanyu	Dr LIN Wanyu
+LYU Mingsong	Dr LYU Mingsong
+SAXENA Divya	Dr SAXENA Divya
+SHEN Jiaxing	Dr SHEN Jiaxing
+WEI Junqiu	Dr WEI Junqiu Victor
+XIA Xianjin	Dr XIA Xianjin
+XU Linchuan	Dr XU Linchuan
+XU Wenchao	Dr XU Wenchao
+XUE Lei	Dr XUE Lei Jeremy
+YANG Yu	Dr YANG Yu
+YU Le	Dr YU Le
+ZHANG Chen	Dr ZHANG Chen Jason
+ZHANG Mengyuan	Dr ZHANG Mengyuan Maggie
+FUNG Sui	Dr FUNG Sui Leung Walter
+LUI Wing	Dr LUI Wing Cheung Richard
+NG Hiu	Dr NG Hiu Fung Peter
+YUEN Kam	Dr YUEN Kam Fung Kevin
+MAK Ting	Mr MAK Ting Hon Alvin
+
+TCM	Traditional Chinese Medicine Clinic
+SCC	Student Computer Centre
+JCA	Jockey Club Auditorium
+JCA Backstage Door	Jockey Club Auditorium Backstage Door
+FS	Faculty of Science
+
+bdd	binary decision diagram
+svm	support vector machine
+rnn	recurrent neural network
+lbp	local binary pattern
+rl	reinforcement learning
+moo	multi objective optimizations
+crfs	conditional random fields
+mas	multi agent system
+fis	fuzzy inference system
+dop	dynamic optimization problem
+sift	scale invariant feature transform
+cbr	case-based reasoning
+programming language	prolog
+ml	machine learning
+nlp	natural language processing
+ai	artificial intelligence

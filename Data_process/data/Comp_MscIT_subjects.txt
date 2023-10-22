@@ -1,0 +1,42 @@
+COMP5111|Subject Name|Database Systems and Management
+COMP5112|Subject Name|Data Structures and Database Systems
+COMP5121|Subject Name|Data Mining and Data Warehousing Applications
+COMP5122|Subject Name|E-Commerce Fundamentals and Development
+COMP5123|Subject Name|Intelligent Information Systems
+COMP5131|Subject Name|Introduction to Information Systems
+COMP5132|Subject Name|Information Systems Acquisition and Integration
+COMP5133|Subject Name|Information Systems and E-Commerce Strategy
+COMP5134|Subject Name|IS Development with OO Methods
+COMP5135|Subject Name|Information Systems Audit and Control
+COMP5138|Subject Name|Services Science Management
+COMP5139|Subject Name|Management Information Systems
+COMP5152|Subject Name|Advanced Data Analytics
+COMP5220|Subject Name|Information Systems Project Management
+COMP5221|Subject Name|Software Project Management
+COMP5222|Subject Name|Software Testing and Quality Assurance
+COMP5241|Subject Name|Software Engineering and Development
+COMP5311|Subject Name|Internet Infrastructure and Protocols
+COMP5321|Subject Name|Enterprise Web and Internet Computing for Managers
+COMP5322|Subject Name|Internet Computing and Applications
+COMP5327|Subject Name|Wireless Networking and Mobile Computing
+COMP5331|Subject Name|Web Advertising and Web Publishing
+COMP5355|Subject Name|Cyber and Internet Security
+COMP5422|Subject Name|Multimedia Computing, Systems and Applications
+COMP5423|Subject Name|Natural Language Processing
+COMP5434|Subject Name|Big Data Computing
+COMP5511|Subject Name|Artificial Intelligence Concepts
+COMP5512|Subject Name|Information Technology and Logistics
+COMP5513|Subject Name|Financial Computing
+COMP5517|Subject Name|Human Computer Interaction
+COMP5521|Subject Name|Distributed Ledger Technology Cryptocurrency and E-Payment
+COMP5523|Subject Name|Computer Vision and Image Processing
+COMP5524|Subject Name|Workflow Management and Collaborative Systems
+COMP5538|Subject Name|Customer Relationship Management and Technology
+COMP5541|Subject Name|Machine Learning and Data Analytics
+COMP5542|Subject Name|Optimization and Applications
+COMP5923|Subject Name|Independent Study
+COMP5924|Subject Name|IT Startup: From Idea to Business Plan
+COMP5933|Subject Name|Project
+COMP5940|Subject Name|Dissertation
+COMP6434|Subject Name|Big Data Analytics and Artificial Intelligence
+COMP6521|Subject Name|Cryptography and Blockchain

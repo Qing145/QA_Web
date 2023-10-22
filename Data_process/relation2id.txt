@@ -1,0 +1,26 @@
+25
+Taught Postgraduate Programmes	0
+Sports Facilities	1
+Student Halls of Residence	2
+Catering	3
+University Health Service	4
+Global Student Hub	5
+Student Lockers	6
+Student Affairs Office	7
+Library	8
+Email	9
+Full Name	10
+Website	11
+Students Number (2022)	12
+Graduates Number(2021,June)	13
+Faculty Members Number	14
+Taught Programmes Number	15
+Telephone	16
+Duration	17
+Faculty	18
+School	19
+Department	20
+Mode of Study	21
+Tuition	22
+Rank	23
+Location	24

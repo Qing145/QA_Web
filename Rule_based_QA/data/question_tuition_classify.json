@@ -1,0 +1,11 @@
+{
+  "rules_array": [
+    {
+      "rules": [
+        ".*\\b(master|msc|program|programme|master of science|postgraduate|graduate|graduation|major)\\b.*"
+      ],
+      "type": "Tuition",
+      "level": 3
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+Faculty of Applied Science & Textiles|Department|Department of Applied Biology and Chemical Technology
+Faculty of Applied Science & Textiles|Department|Department of Applied Mathematics
+Faculty of Applied Science & Textiles|Department|Department of Applied Physics 
+Faculty of Applied Science & Textiles|Department|Institute of Textiles and Clothing
+Faculty of Humanities|Department|Department of Chinese and Bilingual Studies
+Faculty of Humanities|Department|Department of Chinese Culture
+Faculty of Humanities|Department|Department of English and Communication
+Faculty of Humanities|Department|Chinese Language Centre
+Faculty of Humanities|Department|Confucius Institute of Hong Kong
+Faculty of Humanities|Department|English Language Centre
+Faculty of Business|Department|School of Accounting and Finance
+Faculty of Business|Department|Department of Logistics and Maritime Studies
+Faculty of Business|Department|Department of Management and Marketing
+Faculty of Engineering|Department|Department of Aeronautical and Aviation Engineering
+Faculty of Engineering|Department|Department of Biomedical Engineering
+Faculty of Engineering|Department|Department of Computing
+Faculty of Engineering|Department|Department of Electrical Engineering
+Faculty of Engineering|Department|Department of Electronic and Information Engineering
+Faculty of Engineering|Department|Department of Industrial and Systems Engineering
+Faculty of Engineering|Department|Department of Mechanical Engineering
+Faculty of Health & Social Sciences|Department|Department of Applied Social Sciences
+Faculty of Health & Social Sciences|Department|Department of Health Technology and Informatics
+Faculty of Health & Social Sciences|Department|Department of Rehabilitation Sciences
+Faculty of Health & Social Sciences|Department|School of Nursing
+Faculty of Health & Social Sciences|Department|School of Optometry

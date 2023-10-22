@@ -1,0 +1,11 @@
+General Enquiries|Email|web.master@polyu.edu.hk
+Academic|Email|ar.dept@polyu.edu.hk
+Alumni Affairs|Email|alumni@polyu.edu.hk
+Pao Yue-kong Library|Email|lbviews@polyu.edu.hk
+Faculty of Engineering|Email|denquiry@polyu.edu.hk
+Faculty of Science|Email|fs.contact@polyu.edu.hk
+Faculty of Humanities|Email|fh.enquiry@polyu.edu.hk
+Faculty of Business|Email|fb.enquiry@polyu.edu.hk
+Faculty of Construction and Environment|Email|faculty.ce@polyu.edu.hk
+Faculty of Health and Social Sciences|Email|fhss.email@polyu.edu.hk
+School of Design|Email|sdweb@polyu.edu.hk

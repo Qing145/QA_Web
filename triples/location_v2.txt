@@ -1,0 +1,215 @@
+Faculty of Applied Science and Textiles (FAST)|Location|Room TU502, 5/F, Yip Kit Chuen Building (Core T)
+Department of Applied Biology and Chemical Technology (ABCT)|Location|Room Y828, 8/F, Lee Shau Kee Building (Block Y)
+Department of Applied Mathematics (AMA)|Location|Room TU732, 7/F, Yip Kit Chuen Building (Core T)
+Department of Applied Physics (AP)|Location|Room CD616, 6/F, CMA Building (Core C)
+Institute of Textiles and Clothing (ITC)|Location|Room QT715, 7/F, Chow Yei Ching Building (Core Q)
+Faculty of Business (FB)|Location|Room M923, 9/F, Li Ka Shing Tower (Block M)
+School of Accounting and Finance (AF)|Location|Room M715, 7/F, Li Ka Shing Tower (Block M)
+Department of Logistics and Maritime Studies (LMS)|Location|Room M628, 6/F, Li Ka Shing Tower (Block M)
+Department of Management and Marketing (MM)|Location|Room M801, 8/F, Li Ka Shing Tower (Block M)
+Faculty of Construction and Environment (FCE)|Location|Room ZS1201, 12/F, South Tower, Block Z
+Department of Building and Real Estate (BRE)|Location|Room ZS725, 7/F, South Tower, Block Z
+Department of Building Environment and Energy Engineering (BEEE)|Location|Room ZS867, 8/F, South Tower, Block Z
+Department of Civil and Environmental Engineering (CEE)|Location|Room ZS972, 9/F, South Tower, Block Z
+Department of Land Surveying and Geo-Informatics (LSGI)|Location|Room ZS621, 6/F, South Tower, Block Z
+Faculty of Engineering (FENG)|Location|Room AG711, 7/F, Chung Sze Yuen Building (Core A)
+Department of Aeronautical and Aviation Engineering (AAE)|Location|Room QR821, 8/F, Choi Kai Yau Building (Core R)
+Department of Biomedical Engineering (BME)|Location|Room ST415, 4/F, Ng Wing Hong Building (Core S)
+Department of Computing (COMP)|Location|Room PQ806, 8/F, Mong Man Wai Building (Core P)
+Department of Electrical Engineering (EE)|Location|Room CF620, 6/F Tang Ping Yuan Building (Core F)
+Department of Electronic and Information Engineering (EIE)|Location|Room DE614, 6/F, Lui Che Woo Building (Core E)
+Department of Industrial and Systems Engineering (ISE)|Location|Room EF625, 6/F, Chan Sui Wai Building (Core E)
+Department of Mechanical Engineering (ME)|Location|Room FG622, 6/F, Kinmay W. Tang Building (Core F)
+Faculty of Health and Social Sciences (FHSS)|Location|Room A401, 4/F, Chung Sze Yuen Building (Core A)
+Department of Applied Social Sciences (APSS)|Location|Room HJ402, 4/F, Stanley Ho Building (Core J)
+Department of Health Technology and Informatics (HTI)|Location|Room Y934, 9/F, Lee Shau Kee Building (Block Y)
+Department of Rehabilitation Sciences (RS)|Location|Room QT512, 5/F, Chow Yei Ching Building (Core Q)
+School of Nursing (SN)|Location|Room GH506, 5/F, Wing GH (Core G)
+School of Optometry (SO)|Location|Room HJ502, 5/F, Stanley Ho Building (Core J)
+Faculty of Humanities (FH)|Location|Room GH801, 8/F, Wing GH (Core G)
+Department of Chinese and Bilingual Studies (CBS)|Location|Room AG522, 5/F, Chung Sze Yuen Building (Core A)
+Department of Chinese Culture (CC)|Location|Room HJ631, 6/F, Stanley Ho Building (Core J)
+Department of English (ENGL)|Location|Room AG428, 4/F, Chung Sze Yuen Building (Core A)
+Confucius Institute of Hong Kong (CIHK)|Location|Room AG204, 2/F, Chung Sze Yuen Building (Core A)
+English Language Centre (ELC)|Location|Room AG612, 6/F, Chung Sze Yuen Building (Core A)
+General Education Centre (GEC)|Location|Room A501, 5/F, Chung Sze Yuen Building (Core A)
+School of Design (SD)|Location|Room V810, 8/F, Jockey Club Innovation Tower (Block V)
+School of Hotel and Tourism Management (SHTM)|Location|17 Science Museum Road, TST East (Beside Hotel ICON)
+Offices of the President (P)|Location|President's Office, 18/F, Li Ka Shing Tower (Block M)
+Academic Registry (AR)|Location|Room M101, 1/F, Li Ka Shing Tower (Block M)
+Alumni Affairs and Development Office (AADO)|Location|Room M1504, 15/F, Li Ka Shing Tower (Block M)
+Campus Development Office (CDO)|Location|Room Z517, 5/F, North Tower, Block Z
+Campus Facilities and Sustainability Office (CFSO)|Location|Room ZS301, 3/F, South Tower, Block Z
+Communications and Public Affairs Office (CPA)|Location|Room M1604, 16/F, Li Ka Shing Tower (Block M)
+Council and Court Secretariat|Location|Room M1601, 16/F, Li Ka Shing Tower (Block M)
+Culture Promotion and Events Office (CPEO)|Location|Jockey Club Auditorium (Beside Core T)
+Educational Development Centre (EDC)|Location|Room TU629, 6/F, Yip Kit Chuen Building (Core T)
+Finance Office (FO)|Location|11/F, Li Ka Shing Tower (Block M)
+Global Engagement Office (GEO)|Location|Room ST305, 3/F, Ng Wing Hong Building (Core S)
+Health and Safety Office (HSO)|Location|Room Z402, 4/F, North Tower, Block Z
+Human Resources Office (HRO)|Location|Room M1301, 13/F, Li Ka Shing Tower (Block M)
+Industrial Centre (IC)|Location|Room W309, Industrial Centre (Block W)
+Information Technology Services Office (ITS)|Location|Room ZS501, 5/F, South Tower, Block Z
+Institute of Advanced Executive Education (IAEE)|Location|Room QR702, 7/F, Choi Kai Yau Building (Core R)
+Internal Audit Unit (IAU)|Location|Room M1406, 14/F, Li Ka Shing Tower (Block M)
+Institutional Planning and Analytics Office (IPAO)|Location|Room M1402, 14/F, Li Ka Shing Tower (Block M)
+Jockey Club Design Institute for Social Innovation (JCDISI)|Location|Room V1218, 12/F, Jockey Club Innovation Tower (Block V)
+Knowledge Transfer and Entrepreneurship Office (KTEO)|Location|Room QR702, 7/F, Choi Kai Yau Building (Core R)
+Mainland Development Office (MDO)|Location|Room R701, 7/F, Shirley Chan Building (Core R)
+Office of General University Requirements (OGUR)|Location|Room TU403, 4/F, Yip Kit Chuen Building (Core T)
+Office of Undergraduate Studies (OUS)|Location|Room TU406, 4/F, Yip Kit Chuen Building (Core T)
+Pao Yue-kong Library (LIB)|Location|Pao Yue-kong Library (Block L)
+PolyU Academy for Interdisciplinary Research (PAIR)|Location|Room HJ201, Podium Level, Stanley Ho Building, The Hong Kong Polytechnic University
+Research and Innovation Office (RIO) - Research Grants & Contracts|Location|Room Z404, 4/F, Block Z
+Research and Innovation Office (RIO) - Partnership Development, Major Projects and General Support|Location|Room GH256, GH Podium Annexe
+Research Institute For Smart Energy (RISE)|Location|Room ZN1001, 10/F, Block Z
+Research Institute for Sustainable Urban Development (RISU)|Location|Room ZS1202, 12/F, South Tower, Block Z
+Student Affairs Office (SAO)|Location|Room QT308, 3/F Chow Yei Ching Building (Core T)
+Service-Learning and Leadership Office (SLLO)|Location|Room TU428, 4/F, Yip Kit Chuen Building (Core T)
+University Health Service (UHS)|Location|Room A001, G/F, Chung Sze Yuen Building (Core A)
+UMF - Atomic Electron Microscopy Laboratory (AEML)|Location|W205, P/F, Ho Lu Kwong Building (Block W)
+UMF - Centre for Electron Microscopy (CEM)|Location|CF002, G/F, Tang Ping Yuan Building (Core F)
+UMF - Cleanroom Facility|Location|HJ705, 7/F, Stanley Ho Building (Core J)
+UMF - Materials Research Centre (MRC)|Location|BC710, 7/F, Wing BC
+UMF - Micro/Nano Device Fabrication and Sensing Technologies (DFST)|Location|CD002, G/F, CMA Building (Wing CD)
+URF - 3D Printing (U3DP)|Location|W501, Block W
+URF - Behavioral and Systems Neuroscience (UBSN)|Location|LG2, Block Z
+URF - Big Data Analytics (UBDA)|Location|Room P505, 5/F, Core P
+URF - Life Sciences (ULS)|Location|Y401, Block Y
+Core A|Location|Core A (G/F)
+Core B|Location|Core B
+Core C|Location|Core C
+Core D|Location|Core D
+Core E|Location|Core E
+Core F|Location|Core F
+Core G|Location|Core G
+Core H|Location|Core H
+Core J|Location|Core J
+Block L (Pao Yue-Kong Library)|Location|Block L
+Block M (Li Ka Shing Tower)|Location|Block M
+Block N|Location|Block N
+Core P|Location|Core P
+Core P (Anita Chan Lai Ling Building)|Location|Anita Chan Lai Ling Building (Core P)
+Core P (House of Innovation)|Location|G/F, Core P
+Core Q|Location|Core Q
+Core R (Shirley Chan Building)|Location|Shirley Chan Building (Core R)
+Core S|Location|Core S
+Core S (Communal Building)|Location|Communal Building (Beside Core S)
+Core T|Location|Core T
+Core U (Realink Building)|Location|Realink Building (Core U)
+Block V (Jockey Club Innovation Tower)|Location|Jockey Club Innovation Tower (Block V)
+Block VA (Shaw Amenities Building)|Location|Block VA
+Block VS (Shaw Sports Complex)|Location|Block VS
+Block W (Ho Iu Kwong Building)|Location|Ho Iu Kwong Building (Block W)
+Block W (Industrial Centre)|Location|Industrial Centre (Block W)
+Block X|Location|Block X
+Block Y (Lee Shau Kee Building)|Location|Lee Shau Kee Building (Block Y)
+Block Z|Location|Block Z
+Wing AG (Chung Sze Yuen Building)|Location|Chung Sze Yuen Building (Core A)
+Wing BC|Location|Wing BC
+Wing CD (CMA Building)|Location|CMA Building (Core C)
+Wing CF (Tang Ping Yuan Building)|Location|Tang Ping Yuan Building (Core F)
+Wing DE (Lui Che Woo Building)|Location|Lui Che Woo Building (Core E)
+Wing EF (Chan Sui Wai Building)|Location|Chan Sui Wai Building (Core E)
+Wing FG (Kinmay W. Tang Building)|Location|Kinmay W. Tang Building (Core F)
+Wing FJ (Chan Tai Ho Building)|Location|Chan Tai Ho Building (Core J)
+Wing GH|Location|Wing GH
+Wing GH (GH Podium Annexe)|Location|GH Podium Annexe
+Wing HJ (Stanley Ho Building)|Location|Stanley Ho Building (Core J)
+Wing PQ (Mong Man Wai Building)|Location|Mong Man Wai Building (Core P)
+Wing QR (Choi Kai Yau Building)|Location|Choi Kai Yau Building (Core R)
+Wing QT (Chow Yei Ching Building)|Location|Chow Yei Ching Building (Core Q)
+Wing ST (Ng Wing Hong Building)|Location|Ng Wing Hong Building (Core S)
+Wing TU (Yip Kit Chuen Building)|Location|Yip Kit Chuen Building (Core T)
+Jockey Club Auditorium|Location|Jockey Club Auditorium (Beside Core Q)
+Hotel ICON|Location|Hotel ICON
+PolyU Hung Hom Bay Campus|Location|8 Hung Lok Road, Hung Hom, Kowloon, Hong Kong
+PolyU West Kowloon Campus|Location|9 Hoi Ting Road, Yau Ma Tei, Kowloon, Hong Kong
+Hall of Residence (Homantin)|Location|Student Halls of Residence (Homantin)
+Hall of Residence (Hung Hom)|Location|Student Halls of Residence (Hung Hom)
+University House|Location|University House (Beside Hotel ICON)
+Alumni Atrium|Location|Alumni Atrium (Core A)
+Amenities Centre|Location|Amenities Centre (Beside Core S)
+Block X Sports Centre|Location|Block X Sports Centre (Block X)
+Campus Control Centre|Location|Room P111, 1/F, Anita Chan Lai Ling Building (Core P)
+Chan Sui Kau and Chan Lam Moon Chun Square|Location|Chan Sui Kau and Chan Lam Moon Chun Square (Beside Block N)
+Chiang Chen Studio Theatre|Location|Chiang Chen Studio Theatre (Core A)
+Finance Office Cashier Office|Location|VA205, Shaw Amenities Building
+Fong Shu Chuen Hall|Location|Fong Shu Chuen Hall (Beside Block VS)
+Global Student Hub|Location|Global Student Hub (Beside Core T)
+Ho Iu Kwong and Kwok Pui Chun Square|Location|Ho Iu Kwong and Kwok Pui Chun Square (Beside Block W)
+House of Innovation|Location|House of Innovation (Core P)
+IT HelpCentre|Location|Room M201, 2/F, Li Ka Shing Tower (Block M)
+ITC STORE|Location|Room HJ211, Podium Level, Stanley Ho Building (Core J)
+Innovation Gallery|Location|Jockey Club Innovation Tower (Podium Floor)
+Jockey Club Auditorium (JCA)|Location|Jockey Club Auditorium (Beside Core T)
+Jockey Club Auditorium Backstage Door (JCA Backstage Door)|Location|G/F, Core R (enter through Block N)
+Jockey Club Rehabilitation Engineering Centre|Location|Room GH041, The Hong Kong Polytechnic University, Hung Hom, Kowloon
+Kwong On Jubilee Sports Centre|Location|Kwong On Jubilee Sports Centre (Beside Core S)
+Lam Tai Fai Amphitheatre|Location|Lam Tai Fai Amphitheatre (Beside Core T)
+Lawn|Location|Lawn (Beside Core P)
+Michael Clinton Swimming Pool|Location|Michael Clinton Swimming Pool (Block VS)
+Pao Yue-Kong Library|Location|Pao Yue-Kong Library (Block L)
+PolyU InnoHub|Location|4/F, Jockey Club Innovation Tower
+Shaw Sports Complex|Location|Shaw Sports Complex (Block VS)
+Stephen Cheong Kam Chuen Memorial Plaza|Location|Stephen Cheong Kam Chuen Memorial Plaza (Beside Block L)
+Student Computer Centre (SCC)|Location|3/F & 4/F, Li Ka Shing Tower (Block M)
+Student Halls of Residence (Homantin)|Location|Student Halls of Residence (Homantin)
+Student Halls of Residence (Hung Hom)|Location|Student Halls of Residence (Hung Hom)
+Suen Chi Sun Memorial Square|Location|Suen Chi Sun Memorial Square (Beside Block VA)
+TST District Kaifong Welfare Association Square|Location|TST District Kaifong Welfare Association Square (Beside Core A)
+Tang Ping Yuan Square|Location|Tang Ping Yuan Square (Beside Core B)
+Bank|Location|Block VA
+Bookshop|Location|Podium Level, Shaw Amenities Building
+Carpark|Location|G/F, Li Ka Shing Tower (Block M)
+Postbox|Location|Cross Harbour Tunnel Toll Plaza
+Bus Station|Location|Hong Kong PolyU Phase 8, Chatham Road North - Block Z & Main entrance of the Hong Kong Polytechnic University - Core A & Cross Harbour Tunnel Toll Plaza - Cross Harbour Tunnel to HK & Cross Harbour Tunnel Toll Plaza - Cross Harbour Tunnel to KLN
+Taxi Drop-off Point to Block Z|Location|Block Y(G/F)
+Taxi Drop-off Point to Main Campus|Location|Core S (G/F)
+Taxi Station|Location|Core B
+7-Eleven|Location|Podium level, Shaw Amenities Building (Core VA)
+Communal Staff Restaurant|Location|4/F, Communal Building, next to Core S
+Communal Student Canteen|Location|3/F, Communal Building, next to Core S
+Communal Student Restaurant|Location|4/F, Communal Building, next to Core S
+H Cafe|Location|Podium level, Courtyard surrounded by Cores F, G, H and J
+Lassana Coffee|Location|Podium level, Ho Iu Kwong Building (Block W)
+Lawn Cafe|Location|G/F, Block N
+Library Cafe|Location|Podium level, Pao Yue-kong Library
+SUBWAY|Location|Podium level, Shaw Amenities Building (Core VA)
+V Cafe|Location|Podium level, Jockey Club Innovation Tower(Block V)
+VA Staff Canteen|Location|G/F, Shaw Amenities Building (Core VA)
+VA Student Canteen|Location|G/F, Shaw Amenities Building (Core VA)
+X Cafe|Location|Podium level, Block X
+Z Canteen|Location|2/F, Block Z
+azito|Location|G/F, Chung Sze Yuen Building (Core A),  next to the Chiang Chen Studio Theatre
+Dental Clinic|Location|Room GH020, G/F, Wing GH (Core H)
+Integrative Health Clinic|Location|Room AG057, G/F, Wing AG (Core A)
+Jockey Club Rehabilitation Engineering Clinic|Location|Room GH041, The Hong Kong Polytechnic University, Hung Hom, Kowloon
+Jockey Club Smart Ageing Hub|Location|Room GH041, The Hong Kong Polytechnic University, Hung Hom, Kowloon
+Optometry Clinic|Location|Room A034, G/F, Chung Sze Yuen Building (Core A)
+Radiography Clinic|Location|Room GH021, G/F, Wing GH
+Rehabilitation Clinic|Location|Room AG056, G/F, Chung Sze Yuen Building (Core A)
+Traditional Chinese Medicine Clinic (UHS)|Location|Room A125, 1/F, Chung Sze Yuen Building (Core A)
+University Health Service|Location|Room A001, G/F, Chung Sze Yuen Building (Core A)
+Allen Shi Lop Tak Lecture Theatre|Location|2/F, Block Z (Z205)
+Cheung On Tak Lecture Theatre|Location|Podium level, Yip Kit Chuen Building (Core T, TU201)
+Daniel Koo Lecture Theatre|Location|3/F, Mong Man Wai Building (Core P, PQ303)
+Fiona Cheung Sum Yu Lecture Theatre|Location|G/F, Student Halls of Residence (Hung Hom)
+Lam Chik Ho Lecture Theatre|Location|2/F, Block Z (Z209)
+Lecture Theatre|Location|3/F, Chan Tai Ho Building  (Core F, FJ302) & 3/F, Chan Tai Ho Building  (Core F, FJ304) & 3/F, Stanley Ho Building (Core J, HJ302) & 3/F, Stanley Ho Building (Core J, HJ303) & 3/F, Stanley Ho Building (Core J, HJ304) & 3/F, Stanley Ho Building (Core J, HJ305) & 3/F, Mong Man Wai Building (Core P, PQ305) & 3/F, Mong Man Wai Building (Core P, PQ306) & 3/F, Jockey Club Innovation Tower (Block V, V322)
+Lee Wan Keung Lecture Theatre|Location|2/F, Block Z (Z211)
+Lim Por Yen Lecture Theatre|Location|G/F, Block N (N001/N002)
+Lu Guan Qiu Lecture Theatre|Location|1/F, Yip Kit Chuen Building (Core T, TU107)
+Ngan Pui Ying Lecture Theatre|Location|2/F, Block Z (Z207)
+Samantha Wan Lecture Theatre|Location|3/F, Mong Man Wai Building (Core P, PQ304)
+Tang Kui Ming Lecture Theatre|Location|3/F, Lee Shau Kee Building (Block Y, Y302)
+Tin Ka Ping Lecture Theatre|Location|1/F, Yip Kit Chuen Building (Core T, TU101)
+Tsang Sze Ho Wah Lecture Theatre|Location|3/F, Lee Shau Kee Building (Block Y, Y301)
+Winnie Ko Pui Shuen Lecture Theatre|Location|3/F, Chan Tai Ho Building  (Core F, FJ301)
+Wofoo Foundation Lecture Theatre|Location|3/F, Chan Tai Ho Building  (Core F, FJ303)
+Wong's International Lecture Theatre|Location|1/F, Yip Kit Chuen Building (Core T, TU103)
+Yu Tung Shan Lecture Theatre|Location|G/F, Block N (N003)
+Toilet|Location|Core C & Core E & Core H & Core P & Core Q & Core T & Core U & Block V & Block VA & Block VS & Block W & Block X & Block Y & Block Z & Communal Building
+Accessible Toilet|Location|Core A & Core C & Core H & Block V & Block VA & Block W & Block X & Block Y & Block Z & Core S
+Water Station|Location|Podium Level, Core C & Podium Level, Core D & Podium Level, Core E & Podium Level, Core H & Podium Level, Core J & 1/F, Block M & G/F, Block N & Podium Level, Core P & Podium Level, Core Q & Podium Level, Core R & Podium Level, Core T & Podium Level, Core U & 3/F, Block V & G/F, Block VA & G/F, Block X & Podium Level, Block Y & 2/F, Block Z
+AED|Location|Block X - G/F, Sports Centre service counter & Block Z - 2/F, service counter next to Rm Z208 & Campus Control Centre - Room P111 & Communal Building - B1 Level, Kwong On Jubilee Sports Centre & Core B - G/F, next to guard booth entrance & Core E - P/F, entrance next to emergency phone & Core J - P/F, entrance next to emergency phone & Core R - P/F, lift lobby next to emergency phone & Student Halls of Residence (Homantin Halls) 1/F next to Service Counter Fitness Room & Student Halls of Residence (Homantin Halls) G/F Control Room & HKCC (Hung Hom Bay Campus) - LG/F lift lobby & Student Halls of Residence (Hunghom Halls)- 2/F Fitness Room & Student Halls of Residence (Hunghom Halls) G/F Control Room & Jockey Club Auditorium - at B2 counter & Jockey Club Auditorium - at Foyer counter & Jockey Club Innovation Tower - P/F Entrance, service counter & Jogging Track - G/F, back of JCIT & Core Y, Lee Shau Kee Building - P/F, next to counter & Library - P/F, staircase, next to emergency phone & SHTM premises - G/F lobby & Shaw Amenities Building - G/F next to emergency phone outside Gymnasium & HKCC (West Kowloon Campus) - LG/F lift lobby of South Tower

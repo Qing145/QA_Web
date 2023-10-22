@@ -1,0 +1,26 @@
+Student Lockers|Website|https://www.polyu.edu.hk/saolocker/
+Student Affairs Office (SAO)|Website|https://www.polyu.edu.hk/sao/
+Optometry Clinic|Website|https://www.polyu.edu.hk/so/optometry-clinic/
+Rehabilitation Clinic|Website|https://www.polyu.edu.hk/rs/rehabclinic/en/home/index.html
+Student Dental Service|Website|https://polyu.bjdental.com
+Traditional Chinese Medicine|Website|https://www.polyu.edu.hk/uhs/our-services/chinese-medicine/general-information/
+Travel Health Clinic|Website|https://www.polyu.edu.hk/uhs/preventive-care/travel-health-clinic/
+General Enquiries|Website|https://www.polyu.edu.hk/contact-us/form.php
+Alumni Affairs|Website|https://www.polyu.edu.hk/alumni/
+Pao Yue-kong Library (LIB)|Website|https://www.lib.polyu.edu.hk/
+polyu|Website|https://www.polyu.edu.hk/
+Faculty of Science (FS)|Website|https://www.polyu.edu.hk/fs/
+Faculty of Humanities (FH)|Website|https://www.polyu.edu.hk/fh/
+Faculty of Business (FB)|Website|https://www.polyu.edu.hk/fb/
+Faculty of Construction and Environment (FCE)|Website|https://www.polyu.edu.hk/fce/
+Faculty of Engineering (FENG)|Website|https://www.polyu.edu.hk/feng/
+Faculty of Health and Social Sciences (FHSS)|Website|https://www.polyu.edu.hk/fhss/
+School of Design (SD)|Website|https://www.sd.polyu.edu.hk/en/
+School of Hotel and Tourism Management (SHTM)|Website|https://shtm.polyu.edu.hk/
+Shaw Sports Complex|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Fong Shu Chuen Hall|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Kwong On Jubilee Sports Centre|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Block X Sports Centre|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Michael Clinton Swimming Pool|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Block X Swimming Pool|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/
+Joint Sports Centre|Website|https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/

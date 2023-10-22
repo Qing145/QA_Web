@@ -1,0 +1,398 @@
+bag-of-visual-words|Application|image classification, retrieval
+multilayer perceptrons|Application|speech recognition, image recognition, machine translation software
+apriori algorithm|Application|market basket analysis
+epistemic logic|Application|philosophy, theoretical computer science, artificial intelligence, economics, linguistics
+bayesian inference|Application|science, engineering, philosophy, medicine
+swarm intelligence|Application|cluster analysis, Swarm Intelligence
+human activity recognition|Application|interactive education
+action recognition|Application|interactive education
+activity recognition|Application|interactive education
+cellular automaton|Application|physics, theoretical biology, microstructure modeling, Cellular Automata
+semantic relatedness|Application|information retrieval, recommender systems, natural language processing
+semantic distance|Application|information retrieval, recommender systems, natural language processing
+dialogue management|Application|business enterprises, education, government, healthcare, entertainment
+dialogue system|Application|business enterprises, education, healthcare, entertainment
+inductive logic programming|Application|bioinformatics, natural language processing
+extreme learning machine|Application|classification, regression, clustering, sparse approximation, compression, feature learning
+numerical optimization|Application|computer science, operations research
+multiobjective optimization|Application|economics, logistics
+multi-objective differential evolution|Application|engineering, economics, logistics
+multi objective algorithm|Application|economics, logistics
+word sense disambiguation|Application|search engines
+multi-criteria decision analysis|Application|politics, business, environment, energy
+multi-criteria decision making|Application|politics, business, environment, energy
+intelligence analysis|Application|business intelligence, competitive intelligence
+intelligence analyst|Application|business intelligence, competitive intelligence
+natural deduction|Application|modal second-order logic
+relation extraction|Application|gene-disease relationships, protein-protein interaction
+text mining|Application|Intelligence, Knowledge Management
+text mining technique|Application|Intelligence, Knowledge Management
+smart environment|Application|smart homes, smart cities, smart manufacturing
+machine learning|Application|medicine, email filtering, speech recognition, computer vision
+bayesian filtering|Application|probability theory, statistics, machine learning
+gesture recognition|Application|sound synthesis, Motion Tracking and Gesture Recognition
+deep belief network|Application|electroencephalography
+attitude control|Application|robotics, computer vision, Spacecraft Attitude Determination and Control
+generative adversarial network|Application|semi-supervised learning
+topic model|Application|bioinformatics, computer vision
+image descriptor|Application|images, videos, algorithms
+water craft|Application|hovercraft
+affect recognition|Application|computer vision, speech recognition, Natural Language Processing
+emotion recognition|Application|computer vision, speech recognition, Natural Language Processing
+mobile manipulator|Application|space exploration, military operations, home-care, health-care
+mobile manipulation|Application|space exploration, military operations, home-care, health-care
+gated recurrent unit|Application|polyphonic music modeling, speech signal modeling, natural language processing
+decision tree learning|Application|statistics, data mining, machine learning
+formal logic|Application|philosophy, mathematics, computer science, linguistics
+records management|Application|risk management
+electronic record|Application|risk management
+finite model theory|Application|descriptive complexity theory, database theory, formal language theory
+first order logic|Application|mathematics, philosophy, linguistics, computer science
+first-order formula|Application|mathematics, philosophy, linguistics, computer science
+content management|Application|News organizations, e-commerce websites, educational institutions
+mixed strategy|Application|chess, poker
+ant system|Application|quadratic assignment, protein folding, routing vehicles
+decision tree induction|Application|statistics, data mining, machine learning
+camshift|Application|electric multiple units, electric locomotives
+horn clause|Application|logic programming, formal specification, model theory
+human emotion|Application|psychology, medicine, history, sociology, computer science
+social software|Application|Social Project Management, e-learning applications
+telehealth|Application|administration provider education
+evolutionary computation|Application|prediction problems, system identification
+fitness function|Application|genetic programming, genetic algorithms
+interval temporal logic|Application|computer science, artificial intelligence, linguistics
+bhattacharyya coefficient|Application|feature extraction, image processing
+radio spectrum|Application|mobile radio, navigation devices
+proof search|Application|endgame solvers
+laser range finder|Application|real estate
+evolutionary process|Application|agriculture, medicine, computer science
+monadic second-order logic|Application|Software verification, Formal verification
+smart city|Application|health, transportation, entertainment, government services
+common-sense|Application|science, politics, economics
+commonsense|Application|politics, economics
+zero moment point|Application|humanoid or quadrupedal robots
+object detection|Application|image retrieval, video surveillance, 2D Object Detection and Recognition
+moving-object detection|Application|image retrieval, video surveillance
+individual rationality|Application|political science, sociology, philosophy
+pareto principle|Application|Engineering, quality control
+lexical resource|Application|digital lexicography, natural language processing, digital humanities
+k-means clustering|Application|market segmentation, computer vision, astronomy
+inference|Application|expert systems
+description logic|Application|biomedical informatics
+suction cup|Application|octopuses, squids
+logic programming|Application|fault diagnosis, natural language processing, machine learning
+logic program|Application|fault diagnosis, natural language processing, machine learning
+ontology language|Application|computer science, artificial intelligence
+model checking problem|Application|software systems
+model-checking technique|Application|software systems
+mcmc method|Application|Bayesian statistics, computational physics, computational biology, computational linguistics, Markov Chain Monte Carlo
+markov chain monte carlo method|Application|Bayesian statistics, computational physics, computational biology, computational linguistics
+formal ontology|Application|information science
+type inference|Application|programming languages, mathematical type systems
+soft computing|Application|neural networks, fuzzy logic, genetic algorithms
+gabor filter|Application|image processing, computer vision
+cross-language information retrieval|Application|media monitoring, information filtering, routing, sentiment analysis, information extraction
+radial basis function|Application|machine learning
+radial based function|Application|machine learning
+text clustering|Application|automatic document organization, topic extraction, fast information retrieval, filtering
+document clustering|Application|automatic document organization, topic extraction, fast information retrieval, filtering
+parallel corpus|Application|language education
+bilingual corpus|Application|language education
+feature recognition|Application|manufacturability evaluation
+uml profile|Application|aerospace
+data clustering|Application|data analysis
+cluster validation|Application|data analysis
+cluster analysis|Application|data analysis
+convolutional neural network|Application|object detection
+gabor wavelet|Application|image processing
+temporal logic|Application|formal verification, Temporal Logic and State Systems
+facial expression recognition|Application|computer science, psychology, cognitive science
+maximum entropy model|Application|discrete continuous density estimation
+sequent calculus|Application|theoretical analysis
+cognitive system|Application|advanced web search engines
+artificial intelligence|Application|advanced web search engines
+human motion analysis|Application|medicine, sports, video surveillance, physical therapy, kinesiology
+question answering|Application|machine reading applications, Open-Domain Question Answering
+cognitive modeling|Application|box-and-arrow diagrams
+facial action coding system|Application|psychologists
+smart material|Application|actuators
+intelligent material|Application|actuators
+human pose estimation|Application|computer vision, robotics
+computer keyboard|Application|word processor, web browser, social media app
+cnf formula|Application|automated theorem proving, circuit theory
+inverse document frequency|Application|information retrieval, text mining, user modeling
+term frequency|Application|information retrieval, text mining, user modeling
+wideband spectrum|Application|sensor data collection, precision locating
+organizational learning|Application|entrepreneurship, economic growth
+kernel trick|Application|geostatistics
+knowledge representation|Application|databases, semantic nets, theorem provers, production systems, Knowledge Representation and Reasoning
+knowledge representation and reasoning|Application|databases, semantic nets, theorem provers, production systems
+decision analysis|Application|business schools, industrial engineering
+relational algebra|Application|database query languages
+hand tracking|Application|gesture recognition, image processing
+hand motion|Application|gesture recognition, image processing
+sentiment analysis|Application|customer service
+sentiment classification|Application|customer service
+opinion mining|Application|customer service
+graphical model|Application|probability theory, statistics, particularly Bayesian statistics, machine learning
+probabilistic graphical model|Application|probability theory, statistics, particularly Bayesian statistics, machine learning
+graphical modeling|Application|probability theory, statistics, particularly Bayesian statistics, machine learning
+candidate solution|Application|linear programming problems
+translation system|Application|online collaboration, medical field
+automatic translation|Application|online collaboration, medical field
+machine translation|Application|online collaboration, medical field
+machine translation system|Application|online collaboration, medical field
+content based filtering|Application|Youtube
+word embedding|Application|syntactic parsing, sentiment analysis
+synset|Application|information retrieval
+named entity recognition|Application|molecular biology, bioinformatics, medical natural language processing communities
+color histogram|Application|image processing, photography
+learning from demonstration|Application|simulation-based optimization
+decision rule|Application|statistics, economics
+real-time scheduling algorithm|Application|input/output verifications, code analysis
+boolean satisfiability|Application|artificial intelligence, circuit design, automatic theorem proving
+feature set|Application|analysis
+event calculus|Application|database updates
+activity model|Application|systems engineering, software engineering, computer science
+action language|Application|artificial intelligence robotics domains
+human-robot interface|Application|computer operating systems
+k-nn classifier|Application|classification, regression
+k nearest neighbor algorithm|Application|classification, regression
+penalty function|Application|Image compression optimization algorithms
+kinect|Application|real-time gesture recognition, body skeletal detection
+microsoft kinect|Application|real-time gesture recognition, body skeletal detection
+modal logic|Application|philosophy, epistemology, metaphysics, natural language semantics
+knowledge discovery process|Application|IT portfolio management, software assurance
+manifold learning|Application|computer-vision
+manifold learning algorithm|Application|computer-vision
+image identification|Application|industrial machine vision systems
+image understanding|Application|industrial machine vision systems
+humanoid robot|Application|reception-desk administrators, automotive manufacturing line workers
+humanoid robotics|Application|reception-desk administrators, automotive manufacturing line workers
+subject heading|Application|search engine
+ion implantation|Application|semiconductor device fabrication, metal finishing
+linear temporal logic|Application|formal verification
+satisfiability|Application|first-order logic, second-order logic
+automatic vehicle identification|Application|vehicle repossession, recovery
+fuzzy clustering analysis|Application|surface science, biology, medicine, psychology, economics
+filter bank|Application|graphic equalizer
+intelligent decision support system|Application|knowledge sharing
+graph matching|Application|computer vision, pattern recognition
+active appearance model|Application|faces
+real-time object tracking|Application|healthcare industry
+potential game|Application|distributed resource allocation
+personal health record|Application|pharmacies, care providers
+linear logic|Application|programming languages, game semantics, quantum physics
+robot learning|Application|reinforcement learning, developmental robotics
+wordnet|Application|automatic text analysis, artificial intelligence applications
+link prediction|Application|commerce
+intelligent transportation|Application|basic management systems
+commonsense reasoning|Application|autonomous robots
+ambient assisted living|Application|residential care home, assisted care living facilities, personal care homes
+system theory|Application|philosophy, General System Theory, Linear System Theory
+automatic image annotation|Application|image retrieval systems
+image annotation|Application|image retrieval systems
+ensemble classifier|Application|neuroscience, proteomics, medical diagnosis
+ensemble learning|Application|neuroscience, proteomics, medical diagnosis, Ensemble Machine Learning
+eye detection|Application|wheel chairs, robotic arms, prostheses
+syntactic structure|Application|word order
+natural language generation|Application|horoscope machines, personalised business letters
+bayesian estimation|Application|sequential estimation
+bayesian estimator|Application|sequential estimation
+backpropagation|Application|simple feedforward networks
+human robot interaction|Application|medicine, companionship
+wiki|Application|project communication, intranets
+algorithmic game theory|Application|financial interactions, communication load-balancing
+systems design|Application|systems theory, product development
+real robot|Application|video game adaptations
+gibbs sampling|Application|statistical inference
+visual feature|Application|machine learning, pattern recognition
+image feature|Application|machine learning, pattern recognition
+neural network model|Application|pattern recognition, handwriting recognition
+robot hand|Application|laboratory automation
+robotic hand|Application|laboratory automation
+utility function|Application|Economic agents
+argumentation framework|Application|artificial intelligence
+rule base|Application|artificial intelligence applications
+communicating sequential processes|Application|secure ecommerce system
+natural language understanding|Application|human productivity, ecommerce, chatbot, virtual assistant
+natural language question|Application|human productivity, ecommerce
+strategy proof|Application|network routing
+game theory|Application|logic, systems science, computer science
+game-theoretic|Application|logic, systems science, computer science
+haar-like feature|Application|object recognition
+datalog|Application|database systems
+historical document|Application|Anthropologists, archeologists
+price of stability|Application|Network design games
+classification rule|Application|computer programs
+background subtraction|Application|object recognition, Background Subtraction
+curse of dimensionality|Application|predictive performance
+propositional logic|Application|natural deduction, truth trees, truth tables
+evolutionary strategy|Application|anthropology, philosophy, political science
+evolutionary stable strategy|Application|anthropology, philosophy, political science
+evolutionarily stable strategy|Application|anthropology, philosophy, political science
+wireless microphone|Application|entertainment industry, television broadcasting, public speaking
+kripke semantics|Application|intuitionistic logic
+kripke model|Application|intuitionistic logic
+expectation propagation|Application|Kullback-Leibler divergence
+formal method|Application|safety-critical or security-critical software
+mediawiki|Application|United Nations
+face hallucination|Application|facial recognition systems
+formal model|Application|logic, mathematics, computer science, linguistics
+correlated equilibrium|Application|strategic game
+pattern recognition|Application|medical science
+best response|Application|stag hunt game
+face recognition|Application|human-computer interaction, video surveillance, automatic indexing, Face Detection and Recognition
+face recognition system|Application|human-computer interaction, video surveillance, automatic indexing, images
+human face recognition|Application|human-computer interaction, video surveillance, automatic indexing, images
+lexical semantics|Application|prototype theory
+stochastic game|Application|interacting decision makers
+automated reasoning|Application|knowledge representation, metalogic
+isomap|Application|data sources, dimensionalities
+translation process|Application|medical clinical trials
+ai planning|Application|intelligent agents, autonomous robots, unmanned vehicles
+zero-sum game|Application|poker, chess
+intelligent environment|Application|Healthcare Industry
+shape context|Application|object recognition
+random projection|Application|natural language tasks
+clause learning|Application|propositional satisfiability
+pareto dominance|Application|engineering, biology
+safety critical system|Application|Medical imaging devices
+emotional expression|Application|altruism, community engagement
+random forest classifier|Application|clusters
+principle component analysis|Application|data analysis
+depth estimation|Application|Photography
+face tracking|Application|real-time avatars
+decision tree|Application|decision analysis
+robot motion|Application|robot design, CAD software
+formal learning|Application|carpentry, agriculture, engineering, medicine, architecture
+decision theory|Application|statistical econometric methods
+cognitive wireless network|Application|machine learning, knowledge representation, computer network, network management
+cognitive network|Application|machine learning, knowledge representation, computer network, network management
+worst-case execution time|Application|computational task
+decision tree model|Application|computational problems, algorithms
+decision procedure|Application|traveling salesman problem
+dendrograms|Application|computational biology
+relevance feedback|Application|information retrieval systems
+pseudo relevance feedback|Application|information retrieval systems
+vehicle license plate|Application|trucks, motorcycles
+smart manufacturing|Application|big data processing capabilities, industrial connectivity devices, advanced robotics
+statistical language model|Application|speech recognition
+n-gram language model|Application|speech recognition
+evolutionary game theory|Application|economists, sociologists, anthropologists
+pneumatic cylinder|Application|catapults
+group decision-making|Application|partnerships
+functional dependency|Application|database normalization, denormalization
+automated theorem proving|Application|integrated circuit design
+coalgebra|Application|computer science
+product review|Application|local newspapers, general-interest magazines
+social robot|Application|mental health interventions
+social robotics|Application|mental health interventions
+boolean algebra|Application|digital electronics
+stigmergy|Application|building engineers, static engineers, building services engineers
+social cost|Application|monopolies
+optical character recognition|Application|pattern recognition, artificial intelligence, computer vision, Optical Character Recognition
+text detection|Application|pattern recognition, artificial intelligence, computer vision
+character recognition|Application|pattern recognition, artificial intelligence, computer vision, Optical Character Recognition, Character Recognition Systems
+system testing|Application|functional requirement specifications, system requirement specification
+nearest neighbor search|Application|entropy estimation
+patient data|Application|medical research, financial or management audits, program evaluation
+health record|Application|medical research, financial or management audits, program evaluation
+customer review|Application|dedicated review sites
+cognitive science|Application|psychology, neuroscience, computer science, systems theory
+non-player character|Application|gamemaster
+word segmentation|Application|mental processes
+chinese word segmentation|Application|mental processes
+genetic programming|Application|curve fitting, data modeling, symbolic regression, feature selection
+swarm robotics|Application|artificial swarm intelligence
+robotic swarm|Application|artificial swarm intelligence
+robot swarm|Application|artificial swarm intelligence
+swarm robot|Application|artificial swarm intelligence
+enterprise 2.0|Application|collaborative consumption platforms, mashup applications
+non-negative matrix factorization algorithm|Application|processing, audio spectrograms, muscular activity
+forecasting method|Application|hydrology, Forecasting: principles and practice
+forecasting accuracy|Application|hydrology
+forecasting technique|Application|hydrology
+program verification|Application|large computer networks
+knowledge management|Application|information, computer science, public health, public policy
+text data|Application|search technology
+textual data|Application|search technology
+real-time rendering|Application|geometry, rasterization
+underwater construction|Application|civil engineering, coastal engineering, petroleum extraction
+memetic|Application|environmental sustainability
+microrobot|Application|mobile robots
+multi-agent learning|Application|reciprocity, equity, social influence, discrimination
+word processing|Application|simple text editor
+dimensionality reduction|Application|noise reduction, data visualization, cluster analysis
+shapley value|Application|utility-sharing games
+human-robot collaboration|Application|homes, hospitals, offices, space exploration, manufacturing
+parse tree|Application|programming languages, natural language processing
+target recognition|Application|unmanned aerial vehicles, cruise missiles
+automatic target recognition|Application|unmanned aerial vehicles, cruise missiles
+natural language processing|Application|linguistics, computer science, artificial intelligence
+bayesian model|Application|Bayesian Statistics for the Social Sciences, Bayesian Model Selection and Statistical Modeling
+bayesian framework|Application|Quitting Certainties
+pso algorithm|Application|Particle Swarm Optimization, Swarm Intelligence and Bio-Inspired Computation
+evolutionary algorithm|Application|Evolutionary Computation
+particle swarm|Application|Particle Swarm Optimization, Particle Swarm Optimisation, Fractional Order Darwinian Particle Swarm Optimization
+back propagation neural network|Application|Backpropagation
+object recognition|Application|Natural Object Recognition, Visual Object Recognition
+image retrieval|Application|Content-Based Image Retrieval
+inference engine|Application|Parallel Inference Engine
+spectrum sensing|Application|Dynamic Spectrum Management
+classifier|Application|Multiple Classifier Systems
+bayesian classifier|Application|Thoughtful Machine Learning, Pattern Recognition
+particle swarm algorithm|Application|Particle Swarm Optimization
+text processing|Application|UNIX Text Processing
+color image|Application|Digital Color Image Processing, Color Image Processing
+local feature|Application|Local Invariant Feature Detectors
+intelligent control|Application|Intelligent Control Systems
+non-parametric bayesian|Application|Bayesian Nonparametrics
+evolutionary computation technique|Application|Evolutionary Computation
+image representation|Application|Image Representation and Processing
+variational bayesian|Application|Variational Bayesian Learning Theory
+forecasting model|Application|Forecasting: principles and practice
+document image|Application|Structured Document Image Analysis
+annealing|Application|Quantum Quenching, Annealing and Computation
+incentive mechanism|Application|Mobile Crowd Sensing: Incentive Mechanism Design
+image database|Application|Intelligent Image Database Systems
+multiple classifier|Application|Multiple Classifier Systems
+decision table|Application|Decision Table Languages and Systems
+quantum-behaved particle swarm optimization|Application|Particle Swarm Optimisation
+global optimal solution|Application|Global Optimization
+particle swarm optimization technique|Application|Particle Swarm Optimization
+Training, validation, and test sets|Application|machine learning
+four temperaments|Application|folk psychology
+ontology|Application|knowledge-based system
+knowledge acquisition|Application|knowledge-based system
+mathematical logic|Application|mathematical proof
+logical database model|Application|database
+reaction wheel|Application|artificial satellite
+statistical model|Application|statistical analysis
+Bayes' theorem|Application|Naive Bayes classifier
+region of interest|Application|optical character recognition, computer vision
+optical font|Application|optical character recognition
+stimulus–response model|Application|psychology
+recommender system|Application|Spotify, Netflix
+automated decision-making|Application|recommender system
+@|Application|modal logic
+subroutine|Application|subroutine call
+front banner|Application|demonstration
+knowledge|Application|knowledge management
+Structured Query Language|Application|relational database
+heuristic|Application|knowledge base
+citation needed|Application|wiki
+Closed-circuit television camera|Application|closed-circuit television
+facial recognition system|Application|border control
+question-answering dataset|Application|question-answering engine
+32-bit signed integer|Application|Structured Query Language
+64-bit signed integer|Application|Structured Query Language
+16-bit signed integer|Application|Structured Query Language
+8-bit signed integer|Application|Structured Query Language
+command|Application|imperative programming
+Odometry|Application|Robotics
+textual data format|Application|text file
+Ace|Application|MediaWiki
+OOUI|Application|MediaWiki
+MediaWiki wikitext|Application|MediaWiki
+graphology|Application|handwriting identification

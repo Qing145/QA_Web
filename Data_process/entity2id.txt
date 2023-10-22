@@ -1,0 +1,705 @@
+704
+polyu	0
+Accountancy - MSc	1
+Accounting and Finance Analytics - MSc	2
+Applied Language Sciences - Doctor	3
+Applied Mathematics for Science and Technology (Actuarial and Investment Science) - MSc	4
+Applied Mathematics for Science and Technology (Decision Science) - MSc	5
+Applied Psychology - Master	6
+Applied Psychology (Diverse Learning Needs) - Master	7
+Aviation Engineering - MSc	8
+Bilingual Corporate Communication - MA	9
+Biomedical Engineering - MSc	10
+Blockchain Technology - MSc	11
+Building Services Engineering - MEng	12
+Building Services Engineering - MSc	13
+Business Administration - Doctor	14
+Business Administration - Master	15
+Business Analytics - MSc	16
+Business Management - MSc	17
+China Business Studies - MSc	18
+Chinese Culture - MA	19
+Chinese Linguistics - MA	20
+Civil Engineering - MSc	21
+Construction and Real Estate - MSc	22
+Construction Law and Dispute Resolution - MSc	23
+Corporate Governance - Master	24
+Data Science and Analytics - MSc	25
+Design - Master	26
+Electrical Engineering - MSc	27
+Electronic and Information Engineering - MSc	28
+Engineering Business Management - MSc/PgD	29
+Engineering Doctorate - EngD	30
+English Studies for the Professions - MA	31
+Environmental Management and Engineering - MSc	32
+Facility Management - MSc	33
+Fashion and Textile Design - MA	34
+Fashion and Textiles - MA	35
+Finance (Corporate Finance) - Master	36
+Finance (Financial Economics in Energy and Environment) - Master	37
+Finance (Investment Management) - Master	38
+FinTech - Doctor	39
+Fire and Safety Engineering - MSc	40
+Geomatics (Geographic Information Systems) - MSc	41
+Geomatics (Surveying) - MSc	42
+Global Food Safety Management and Risk Analysis - MSc	43
+Global Hospitality Business - MSc	44
+Global Supply Chain Management - MSc/PgD	45
+Guidance and Counselling - MA	46
+Health Communication - Master	47
+Health Informatics - MSc	48
+Health Science - Doctor	49
+High Performance Buildings - MSc	50
+Hospitality and Tourism Management - MSc Scheme	51
+Hospitality Business Innovation - MSc	52
+Hotel and Tourism Management - Doctor	53
+Human Resource Management - MSc	54
+Industrial Logistics Systems - MSc	55
+Information Technology - MSc	56
+International Real Estate and Construction - Doctor	57
+International Shipping and Transport Logistics - MSc	58
+International Shipping and Transport Logistics - MSc/PgD	59
+Knowledge and Technology Management - MSc	60
+Manipulative Physiotherapy - MSc	61
+Manufacturing Systems Engineering and Management - MSc/PgD	62
+Marketing Management - MSc	63
+Mechanical Engineering - MSc	64
+Medical Imaging and Radiation Science - MSc	65
+Medical Laboratory Science - MSc	66
+Medical Physics - MSc	67
+Multimedia and Entertainment Technology - MSc	68
+Nursing - Master	69
+Nursing - MSc	70
+Nutrition and Healthy Ageing - MSc	71
+Occupational Therapy - MSc	72
+Operational Research and Risk Analysis - MSc	73
+Operations Management - MSc	74
+Professional Accounting - Master/PgD	75
+Project Management - MSc	76
+Rehabilitation of People with Developmental Disabilities - MSc	77
+Rehabilitation Sciences - MSc	78
+School and Community Psychology - MA	79
+Social Policy and Social Development - MA	80
+Social Work - Doctor	81
+Social Work - Master	82
+Social Work (Family-centred Practice and Family Therapy) - MA	83
+Social Work (Mental Health) - MA	84
+Speech Therapy - Master	85
+Sports Physiotherapy - MSc	86
+Supply Chain and Logistics Management - MSc/PgD	87
+Sustainable Urban Development - MSc	88
+Teaching Chinese as a Foreign Language - MA	89
+Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) - MA/PgD	90
+Translating and Interpreting - MA	91
+Urban Informatics and Smart Cities - MSc	92
+Shaw Sports Complex	93
+Fong Shu Chuen Hall	94
+Kwong On Jubilee Sports Centre	95
+Block X Sports Centre	96
+Michael Clinton Swimming Pool	97
+Block X Swimming Pool	98
+Joint Sports Centre	99
+Hung Hom	100
+Homantin	101
+Kowloon Tong	102
+Communal Staff Restaurant	103
+Communal Student Canteen	104
+Communal Student Restaurant	105
+H Cafe	106
+Lawn Cafe	107
+LibCafe	108
+Theatre Lounge	109
+V Cafe	110
+VA Kisok	111
+VA Staff Canteen	112
+VA Student Canteen	113
+W Kiosk	114
+X Cafe	115
+Z Restaurant	116
+Optometry Clinic	117
+Rehabilitation Clinic	118
+Staff Dental Service	119
+Student Counselling Service	120
+Student Dental Service	121
+Traditional Chinese Medicine	122
+Western Medicine	123
+Global Student Hub (GSH)	124
+Student Lockers	125
+Student Affairs Office (SAO)	126
+Travel Health Clinic	127
+Pao Yue-kong Library	128
+General Enquiries	129
+web.master@polyu.edu.hk	130
+Academic	131
+ar.dept@polyu.edu.hk	132
+Alumni Affairs	133
+alumni@polyu.edu.hk	134
+lbviews@polyu.edu.hk	135
+Master of Science in Accountancy	136
+Master of Science in Accounting and Finance Analytics	137
+Doctor of Applied Language Sciences	138
+Master of Science in Applied Mathematics for Science and Technology (Actuarial and Investment Science)	139
+Master of Science in Applied Mathematics for Science and Technology (Decision Science)	140
+Master of Applied Psychology	141
+Master of Applied Psychology (Diverse Learning Needs)	142
+Master of Science in Aviation Engineering	143
+Master of Arts in Bilingual Corporate Communication	144
+Master of Science in Biomedical Engineering	145
+Master of Science in Blockchain Technology	146
+Master of Engineering in Building Services Engineering	147
+Master of Science in Building Services Engineering	148
+Doctor of Business Administration	149
+Master of Business Administration	150
+Master of Science in Business Analytics	151
+Master of Science in Business Management	152
+Master of Science in China Business Studies	153
+Master of Arts in Chinese Culture	154
+Master of Arts in Chinese Linguistics	155
+Master of Science in Civil Engineering	156
+Master of Science in Construction and Real Estate	157
+https://www.polyu.edu.hk/saolocker/	158
+Student Affairs Office	159
+https://www.polyu.edu.hk/sao/	160
+https://www.polyu.edu.hk/so/optometry-clinic/	161
+https://www.polyu.edu.hk/rs/rehabclinic/en/home/index.html	162
+https://polyu.bjdental.com	163
+https://www.polyu.edu.hk/uhs/our-services/chinese-medicine/general-information/	164
+https://www.polyu.edu.hk/uhs/preventive-care/travel-health-clinic/	165
+https://www.polyu.edu.hk/contact-us/form.php	166
+https://www.polyu.edu.hk/alumni/	167
+https://www.lib.polyu.edu.hk/	168
+https://www.polyu.edu.hk/	169
+Faculty of Applied Science & Textiles	170
+https://www.polyu.edu.hk/fast/	171
+Faculty of Humanities	172
+https://www.polyu.edu.hk/fh/	173
+Faculty of Business	174
+https://www.polyu.edu.hk/fb/	175
+Faculty of Construction & Environment	176
+https://www.polyu.edu.hk/fce/	177
+Faculty of Engineering	178
+https://www.polyu.edu.hk/feng/	179
+Faculty of Health & Social Sciences	180
+https://www.polyu.edu.hk/fhss/	181
+School of Design	182
+https://www.sd.polyu.edu.hk/en/	183
+School of Hotel & Tourism Management	184
+https://shtm.polyu.edu.hk/	185
+https://www.polyu.edu.hk/sao/student-resources-and-support-section/facilities/sports-facilities/sports-facilities-and-opening-hours/	186
+e-Learning	187
+https://www.polyu.edu.hk/elearning/	188
+Good Practices (including Communities of Practice)	189
+https://www.polyu.edu.hk/CoP/2020/index.html	190
+Quality Assurance under the Outcome-Based Framework	191
+https://www.polyu.edu.hk/education/quality-assurance/	192
+General University Requirements	193
+https://www.polyu.edu.hk/ous/undergraduate-degree-curriculum/general-university-requirements/	194
+Study@PolyU	195
+http://www51.polyu.edu.hk/eprospectus/	196
+MOOC	197
+https://www.edx.org/school/hkpolyux	198
+27200+	199
+polyu Graduates (2021,June)	200
+448000+	201
+1240	202
+160+	203
+27665979	204
+Information Technology Services	205
+27665900	206
+27665225	207
+27666734	208
+27666800	209
+23309414	210
+27665553	211
+27665433	212
+Emergency Campus Security Service	213
+27667999	214
+Academic Registry	215
+23330600	216
+23283933	217
+23289886	218
+Student Restaurant	219
+23683869	220
+2766 5433	221
+27666863	222
+1.5 years (Full-time), 2.5 years (Part-time)	223
+1 year (Full-time), 2 years (Part-time)	224
+4 years (Full-time), 5 years (Part-time)	225
+2 years	226
+3 years	227
+1.5 years (Full-time), 2.5 years (Part-time), 2.5 years (Online Mode)	228
+1.5 years (Full-time), 3 years (Part-time)	229
+1 year (Full-time), 2.5 years (Part-time)	230
+2 years (Full-time), 3 years (Part-time)	231
+1 year	232
+Innovative Business Design - 1 year (Full-time), Intelligent Systems Design - 1 year (Full-time), Smart Service Design - 1 year (Full-time), Transitional Environments Design - 1 year (Full-time)	233
+3 years (Full-time), 5 years (Part-time)	234
+1.5 years	235
+1 year (Full-time), 3 years (Part-time)	236
+3 years (Full-time), 4 years (Part-time)	237
+1-1.5 years for MSc (Full-time), 1 year for PgD (Full-time), 3 years for MSc (Part-time), 2 years for PgD (Part-time)	238
+3-5 years	239
+2 years for MSc (Full-time), 2 years for PgD (Full-time), 2.5 years for MSc (Part-time), 2.5 years for PgD (Part-time)	240
+1.5 year (Full-time), 3 years (Part-time)	241
+12 months (from September to August of the following year)	242
+2 years (Full-time), 2.5 years (Part-time)	243
+1 year for Master (Full-time), 1 year for PgD (Full-time), 2 years for Master (Part-time), 1.5 years for PgD (Part-time)	244
+1 year (Full-time) with summer term, 2 years (Part-time) with summer terms	245
+3 years (Full-time) with summer terms, 4 years (Part-time) with summer terms	246
+2.5 years	247
+Department of Applied Biology and Chemical Technology	248
+Department of Applied Mathematics	249
+Department of Applied Physics	250
+Institute of Textiles and Clothing	251
+Department of Chinese and Bilingual Studies	252
+Department of Chinese Culture	253
+Department of English and Communication	254
+Chinese Language Centre	255
+Confucius Institute of Hong Kong	256
+English Language Centre	257
+School of Accounting and Finance	258
+Department of Logistics and Maritime Studies	259
+Department of Management and Marketing	260
+Department of Aeronautical and Aviation Engineering	261
+Department of Biomedical Engineering	262
+Department of Computing	263
+Department of Electrical Engineering	264
+Department of Electronic and Information Engineering	265
+Department of Industrial and Systems Engineering	266
+Department of Mechanical Engineering	267
+Department of Applied Social Sciences	268
+Department of Health Technology and Informatics	269
+Department of Rehabilitation Sciences	270
+School of Nursing	271
+School of Optometry	272
+Mixed Mode	273
+Full-time	274
+Part-time	275
+Mixed and On-line Mode	276
+On-line Mode	277
+Mixed ModeAccountancy - MSc	278
+HK$238,500 per programme (HK$7,950 per credit) for local students, HK$288,000 per programme (HK$9,600 per credit) for non-local students	279
+HK$238,500 per programme (HK$7,950 per credit) for local students, HK$294,000 per programme (HK$9,800 per credit) for non-local students	280
+HK$6,500 per credit	281
+HK$6,500 per credit for local and non-local students	282
+For local students HK$172,500 per programme (Taught subject: HK$5,350 per credit; Foundational Competencies: HK$7,350 per credit)	283
+HK$4,700 per credit for local students, HK$5,465 per credit for non-local students	284
+HK$4,150 per credit for local students, HK$5,340 per credit for non-local students	285
+HK$4,700 per credit for local students, HK$5,500 per credit for non-local students	286
+HK$9,800 per credit for local and non-local students	287
+HK$5,000 per credit for local students, HK$5,300 per credit for non-local students	288
+HK$5,500 per credit for local and non-local students	289
+HK$907,800 per programme (HK$17,800 per credit)	290
+HK$402,090 per programme (HK$10,310 per credit) for local and non-local students	291
+HK$254,200 per programme (HK$8,200 per credit) for local students, HK$300,080 per programme (HK$9,680 per credit) for non-local students	292
+HK$261,000 per programme (HK$7,250 per credit for 36 credits) for local students (excl. summer school), HK$295,200 per programme (HK$8,200 per credit for 36 credits) for non-local students (excl. summer school)	293
+HK$281,400 per programme (HK$6,900 per credit for 36 credits and HK$5,500 per credit for 6 credits) for local students, HK$313,800 per programme (HK$7,800 per credit for 36 credits and HK$5,500 per credit for 6 credits) for non-local students	294
+HK$6,000 per credit for local and non-local students	295
+HK$5,700 per credit for local and non-local students	296
+HK$4,850 per credit for local students, HK$5,550 per credit for non-local students	297
+HK$17,000 per module for local and non-local students	298
+HK$82,000 per semester for full-time mode, HK$10,250 per credit for part-time mode	299
+HK$4,150 per credit for local students, HK$5,460 per credit for non-local students	300
+HK$5,300 per credit for local and non-local students	301
+HK$5,150 per credit for local and non-local students	302
+HK$5,200 per credit for local and non-local students	303
+HK$270,000 per programme (HK$7,500 per credit) for local students, HK$288,000 per programme (HK$8,000 per credit) for non-local students	304
+Students should pay the tuition fees directly to the institution where the courses are offered. The estimated total is approximately HK$517,496 (Subject to exchange rate fluctuation). Prospective students should note that the tuition fees do not include other additional expenses. For more details, please check with the host institution.	305
+HK$225,000 per programme (HK$7,500 per credit) for local and non-local MSc students, HK$135,000 per programme (HK$7,500 per credit) for local and non-local PgD students	306
+HK$160,500 per programme (HK$5,350 per credit) for local students, HK$196,500 per programme (HK$6,550 per credit) for non-local students	307
+HK$5,600 per credit for local and non-local students	308
+HK$4,150 per credit for local students, HK$4,835 per credit for non-local students	309
+HK$6,600 per credit for local and non-local students	310
+HK$238,700 per MSc programme, HK$146,300 per PgD programme	311
+HK$238,700 per programme	312
+HK$485,800 per programme	313
+HK$237,150 per programme (HK$7,650 per credit) for local students, HK$275,280 per programme (HK$8,880 per credit) for non-local students	314
+HK$5,100 per credit for local students, HK$6,200 per credit for non-local students	315
+HK$5,300 per credit for local students, HK$5,500 per credit for non-local students	316
+HK$8,000 per credit for local and non-local students	317
+Covered by The Hong Kong Maritime and Logistics Scholarship Scheme	318
+HK$239,250 per programme (HK$7,250 per credit) for local and non-local MSc students, HK$130,500 per programme (HK$7,250 per credit) for local and non-local PgD students	319
+HK$5,300 per credit for local students, HK$5,800 per credit for non-local students	320
+HK$5,000 per credit for local students, HK$5,400 per credit for non-local students	321
+HK$4,200 per credit for local students, HK$4,835 per credit for non-local students	322
+For local students, HK$2,500 per credit for undergraduate subjects and HK$4,600 per credit for postgraduate subjects	323
+HK$4,000 per credit for local students, HK$4,835 per credit for non-local students	324
+HK$6,900 per credit for local and non-local students	325
+HK$225,000 per programme (HK$7,500 per credit) for local and non-local students	326
+HK$270,000 per programme (HK$7,500 per credit) for local Master students, HK$288,000 per programme (HK$8,000 per credit) for non-local Master students, HK$157,500 per programme (HK$7,500 per credit) for local PgD students, HK$168,000 per programme (HK$8,000 per credit) for non-local PgD students	327
+HK$6,100 per credit for local and non-local students	328
+For local students HK$160,500 per programme (Taught subject: HK$5,350 per credit)	329
+HK$352,800 per programme (HK$7,350 per credit) for local and non-local students	330
+For local students HK$256,800 per programme (Taught subject: HK$5,800 per credit; Fieldwork: HK$11,800 per credit)	331
+For local students Taught subject: HK$5,350 per credit, Practicum: HK$11,300 per credit, Clinical Internship: HK$8,500 per credit	332
+HK$4,600 per credit for local students, HK$5,600 per credit for non-local students	333
+HK$5,320 per credit for local and non-local students	334
+Linguistics(2022)	335
+55	336
+Architecture & Built Environment(2022)	337
+15	338
+Art & Design(2022)	339
+16	340
+English Language and Literature(2022)	341
+101-150	342
+Modern Languages(2022)	343
+151-200	344
+Engineering - Chemical(2022)	345
+Computer Science and Information Systems(2022)	346
+92	347
+Engineering - Electrical and Electronic(2022)	348
+76	349
+Engineering - Mechanical(2022)	350
+74	351
+Biological Sciences(2022)	352
+351-400	353
+Nursing(2022)	354
+51-100	355
+Pharmacy & Pharmacology(2022)	356
+301-350	357
+Chemistry(2022)	358
+Earth and Marine Sciences(2022)	359
+201-220	360
+Environmental Sciences(2022)	361
+46	362
+Geography(2022)	363
+Geology(2022)	364
+Geophysics(2022)	365
+Mathematics(2022)	366
+109	367
+Physics & Astronomy(2022)	368
+201-250	369
+Accounting and Finance(2022)	370
+57	371
+Business & Management Studies(2022)	372
+48	373
+Economics and Econometrics(2022)	374
+132	375
+Hospitality & Leisure Management(2022)	376
+10	377
+Sociology(2022)	378
+Statistics and Operational Research(2022)	379
+QS World University Rankings 2023	380
+65	381
+QS Graduate Employability Rankings	382
+71	383
+QS Asia University Rankings 2022	384
+25	385
+Times Higher Education World University Rankings	386
+91	387
+Times Higher Education Young University Rankings 2022	388
+5	389
+Times Higher Education Asia University Rankings 2022	390
+ShanghaiRanking's Global Rankings 2022	391
+U.S. News & World Report Best Global Universities Rankings	392
+124	393
+Faculty of Applied Science and Textiles (FAST)	394
+Room TU502, 5/F, Yip Kit Chuen Building (Core T)	395
+Department of Applied Biology and Chemical Technology (ABCT)	396
+Room Y828, 8/F, Lee Shau Kee Building (Block Y)	397
+Department of Applied Mathematics (AMA)	398
+Room TU732, 7/F, Yip Kit Chuen Building (Core T)	399
+Department of Applied Physics (AP)	400
+Room CD616, 6/F, CMA Building (Core C)	401
+Institute of Textiles and Clothing (ITC)	402
+Room QT715, 7/F, Chow Yei Ching Building (Core Q)	403
+Faculty of Business (FB)	404
+Room M923, 9/F, Li Ka Shing Tower (Block M)	405
+School of Accounting and Finance (AF)	406
+Room M715, 7/F, Li Ka Shing Tower (Block M)	407
+Department of Logistics and Maritime Studies (LMS)	408
+Room M628, 6/F, Li Ka Shing Tower (Block M)	409
+Department of Management and Marketing (MM)	410
+Room M801, 8/F, Li Ka Shing Tower (Block M)	411
+Faculty of Construction and Environment (FCE)	412
+Room ZS1201, 12/F, South Tower, Block Z	413
+Department of Building and Real Estate (BRE)	414
+Room ZS725, 7/F, South Tower, Block Z	415
+Department of Building Environment and Energy Engineering (BEEE)	416
+Room ZS867, 8/F, South Tower, Block Z	417
+Department of Civil and Environmental Engineering (CEE)	418
+Room ZS972, 9/F, South Tower, Block Z	419
+Department of Land Surveying and Geo-Informatics (LSGI)	420
+Room ZS621, 6/F, South Tower, Block Z	421
+Faculty of Engineering (FENG)	422
+Room AG711, 7/F, Chung Sze Yuen Building (Core A)	423
+Department of Aeronautical and Aviation Engineering (AAE)	424
+Room QR821, 8/F, Choi Kai Yau Building (Core R)	425
+Department of Biomedical Engineering (BME)	426
+Room ST415, 4/F, Ng Wing Hong Building (Core S)	427
+Department of Computing (COMP)	428
+Room PQ806, 8/F, Mong Man Wai Building (Core P)	429
+Department of Electrical Engineering (EE)	430
+Room CF620, 6/F Tang Ping Yuan Building (Core F)	431
+Department of Electronic and Information Engineering (EIE)	432
+Room DE614, 6/F, Lui Che Woo Building (Core E)	433
+Department of Industrial and Systems Engineering (ISE)	434
+Room EF625, 6/F, Chan Sui Wai Building (Core E)	435
+Department of Mechanical Engineering (ME)	436
+Room FG622, 6/F, Kinmay W. Tang Building (Core F)	437
+Faculty of Health and Social Sciences (FHSS)	438
+Room A401, 4/F, Chung Sze Yuen Building (Core A)	439
+Department of Applied Social Sciences (APSS)	440
+Room HJ402, 4/F, Stanley Ho Building (Core J)	441
+Department of Health Technology and Informatics (HTI)	442
+Room Y934, 9/F, Lee Shau Kee Building (Block Y)	443
+Department of Rehabilitation Sciences (RS)	444
+Room QT512, 5/F, Chow Yei Ching Building (Core Q)	445
+School of Nursing (SN)	446
+Room GH506, 5/F, Wing GH (Core G)	447
+School of Optometry (SO)	448
+Room HJ502, 5/F, Stanley Ho Building (Core J)	449
+Faculty of Humanities (FH)	450
+Room GH801, 8/F, Wing GH (Core G)	451
+Department of Chinese and Bilingual Studies (CBS)	452
+Room AG522, 5/F, Chung Sze Yuen Building (Core A)	453
+Department of Chinese Culture (CC)	454
+Room HJ631, 6/F, Stanley Ho Building (Core J)	455
+Department of English (ENGL)	456
+Room AG428, 4/F, Chung Sze Yuen Building (Core A)	457
+Confucius Institute of Hong Kong (CIHK)	458
+Room AG204, 2/F, Chung Sze Yuen Building (Core A)	459
+English Language Centre (ELC)	460
+Room AG612, 6/F, Chung Sze Yuen Building (Core A)	461
+General Education Centre (GEC)	462
+Room A501, 5/F, Chung Sze Yuen Building (Core A)	463
+School of Design (SD)	464
+Room V810, 8/F, Jockey Club Innovation Tower (Block V)	465
+School of Hotel and Tourism Management (SHTM)	466
+17 Science Museum Road, TST East (Beside Hotel ICON)	467
+Offices of the President (P)	468
+President's Office, 18/F, Li Ka Shing Tower (Block M)	469
+Academic Registry (AR)	470
+Room M101, 1/F, Li Ka Shing Tower (Block M)	471
+Alumni Affairs and Development Office (AADO)	472
+Room M1504, 15/F, Li Ka Shing Tower (Block M)	473
+Campus Development Office (CDO)	474
+Room Z517, 5/F, North Tower, Block Z	475
+Campus Facilities and Sustainability Office (CFSO)	476
+Room ZS301, 3/F, South Tower, Block Z	477
+Communications and Public Affairs Office (CPA)	478
+Room M1604, 16/F, Li Ka Shing Tower (Block M)	479
+Council and Court Secretariat	480
+Room M1601, 16/F, Li Ka Shing Tower (Block M)	481
+Culture Promotion and Events Office (CPEO)	482
+Jockey Club Auditorium (Beside Core T)	483
+Educational Development Centre (EDC)	484
+Room TU629, 6/F, Yip Kit Chuen Building (Core T)	485
+Finance Office (FO)	486
+11/F, Li Ka Shing Tower (Block M)	487
+Global Engagement Office (GEO)	488
+Room ST305, 3/F, Ng Wing Hong Building (Core S)	489
+Health and Safety Office (HSO)	490
+Room Z402, 4/F, North Tower, Block Z	491
+Human Resources Office (HRO)	492
+Room M1301, 13/F, Li Ka Shing Tower (Block M)	493
+Industrial Centre (IC)	494
+Room W309, Industrial Centre (Block W)	495
+Information Technology Services Office (ITS)	496
+Room ZS501, 5/F, South Tower, Block Z	497
+Institute of Advanced Executive Education (IAEE)	498
+Room QR702, 7/F, Choi Kai Yau Building (Core R)	499
+Internal Audit Unit (IAU)	500
+Room M1406, 14/F, Li Ka Shing Tower (Block M)	501
+Institutional Planning and Analytics Office (IPAO)	502
+Room M1402, 14/F, Li Ka Shing Tower (Block M)	503
+Jockey Club Design Institute for Social Innovation (JCDISI)	504
+Room V1218, 12/F, Jockey Club Innovation Tower (Block V)	505
+Knowledge Transfer and Entrepreneurship Office (KTEO)	506
+Mainland Development Office (MDO)	507
+Room R701, 7/F, Shirley Chan Building (Core R)	508
+Office of General University Requirements (OGUR)	509
+Room TU403, 4/F, Yip Kit Chuen Building (Core T)	510
+Office of Undergraduate Studies (OUS)	511
+Room TU406, 4/F, Yip Kit Chuen Building (Core T)	512
+Pao Yue-kong Library (LIB)	513
+Pao Yue-kong Library (Block L)	514
+PolyU Academy for Interdisciplinary Research (PAIR)	515
+Room HJ201, Podium Level, Stanley Ho Building, The Hong Kong Polytechnic University	516
+Research and Innovation Office (RIO) - Research Grants & Contracts	517
+Room Z404, 4/F, Block Z	518
+Research and Innovation Office (RIO) - Partnership Development, Major Projects and General Support	519
+Room GH256, GH Podium Annexe	520
+Research Institute For Smart Energy (RISE)	521
+Room ZN1001, 10/F, Block Z	522
+Research Institute for Sustainable Urban Development (RISU)	523
+Room ZS1202, 12/F, South Tower, Block Z	524
+Room QT308, 3/F Chow Yei Ching Building (Core T)	525
+Service-Learning and Leadership Office (SLLO)	526
+Room TU428, 4/F, Yip Kit Chuen Building (Core T)	527
+University Health Service (UHS)	528
+Room A001, G/F, Chung Sze Yuen Building (Core A)	529
+UMF - Atomic Electron Microscopy Laboratory (AEML)	530
+W205, P/F, Ho Lu Kwong Building (Block W)	531
+UMF - Centre for Electron Microscopy (CEM)	532
+CF002, G/F, Tang Ping Yuan Building (Core F)	533
+UMF - Cleanroom Facility	534
+HJ705, 7/F, Stanley Ho Building (Core J)	535
+UMF - Materials Research Centre (MRC)	536
+BC710, 7/F, Wing BC	537
+UMF - Micro/Nano Device Fabrication and Sensing Technologies (DFST)	538
+CD002, G/F, CMA Building (Wing CD)	539
+URF - 3D Printing (U3DP)	540
+W501, Block W	541
+URF - Behavioral and Systems Neuroscience (UBSN)	542
+LG2, Block Z	543
+URF - Big Data Analytics (UBDA)	544
+Room P505, 5/F, Core P	545
+URF - Life Sciences (ULS)	546
+Y401, Block Y	547
+Core A	548
+Core A (G/F)	549
+Core B	550
+Core C	551
+Core D	552
+Core E	553
+Core F	554
+Core G	555
+Core H	556
+Core J	557
+Block L (Pao Yue-Kong Library)	558
+Block L	559
+Block M (Li Ka Shing Tower)	560
+Block M	561
+Block N	562
+Core P	563
+Core P (Anita Chan Lai Ling Building)	564
+Anita Chan Lai Ling Building (Core P)	565
+Core P (House of Innovation)	566
+G/F, Core P	567
+Core Q	568
+Core R (Shirley Chan Building)	569
+Shirley Chan Building (Core R)	570
+Core S	571
+Core S (Communal Building)	572
+Communal Building (Beside Core S)	573
+Core T	574
+Core U (Realink Building)	575
+Realink Building (Core U)	576
+Block V (Jockey Club Innovation Tower)	577
+Jockey Club Innovation Tower (Block V)	578
+Block VA (Shaw Amenities Building)	579
+Block VA	580
+Block VS (Shaw Sports Complex)	581
+Block VS	582
+Block W (Ho Iu Kwong Building)	583
+Ho Iu Kwong Building (Block W)	584
+Block W (Industrial Centre)	585
+Industrial Centre (Block W)	586
+Block X	587
+Block Y (Lee Shau Kee Building)	588
+Lee Shau Kee Building (Block Y)	589
+Block Z	590
+Wing AG (Chung Sze Yuen Building)	591
+Chung Sze Yuen Building (Core A)	592
+Wing BC	593
+Wing CD (CMA Building)	594
+CMA Building (Core C)	595
+Wing CF (Tang Ping Yuan Building)	596
+Tang Ping Yuan Building (Core F)	597
+Wing DE (Lui Che Woo Building)	598
+Lui Che Woo Building (Core E)	599
+Wing EF (Chan Sui Wai Building)	600
+Chan Sui Wai Building (Core E)	601
+Wing FG (Kinmay W. Tang Building)	602
+Kinmay W. Tang Building (Core F)	603
+Wing FJ (Chan Tai Ho Building)	604
+Chan Tai Ho Building (Core J)	605
+Wing GH	606
+Wing GH (GH Podium Annexe)	607
+GH Podium Annexe	608
+Wing HJ (Stanley Ho Building)	609
+Stanley Ho Building (Core J)	610
+Wing PQ (Mong Man Wai Building)	611
+Mong Man Wai Building (Core P)	612
+Wing QR (Choi Kai Yau Building)	613
+Choi Kai Yau Building (Core R)	614
+Wing QT (Chow Yei Ching Building)	615
+Chow Yei Ching Building (Core Q)	616
+Wing ST (Ng Wing Hong Building)	617
+Ng Wing Hong Building (Core S)	618
+Wing TU (Yip Kit Chuen Building)	619
+Yip Kit Chuen Building (Core T)	620
+Jockey Club Auditorium	621
+Jockey Club Auditorium (Beside Core Q)	622
+Hotel ICON	623
+PolyU Hung Hom Bay Campus	624
+8 Hung Lok Road, Hung Hom, Kowloon, Hong Kong	625
+PolyU West Kowloon Campus	626
+9 Hoi Ting Road, Yau Ma Tei, Kowloon, Hong Kong	627
+Hall of Residence (Homantin)	628
+Student Halls of Residence (Homantin)	629
+Hall of Residence (Hung Hom)	630
+Student Halls of Residence (Hung Hom)	631
+University House	632
+University House (Beside Hotel ICON)	633
+Alumni Atrium	634
+Alumni Atrium (Core A)	635
+Amenities Centre	636
+Amenities Centre (Beside Core S)	637
+Block X Sports Centre (Block X)	638
+Campus Control Centre	639
+Room P111, 1/F, Anita Chan Lai Ling Building (Core P)	640
+Chan Sui Kau and Chan Lam Moon Chun Square	641
+Chan Sui Kau and Chan Lam Moon Chun Square (Beside Block N)	642
+Chiang Chen Studio Theatre	643
+Chiang Chen Studio Theatre (Core A)	644
+Finance Office Cashier Office	645
+VA205, Shaw Amenities Building	646
+Fong Shu Chuen Hall (Beside Block VS)	647
+Global Student Hub	648
+Global Student Hub (Beside Core T)	649
+Ho Iu Kwong and Kwok Pui Chun Square	650
+Ho Iu Kwong and Kwok Pui Chun Square (Beside Block W)	651
+House of Innovation	652
+House of Innovation (Core P)	653
+IT HelpCentre	654
+Room M201, 2/F, Li Ka Shing Tower (Block M)	655
+ITC STORE	656
+Room HJ211, Podium Level, Stanley Ho Building (Core J)	657
+Innovation Gallery	658
+Jockey Club Innovation Tower (Podium Floor)	659
+Jockey Club Auditorium (JCA)	660
+Jockey Club Auditorium Backstage Door (JCA Backstage Door)	661
+G/F, Core R (enter through Block N)	662
+Jockey Club Rehabilitation Engineering Centre	663
+Room GH041, The Hong Kong Polytechnic University, Hung Hom, Kowloon	664
+Kwong On Jubilee Sports Centre (Beside Core S)	665
+Lam Tai Fai Amphitheatre	666
+Lam Tai Fai Amphitheatre (Beside Core T)	667
+Lawn	668
+Lawn (Beside Core P)	669
+Michael Clinton Swimming Pool (Block VS)	670
+Pao Yue-Kong Library	671
+Pao Yue-Kong Library (Block L)	672
+PolyU InnoHub	673
+4/F, Jockey Club Innovation Tower	674
+Shaw Sports Complex (Block VS)	675
+Stephen Cheong Kam Chuen Memorial Plaza	676
+Stephen Cheong Kam Chuen Memorial Plaza (Beside Block L)	677
+Student Computer Centre (SCC)	678
+3/F & 4/F, Li Ka Shing Tower (Block M)	679
+Suen Chi Sun Memorial Square	680
+Suen Chi Sun Memorial Square (Beside Block VA)	681
+TST District Kaifong Welfare Association Square	682
+TST District Kaifong Welfare Association Square (Beside Core A)	683
+Tang Ping Yuan Square	684
+Tang Ping Yuan Square (Beside Core B)	685
+Bank	686
+Bookshop	687
+Podium Level, Shaw Amenities Building	688
+Carpark	689
+G/F, Li Ka Shing Tower (Block M)	690
+Postbox	691
+Cross Harbour Tunnel Toll Plaza	692
+Bus Station - Block Z	693
+Hong Kong PolyU Phase 8, Chatham Road North	694
+Bus Station - Core A	695
+Main entrance of the Hong Kong Polytechnic University	696
+Bus Station - Cross Harbour Tunnel to HK	697
+Bus Station - Cross Harbour Tunnel to KLN	698
+Taxi Drop-off Point to Block Z	699
+Block Y(G/F)	700
+Taxi Drop-off Point to Main Campus	701
+Core S (G/F)	702
+Taxi Station	703

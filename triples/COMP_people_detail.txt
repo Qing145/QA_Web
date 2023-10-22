@@ -1,0 +1,302 @@
+LI Qing|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing
+LI Qing|Professional Title|Chair Professor of Data Science and Head
+LI Qing|Office|PQ803a
+LI Qing|Telephone|+852 2766 7252
+LI Qing|Email|qing-prof.li@polyu.edu.hk
+CAO Jiannong|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-cao-jiannong
+CAO Jiannong|Professional Title|Dean of Graduate School, Otto Poon Charitable Foundation Professor in Data Science, Chair Professor of Distributed and Mobile Computing, Director of RIAIoT, Associate Director of UBDA
+CAO Jiannong|Office|PQ819
+CAO Jiannong|Telephone|+852 2766 7275
+CAO Jiannong|Email|jiannong.cao@polyu.edu.hk
+CHEN Changwen|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-chen-changwen
+CHEN Changwen|Professional Title|Chair Professor of Visual Computing
+CHEN Changwen|Office|PQ809
+CHEN Changwen|Telephone|+852 2766 7250
+CHEN Changwen|Email|changwen.chen@polyu.edu.hk
+TAN Kay Chen|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-tan-kay-chen
+TAN Kay Chen|Professional Title|Chair Professor of Computational Intelligence and Associate Head (Research & Development)
+TAN Kay Chen|Office|PQ808
+TAN Kay Chen|Telephone|+852 2766 7271
+TAN Kay Chen|Email|kaychen.tan@polyu.edu.hk
+ZHANG Lei John|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-zhang-lei-john
+ZHANG Lei John|Professional Title|Chair Professor of Computer Vision and Image Analysis
+ZHANG Lei John|Office|PQ816
+ZHANG Lei John|Telephone|+852 2766 7355
+ZHANG Lei John|Email|john.zhang@polyu.edu.hk
+ZHANG Weixiong|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-zhang-weixiong
+ZHANG Weixiong|Professional Title|Affiliated Chair Professor of Bioinformatics and Integrative Genomics, Hong Kong Global STEM Scholar
+ZHANG Weixiong|Office|Y926
+ZHANG Weixiong|Telephone|+852 3400 8567
+ZHANG Weixiong|Email|weixiong.zhang@polyu.edu.hk
+RAYNAL Michel|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-raynal-michel
+RAYNAL Michel|Professional Title|Chair Professor under the Distinguished Chair Professor Scheme
+CHAN Chun Bun Henry|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-chan-chun-bun-henry
+CHAN Chun Bun Henry|Professional Title|Associate Professor and Associate Head (Partnership & Collaboration)
+CHAN Chun Bun Henry|Office|PQ823
+CHAN Chun Bun Henry|Telephone|+852 2766 7269
+CHAN Chun Bun Henry|Email|henry.chan.comp@polyu.edu.hk
+LEONG Hong Va|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-leong-hong-va
+LEONG Hong Va|Professional Title|Associate Professor and Associate Head (Teaching & Learning)
+LEONG Hong Va|Office|PQ734
+LEONG Hong Va|Telephone|+852 2766 7243
+LEONG Hong Va|Email|hong.va.leong@polyu.edu.hk
+GUO Song|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-guo-song
+GUO Song|Professional Title|Professor
+GUO Song|Office|PQ818
+GUO Song|Telephone|+852 2766 7259
+GUO Song|Email|song.guo@polyu.edu.hk
+HOORN Johan|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-hoorn-johan
+HOORN Johan|Professional Title|Professor
+HOORN Johan|Office|PQ729 (COMP) / V602i (SD)
+HOORN Johan|Telephone|+852 2766 4509
+HOORN Johan|Email|johan.f.hoorn@polyu.edu.hk
+Prof LI Wenjie Maggie|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-wenjie-maggie
+Prof LI Wenjie Maggie|Professional Title|Professor
+Prof LI Wenjie Maggie|Office|PQ707
+Prof LI Wenjie Maggie|Telephone|+852 2766 7297
+Prof LI Wenjie Maggie|Email|wenjie.li@polyu.edu.hk
+PATHAK Ajay Kumar|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-pathak-ajay-kumar
+PATHAK Ajay Kumar|Professional Title|Professor
+PATHAK Ajay Kumar|Office|PQ835
+PATHAK Ajay Kumar|Telephone|+852 2766 7254
+PATHAK Ajay Kumar|Email|ajay.kumar@polyu.edu.hk
+WANG Dan|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-wang-dan
+WANG Dan|Professional Title|Professor
+WANG Dan|Office|PQ708
+WANG Dan|Telephone|+852 2766 7267
+WANG Dan|Email|dan.wang@polyu.edu.hk
+XIAO Bin|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-xiao-bin
+XIAO Bin|Professional Title|Professor
+XIAO Bin|Office|PQ824
+XIAO Bin|Telephone|+852 2766 7270
+XIAO Bin|Email|b.xiao@polyu.edu.hk
+YOU Jia Jane|Website|https://www.polyu.edu.hk/comp/people/academic-staff/prof-you-jia-jane
+YOU Jia Jane|Professional Title|Professor
+YOU Jia Jane|Office|PQ727
+YOU Jia Jane|Telephone|+852 2766 7293
+YOU Jia Jane|Email|jane.you@polyu.edu.hk
+CAO Yixin|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-cao-yixin
+CAO Yixin|Professional Title|Associate Professor
+CAO Yixin|Office|PQ706
+CAO Yixin|Telephone|+852 3400 3195
+CAO Yixin|Email|yixin.cao@polyu.edu.hk
+CHUNG Fu Lai Korris|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-chung-fu-lai-korris
+CHUNG Fu Lai Korris|Professional Title|Associate Professor
+CHUNG Fu Lai Korris|Office|PQ805
+CHUNG Fu Lai Korris|Telephone|+852 2766 7289
+CHUNG Fu Lai Korris|Email|korris.chung@polyu.edu.hk
+LIU Yan Fiona|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-liu-yan-fiona
+LIU Yan Fiona|Professional Title|Associate Professor
+LIU Yan Fiona|Office|PQ722
+LIU Yan Fiona|Telephone|+852 2766 7241
+LIU Yan Fiona|Email|yan.liu@polyu.edu.hk
+LOU Wei|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-lou-wei
+LOU Wei|Professional Title|Associate Professor
+LOU Wei|Office|PQ705
+LOU Wei|Telephone|+852 2766 7290
+LOU Wei|Email|wei.lou@polyu.edu.hk
+LUK Wing Pong Robert|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-luk-wing-pong-robert
+LUK Wing Pong Robert|Professional Title|Associate Professor
+LUK Wing Pong Robert|Office|PQ716
+LUK Wing Pong Robert|Telephone|+852 2766 5143
+LUK Wing Pong Robert|Email|robert.luk@polyu.edu.hk
+LUO Xiapu Daniel|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-luo-xiapu-daniel
+LUO Xiapu Daniel|Professional Title|Associate Professor
+LUO Xiapu Daniel|Office|PQ828
+LUO Xiapu Daniel|Telephone|+852 2766 7264
+LUO Xiapu Daniel|Email|daniel.xiapu.luo@polyu.edu.hk
+NGAI Grace|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-ngai-grace
+NGAI Grace|Professional Title|Associate Professor
+NGAI Grace|Office|PQ826
+NGAI Grace|Telephone|+852 2766 7279
+NGAI Grace|Email|grace.ngai@polyu.edu.hk
+WANG Qixin|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-wang-qixin
+WANG Qixin|Professional Title|Associate Professor
+WANG Qixin|Office|PQ704
+WANG Qixin|Telephone|+852 2766 7266
+WANG Qixin|Email|qixin.wang@polyu.edu.hk
+WU Xiaoming|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-wu-xiaoming
+WU Xiaoming|Professional Title|Associate Professor
+WU Xiaoming|Office|PQ725
+WU Xiaoming|Telephone|+852 2766 7261
+WU Xiaoming|Email|xiao-ming.wu@polyu.edu.hk
+YANG Lei Ray|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-yang-lei-ray
+YANG Lei Ray|Professional Title|Associate Professor
+YANG Lei Ray|Office|PQ718
+YANG Lei Ray|Telephone|+852 2766 7280
+YANG Lei Ray|Email|ray.yang@polyu.edu.hk
+YIU Man Lung Ken|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-yiu-man-lung-ken
+YIU Man Lung Ken|Professional Title|Associate Professor
+YIU Man Lung Ken|Office|PQ712
+YIU Man Lung Ken|Telephone|+852 2766 7246
+YIU Man Lung Ken|Email|manlung.yiu@polyu.edu.hk
+ZHENG Yuanqing|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-zheng-yuanqing
+ZHENG Yuanqing|Professional Title|Associate Professor
+ZHENG Yuanqing|Office|PQ721
+ZHENG Yuanqing|Telephone|+852 2766 7288
+ZHENG Yuanqing|Email|yuanqing.zheng@polyu.edu.hk
+HUANG Xiao|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-huang-xiao
+HUANG Xiao|Professional Title|Assistant Professor
+HUANG Xiao|Office|PQ837
+HUANG Xiao|Telephone|+852 2766 7299
+HUANG Xiao|Email|xiao.huang@polyu.edu.hk
+LI Bo|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-li-bo
+LI Bo|Professional Title|Assistant Professor
+LI Bo|Office|PQ834
+LI Bo|Telephone|+852 2766 7255
+LI Bo|Email|comp-bo.li@polyu.edu.hk
+LI Jing Amelia|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-li-jing-amelia
+LI Jing Amelia|Professional Title|Assistant Professor
+LI Jing Amelia|Office|PQ714
+LI Jing Amelia|Telephone|+852 2766 7316
+LI Jing Amelia|Email|jing-amelia.li@polyu.edu.hk
+LI Ping|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-li-ping
+LI Ping|Professional Title|Assistant Professor
+LI Ping|Office|PQ728
+LI Ping|Telephone|+852 2766 7277
+LI Ping|Email|p.li@polyu.edu.hk
+PEI Yu Max|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-pei-yu-max
+PEI Yu Max|Professional Title|Assistant Professor
+PEI Yu Max|Office|PQ709
+PEI Yu Max|Telephone|+852 2766 7251
+PEI Yu Max|Email|max.yu.pei@polyu.edu.hk
+SHI Jieming|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-shi-jieming
+SHI Jieming|Professional Title|Assistant Professor
+SHI Jieming|Office|PQ832
+SHI Jieming|Telephone|+852 2766 7298
+SHI Jieming|Email|jieming.shi@polyu.edu.hk
+YANG Bo|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-yang-bo
+YANG Bo|Professional Title|Assistant Professor
+YANG Bo|Office|PQ726
+YANG Bo|Telephone|+852 2766 7286
+YANG Bo|Email|bo.yang@polyu.edu.hk
+ZHOU Kai|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-zhou-kai
+ZHOU Kai|Professional Title|Assistant Professor
+ZHOU Kai|Office|PQ836
+ZHOU Kai|Telephone|+852 2766 7244
+ZHOU Kai|Email|kai.zhou@polyu.edu.hk
+CHEN Gong|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-chen-gong
+CHEN Gong|Professional Title|Research Assistant Professor
+CHEN Gong|Office|PQ720
+CHEN Gong|Telephone|+852 2766 7245
+CHEN Gong|Email|gong-cg.chen@polyu.edu.hk
+DE CARNE DE CARNAVALET Xavier|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-de-carne-de-carnavalet-xavier
+DE CARNE DE CARNAVALET Xavier|Professional Title|Research Assistant Professor
+DE CARNE DE CARNAVALET Xavier|Office|PQ821
+DE CARNE DE CARNAVALET Xavier|Telephone|+852 2766 7323
+DE CARNE DE CARNAVALET Xavier|Email|xavier.decarnedecarnavalet@polyu.edu.hk
+FAN Wenqi|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-fan-wenqi
+FAN Wenqi|Professional Title|Research Assistant Professor
+FAN Wenqi|Office|PQ724c
+FAN Wenqi|Telephone|+852 2766 7308
+FAN Wenqi|Email|wenqi.fan@polyu.edu.hk
+GAO Shang Jason|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-gao-shang
+GAO Shang Jason|Professional Title|Research Assistant Professor
+GAO Shang Jason|Office|PQ830
+GAO Shang Jason|Telephone|+852 2766 7253
+GAO Shang Jason|Email|shang-jason.gao@polyu.edu.hk
+JIANG Shan|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-jiang-shan
+JIANG Shan|Professional Title|Research Assistant Professor
+JIANG Shan|Office|PQ733
+JIANG Shan|Telephone|+852 2766 7294
+JIANG Shan|Email|cs-shan.jiang@polyu.edu.hk
+LI Chen Richard|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-li-chen-richard
+LI Chen Richard|Professional Title|Research Assistant Professor
+LI Chen Richard|Office|PQ713
+LI Chen Richard|Telephone|+852 2766 7310
+LI Chen Richard|Email|richard-chen.li@polyu.edu.hk
+LIN Wanyu|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-lin-wanyu
+LIN Wanyu|Professional Title|Research Assistant Professor
+LIN Wanyu|Office|PQ713a
+LIN Wanyu|Telephone|+852 2766 4900
+LIN Wanyu|Email|wan-yu.lin@polyu.edu.hk
+LYU Mingsong|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-lyu-mingsong
+LYU Mingsong|Professional Title|Research Assistant Professor
+LYU Mingsong|Office|PQ724c
+LYU Mingsong|Telephone|+852 2766 7313
+LYU Mingsong|Email|mingsong.lyu@polyu.edu.hk
+SAXENA Divya|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-saxena-divya
+SAXENA Divya|Professional Title|Research Assistant Professor
+SAXENA Divya|Office|PQ724
+SAXENA Divya|Telephone|+852 2766 4547
+SAXENA Divya|Email|divya.saxena@polyu.edu.hk
+SHEN Jiaxing|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-shen-jiaxing
+SHEN Jiaxing|Professional Title|Research Assistant Professor
+SHEN Jiaxing|Office|PQ811
+SHEN Jiaxing|Telephone|+852 2766 7284
+SHEN Jiaxing|Email|jiaxing-comp.shen@polyu.edu.hk
+WEI Junqiu Victor|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-wei-junqiu-victor
+WEI Junqiu Victor|Professional Title|Research Assistant Professor
+WEI Junqiu Victor|Office|PQ724
+WEI Junqiu Victor|Telephone|+852 2766 7238
+WEI Junqiu Victor|Email|junqiu.wei@polyu.edu.hk
+XIA Xianjin|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-xia-xianjin
+XIA Xianjin|Professional Title|Research Assistant Professor
+XIA Xianjin|Office|PQ713a
+XIA Xianjin|Telephone|+852 2766 7273
+XIA Xianjin|Email|xianjin.xia@polyu.edu.hk
+XU Linchuan|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-linchuan
+XU Linchuan|Professional Title|Research Assistant Professor
+XU Linchuan|Office|PQ813
+XU Linchuan|Telephone|+852 2766 7276
+XU Linchuan|Email|linch.xu@polyu.edu.hk
+XU Wenchao|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-xu-wenchao
+XU Wenchao|Professional Title|Research Assistant Professor
+XU Wenchao|Office|PQ831
+XU Wenchao|Telephone|+852 2766 7315
+XU Wenchao|Email|wenchao.xu@polyu.edu.hk
+XUE Lei Jeremy|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-xue-lei-jeremy
+XUE Lei Jeremy|Professional Title|Research Assistant Professor
+XUE Lei Jeremy|Office|PQ810
+XUE Lei Jeremy|Telephone|+852 2766 7334
+XUE Lei Jeremy|Email|jeremy.xue@polyu.edu.hk
+YANG Yu|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-yang-yu
+YANG Yu|Professional Title|Research Assistant Professor
+YANG Yu|Office|PQ733
+YANG Yu|Telephone|+852 2766 7324
+YANG Yu|Email|cs-yu.yang@polyu.edu.hk
+YU Le|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-yu-le
+YU Le|Professional Title|Research Assistant Professor
+YU Le|Office|PQ724
+YU Le|Telephone|+852 2766 7278
+YU Le|Email|lele08.yu@polyu.edu.hk
+ZHANG Chen Jason|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-zhang-chen-jason
+ZHANG Chen Jason|Professional Title|Research Assistant Professor
+ZHANG Chen Jason|Office|PQ713b
+ZHANG Chen Jason|Telephone|+852 2766 4901
+ZHANG Chen Jason|Email|jason-c.zhang@polyu.edu.hk
+ZHANG Mengyuan Maggie|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-zhang-mengyuan-maggie
+ZHANG Mengyuan Maggie|Professional Title|Research Assistant Professor
+ZHANG Mengyuan Maggie|Office|PQ821
+ZHANG Mengyuan Maggie|Telephone|+852 2766 7322
+ZHANG Mengyuan Maggie|Email|mengyuan.zhang@polyu.edu.hk
+FUNG Sui Leung Walter|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-fung-sui-leung-walter
+FUNG Sui Leung Walter|Professional Title|Teaching Fellow
+FUNG Sui Leung Walter|Office|PQ731
+FUNG Sui Leung Walter|Telephone|+852 2766 7291
+FUNG Sui Leung Walter|Email|walter.fung@polyu.edu.hk
+LIU Yan Wang Dennis|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-liu-yan-wang-dennis
+LIU Yan Wang Dennis|Professional Title|Teaching Fellow
+LIU Yan Wang Dennis|Office|PQ730
+LIU Yan Wang Dennis|Telephone|+852 2766 7249
+LIU Yan Wang Dennis|Email|dyw.liu@polyu.edu.hk
+LUI Wing Cheung Richard|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-lui-wing-cheung-richard
+LUI Wing Cheung Richard|Professional Title|Teaching Fellow
+LUI Wing Cheung Richard|Office|PQ731
+LUI Wing Cheung Richard|Telephone|+852 2766 7312
+LUI Wing Cheung Richard|Email|richard.lui@polyu.edu.hk
+NG Hiu Fung Peter|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-ng-hiu-fung-peter
+NG Hiu Fung Peter|Professional Title|Teaching Fellow
+NG Hiu Fung Peter|Office|PQ730
+NG Hiu Fung Peter|Telephone|+852 2766 7248
+NG Hiu Fung Peter|Email|peter.nhf@polyu.edu.hk
+YUEN Kam Fung Kevin|Website|https://www.polyu.edu.hk/comp/people/academic-staff/dr-yuen-kam-fung-kevin
+YUEN Kam Fung Kevin|Professional Title|Teaching Fellow
+YUEN Kam Fung Kevin|Office|PQ732
+YUEN Kam Fung Kevin|Telephone|+852 2766 7876
+YUEN Kam Fung Kevin|Email|kevin.yuen@polyu.edu.hk
+Mr MAK Ting Hon Alvin|Website|https://www.polyu.edu.hk/comp/people/academic-staff/mr-mak-ting-hon-alvin
+Mr MAK Ting Hon Alvin|Professional Title|Tutor
+Mr MAK Ting Hon Alvin|Office|PQ732
+Mr MAK Ting Hon Alvin|Telephone|+852 2766 7731
+Mr MAK Ting Hon Alvin|Email|alvin.mak@polyu.edu.hk

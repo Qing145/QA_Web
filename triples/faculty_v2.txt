@@ -1,0 +1,3 @@
+polyu|Faculty|Faculty of Science (FS), Faculty of Humanities (FH), Faculty of Business (FB), Faculty of Construction and Environment (FCE), Faculty of Engineering (FENG), Faculty of Health and Social Sciences (FHSS)
+polyu|School|School of Design (SD), School of Hotel and Tourism Management (SHTM), School of Nursing (SN), School of Accounting and Finance (SAF), School of Fashion and Textiles (SFT)
+

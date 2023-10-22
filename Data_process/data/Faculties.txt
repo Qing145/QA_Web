@@ -1,0 +1,8 @@
+polyu|Faculty|Faculty of Applied Science & Textiles
+polyu|Faculty|Faculty of Humanities
+polyu|Faculty|Faculty of Business
+polyu|Faculty|Faculty of Construction & Environment
+polyu|Faculty|Faculty of Engineering
+polyu|Faculty|Faculty of Health & Social Sciences
+polyu|School|School of Design
+polyu|School|School of Hotel & Tourism Management

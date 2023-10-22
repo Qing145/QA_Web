@@ -1,0 +1,1036 @@
+argumentation semantics|Supertopic|abstract argumentation, abstract argumentation
+human action|Supertopic|action recognition, action recognition
+human-action recognition|Supertopic|action recognition
+face alignment|Supertopic|active appearance model, face image
+triaxial accelerometer|Supertopic|activity recognition
+human activity recognition|Supertopic|activity recognition
+complex activity|Supertopic|activity recognition
+activity model|Supertopic|activity recognition
+smart environment|Supertopic|ambient intelligence
+ambient assisted living|Supertopic|ambient intelligence, knowledge management
+intelligent environment|Supertopic|ambient intelligence
+simulated annealing method|Supertopic|annealing
+sa algorithm|Supertopic|annealing, simulated annealing algorithm
+ion implantation|Supertopic|annealing
+annealing temperature|Supertopic|annealing
+laser annealing|Supertopic|annealing
+thermal-annealing|Supertopic|annealing
+disjunctive logic program|Supertopic|answer set programming
+action language|Supertopic|answer set programming
+answer set|Supertopic|answer set programming, logic program
+social robot|Supertopic|anthropomorphic robot, human robot interaction
+biped robot|Supertopic|anthropomorphic robot
+motion generation|Supertopic|anthropomorphic robot, humanoid robot, humanoid robotics
+robot hand|Supertopic|anthropomorphic robot
+appearance modeling|Supertopic|appearance model
+expectation propagation|Supertopic|approximate inference
+exact inference|Supertopic|approximate inference
+argumentation framework|Supertopic|argumentation
+abstract argumentation|Supertopic|argumentation framework
+artificial bee colony algorithm|Supertopic|artificial bee colony
+bayesian network|Supertopic|artificial intelligence
+intelligent control|Supertopic|artificial intelligence
+swarm intelligence|Supertopic|artificial intelligence
+decision support system|Supertopic|artificial intelligence
+natural language processing|Supertopic|artificial intelligence
+intelligent tutoring|Supertopic|artificial intelligence
+common-sense|Supertopic|artificial intelligence
+system theory|Supertopic|artificial intelligence
+ai planning|Supertopic|artificial intelligence
+intelligence analysis|Supertopic|artificial intelligence
+cognitive system|Supertopic|artificial intelligence
+genetic algorithm|Supertopic|artificial intelligence
+expert system|Supertopic|artificial intelligence
+decision theory|Supertopic|artificial intelligence
+commonsense|Supertopic|artificial intelligence
+knowledge based system|Supertopic|artificial intelligence
+bayesian model|Supertopic|artificial intelligence
+common-sense computing|Supertopic|artificial intelligence
+bayesian approach|Supertopic|artificial intelligence
+bayesian framework|Supertopic|artificial intelligence
+heuristic programming|Supertopic|artificial intelligence
+medical computing|Supertopic|artificial intelligence
+cellular automaton|Supertopic|artificial intelligence, cellular automaton
+multi agent system (mas)|Supertopic|artificial intelligence
+soft computing|Supertopic|artificial intelligence
+commonsense reasoning|Supertopic|artificial intelligence
+intelligent robot|Supertopic|artificial intelligence
+ambient intelligence|Supertopic|artificial intelligence
+game theory|Supertopic|artificial intelligence
+inference engine|Supertopic|artificial intelligence
+natural language processing system|Supertopic|artificial intelligence
+formal logic|Supertopic|artificial intelligence
+intelligent system|Supertopic|artificial intelligence
+common-sense reasoning|Supertopic|artificial intelligence
+genetic network programming|Supertopic|associative processing, evolutionary computation, genetic programming
+associative storage|Supertopic|associative processing
+frequent item|Supertopic|associative processing
+transaction database|Supertopic|associative processing
+apriori algorithm|Supertopic|associative processing
+negative association rule|Supertopic|associative processing
+interestingness measure|Supertopic|associative processing
+association mining|Supertopic|associative processing
+associative classification|Supertopic|associative processing
+pulse amplitude modulation|Supertopic|associative storage
+bidirectional associative memory|Supertopic|associative storage
+content addressable memory|Supertopic|associative storage
+attitude controller|Supertopic|attitude control
+reaction wheel|Supertopic|attitude control
+attitude stabilization|Supertopic|attitude control
+attitude tracking|Supertopic|attitude control
+positive region|Supertopic|attribute reduction
+knowledge reduction|Supertopic|attribute reduction
+discernibility matrix|Supertopic|attribute reduction
+decision system|Supertopic|attribute reduction, decision support system
+target classification|Supertopic|automatic target recognition
+target recognition|Supertopic|automatic target recognition
+backpropagation algorithm|Supertopic|back propagation neural network
+gated recurrent unit|Supertopic|back propagation neural network
+artificial neural network model|Supertopic|back propagation neural network
+recurrent neural network (rnn)|Supertopic|back propagation neural network
+graph neural network|Supertopic|back propagation neural network, back-propagation neural network
+generative adversarial network|Supertopic|back propagation neural network
+pulse coupled neural network|Supertopic|back propagation neural network, back-propagation neural network
+long short term memory neural network|Supertopic|back propagation neural network, back-propagation neural network
+feedforward neural network|Supertopic|back propagation neural network, back-propagation neural network
+adaptive network based fuzzy inference system|Supertopic|back propagation neural network, back-propagation neural network
+convolutional neural network|Supertopic|back propagation neural network, back-propagation neural network
+hopfield network|Supertopic|back propagation neural network, back-propagation neural network
+delayed neural network|Supertopic|back propagation neural network, back-propagation neural network
+learning vector quantization|Supertopic|back propagation neural network, pattern recognition
+foreground object|Supertopic|background subtraction
+background subtraction method|Supertopic|background subtraction
+detecting moving object|Supertopic|background subtraction
+dynamic background|Supertopic|background subtraction
+moving object segmentation|Supertopic|background subtraction
+frame difference|Supertopic|background subtraction
+foreground segmentation|Supertopic|background subtraction
+shadow removal|Supertopic|background subtraction
+background subtraction technique|Supertopic|background subtraction
+output-tracking|Supertopic|backstepping
+adaptive backstepping|Supertopic|backstepping
+backstepping control|Supertopic|backstepping
+adaptive neural control|Supertopic|backstepping
+stochastic nonlinear system|Supertopic|backstepping
+feedback form|Supertopic|backstepping
+backstepping design|Supertopic|backstepping
+dynamic surface control|Supertopic|backstepping
+closed-loop signal|Supertopic|backstepping
+bayesian filtering|Supertopic|bayesian approach, bayesian framework, bayesian model
+variational approximation|Supertopic|bayesian approach, bayesian framework, bayesian model
+gibbs sampling|Supertopic|bayesian approach, bayesian framework, bayesian model
+bayesian classifier|Supertopic|bayesian approach, bayesian framework, bayesian model, classifier
+latent variable model|Supertopic|bayesian approach, bayesian framework, bayesian model
+variational bayesian|Supertopic|bayesian approach, bayesian framework, bayesian model
+probabilistic inference|Supertopic|bayesian approach, bayesian model, inference engine
+probabilistic model|Supertopic|bayesian approach, bayesian framework, bayesian model
+bayesian estimation|Supertopic|bayesian approach, bayesian framework, bayesian model
+prior information|Supertopic|bayesian approach, bayesian framework, bayesian model
+variational inference|Supertopic|bayesian approach, bayesian framework, bayesian model, inference engine
+mcmc method|Supertopic|bayesian approach, bayesian model
+bayesian inference|Supertopic|bayesian approach, bayesian framework, bayesian model, inference engine
+naive bayes|Supertopic|bayesian approach, bayesian framework, bayesian model, decision tree
+inference algorithm|Supertopic|bayesian approach, bayesian framework, bayesian model, inference engine
+graphical model|Supertopic|bayesian approach, bayesian framework, bayesian model
+non-parametric bayesian|Supertopic|bayesian approach, bayesian framework, bayesian model, inference engine
+markov chain monte carlo method|Supertopic|bayesian approach, bayesian framework, bayesian model
+bayesian classification|Supertopic|bayesian classifier
+naive bayesian classifier|Supertopic|bayesian classifier
+bayesian estimator|Supertopic|bayesian estimation
+deep belief network|Supertopic|bayesian model, deep learning
+zero moment point|Supertopic|biped robot, humanoid robot, humanoid robotics
+walking pattern|Supertopic|biped robot, humanoid robot, humanoid robotics
+boolean network|Supertopic|boolean algebra
+boolean satisfiability|Supertopic|boolean algebra
+boolean operation|Supertopic|boolean algebra
+coalgebra|Supertopic|boolean algebra
+boolean formula|Supertopic|boolean algebra
+coalgebraic|Supertopic|boolean algebra
+semi-tensor product|Supertopic|boolean network
+quantum-dot cellular automaton|Supertopic|cellular automaton, pattern recognition system
+cellular automata model|Supertopic|cellular automaton, pattern recognition system
+two-dimensional cellular automaton|Supertopic|cellular automaton
+cellular automaton model|Supertopic|cellular automaton
+handwritten digit recognition|Supertopic|character recognition
+writer identification|Supertopic|character recognition
+optical character recognition|Supertopic|character recognition
+character recognition system|Supertopic|character recognition
+chinese character|Supertopic|character recognition
+handwritten word recognition|Supertopic|character recognition
+word segmentation|Supertopic|character recognition, natural language processing, natural language processing system
+character set|Supertopic|character recognition
+document analysis|Supertopic|character recognition
+handwriting recognition|Supertopic|character recognition
+binarizations|Supertopic|character recognition
+text detection|Supertopic|character recognition, text processing
+off-line handwritten|Supertopic|character recognition
+chinese character recognition|Supertopic|chinese character
+handwritten chinese character|Supertopic|chinese character
+chinese language|Supertopic|chinese character
+support vector machine (svm)|Supertopic|classifier
+base classifier|Supertopic|classifier
+k-nn classifier|Supertopic|classifier
+fuzzy classifier|Supertopic|classifier
+fuzzy classification|Supertopic|classifier
+bayes classifier|Supertopic|classifier
+adaptive boosting|Supertopic|classifier
+multiple classifier system|Supertopic|classifier, pattern recognition
+decision tree|Supertopic|classifier
+bayesian network classifier|Supertopic|classifier
+naive bayes classifier|Supertopic|classifier
+associative classifier|Supertopic|classifier
+multiple classifier|Supertopic|classifier, pattern recognition
+class label|Supertopic|classifier
+text clustering|Supertopic|cluster analysis, text processing
+data clustering|Supertopic|cluster analysis
+cluster number|Supertopic|cluster analysis
+cluster validity|Supertopic|cluster analysis
+fuzzy clustering analysis|Supertopic|cluster analysis
+spatial clustering|Supertopic|cluster analysis
+cluster validation|Supertopic|cluster analysis
+document clustering|Supertopic|cluster analysis
+dendrograms|Supertopic|cluster analysis
+hierarchical cluster analysis|Supertopic|cluster analysis
+clustering quality|Supertopic|cluster analysis
+k-means clustering|Supertopic|cluster analysis
+cluster validity index|Supertopic|cluster validity
+coalitional game|Supertopic|coalition formation
+coalition structure|Supertopic|coalition formation
+cognitive wireless network|Supertopic|cognitive network
+cognitive science|Supertopic|cognitive system
+fuzzy cognitive map|Supertopic|cognitive system
+cognitive process|Supertopic|cognitive system
+cognitive modeling|Supertopic|cognitive system
+cognitive architecture|Supertopic|cognitive system
+cognitive network|Supertopic|cognitive system
+dynamic spectrum access|Supertopic|cognitive system
+spectrum sensing|Supertopic|cognitive system
+color interpolation|Supertopic|color filter array
+bayer pattern|Supertopic|color filter array
+color filter array|Supertopic|color image
+color image enhancement|Supertopic|color image
+color image segmentation|Supertopic|color image
+gray-scale image|Supertopic|color image
+color component|Supertopic|color image
+commonsense knowledge|Supertopic|commonsense, common-sense computing, commonsense reasoning, knowledge based system
+common-sense knowledge|Supertopic|common-sense computing, common-sense reasoning, commonsense reasoning
+communicating sequential process|Supertopic|communicating sequential process
+digital game|Supertopic|computer game
+image indexing|Supertopic|content based retrieval
+fourier descriptor|Supertopic|content based retrieval
+image descriptor|Supertopic|content based retrieval, descriptor
+content-based video retrieval|Supertopic|content based retrieval, video retrieval
+content based filtering|Supertopic|content based retrieval
+3d model retrieval|Supertopic|content based retrieval
+similarity retrieval|Supertopic|content based retrieval, image database
+relevance feedback|Supertopic|content based retrieval
+retrieval efficiency|Supertopic|content based retrieval
+local binary pattern|Supertopic|content based retrieval
+3d object retrieval|Supertopic|content based retrieval
+shape information|Supertopic|content based retrieval
+local binary pattern (lbp)|Supertopic|content based retrieval
+content-based image retrieval|Supertopic|content based retrieval
+content provider|Supertopic|content based retrieval
+image retrieval system|Supertopic|content based retrieval
+image collection|Supertopic|content based retrieval
+nash bargaining solution|Supertopic|cooperative game
+shapley value|Supertopic|cooperative game
+datalog program|Supertopic|datalog
+multi-criteria decision analysis|Supertopic|decision analysis, decision support system
+decision modeling|Supertopic|decision model
+presburger arithmetic|Supertopic|decision procedure
+dominance relation|Supertopic|decision rule, decision table
+rule induction|Supertopic|decision rule, decision table
+attribute reduction|Supertopic|decision rule, decision table
+dominance-based rough set approach|Supertopic|decision rule, decision table
+rough set model|Supertopic|decision rule, decision table
+decision support technique|Supertopic|decision support system
+intelligent decision support system|Supertopic|decision support system, decision theory, knowledge based system
+decision model|Supertopic|decision support system, decision theory
+clinical decision support|Supertopic|decision support system
+group support system|Supertopic|decision support system
+sat solver|Supertopic|decision theory, satisfiability
+decision-theoretic|Supertopic|decision theory, game theory
+multi-criteria decision making|Supertopic|decision theory
+analytic hierarchy|Supertopic|decision theory
+decision procedure|Supertopic|decision theory
+binary decision diagram (bdd)|Supertopic|decision theory
+decision table|Supertopic|decision theory
+group decision-making|Supertopic|decision theory
+evidential reasoning|Supertopic|decision theory, knowledge based system
+decision rule|Supertopic|decision theory
+decision analysis|Supertopic|decision theory
+analytic network process|Supertopic|decision theory
+decision-tree algorithm|Supertopic|decision tree
+random subspace|Supertopic|decision tree, ensemble learning
+binary decision tree|Supertopic|decision tree
+decision tree induction|Supertopic|decision tree
+classification rule|Supertopic|decision tree
+fuzzy decision tree|Supertopic|decision tree
+classifier ensemble|Supertopic|decision tree
+spatial index|Supertopic|decision tree
+decision tree model|Supertopic|decision tree
+random forest|Supertopic|decision tree
+ensemble classifier|Supertopic|decision tree
+decision tree learning|Supertopic|decision tree
+spatial query|Supertopic|decision tree
+c4.5 algorithm|Supertopic|decision-tree algorithm
+fuzzy description logic|Supertopic|description logic
+web ontology language|Supertopic|description logic
+scale invariant feature transform (sift)|Supertopic|descriptor
+local descriptor|Supertopic|descriptor, face recognition
+local invariant feature|Supertopic|descriptor, local feature
+texture descriptor|Supertopic|descriptor
+shape descriptor|Supertopic|descriptor
+spoken language understanding|Supertopic|dialogue system, spoken dialogue system
+spoken dialogue|Supertopic|dialogue system, spoken dialogue system
+dialogue management|Supertopic|dialogue system, spoken dialogue system
+multi-objective differential evolution|Supertopic|differential evolution
+modified differential evolution|Supertopic|differential evolution
+parameter adaptation|Supertopic|differential evolution
+mutation operation|Supertopic|differential evolution, particle swarm, particle swarm algorithm, pso algorithm
+dimensionality reduction method|Supertopic|dimensionality reduction, face recognition
+locality preserving projection|Supertopic|dimensionality reduction, face recognition
+random projection|Supertopic|dimensionality reduction
+manifold learning|Supertopic|dimensionality reduction, face recognition
+fisher discriminant analysis|Supertopic|dimensionality reduction
+curse of dimensionality|Supertopic|dimensionality reduction
+small sample size problem|Supertopic|dimensionality reduction
+subspace learning|Supertopic|dimensionality reduction, face recognition
+distributed parameter|Supertopic|distributed parameter system
+centralized scheduling|Supertopic|distributed scheduling
+skew detection|Supertopic|document analysis, optical character recognition
+document representation|Supertopic|document clustering, text processing
+document image processing|Supertopic|document image
+handwritten document|Supertopic|document image, handwriting recognition
+historical document|Supertopic|document image
+word image|Supertopic|document image
+printed document|Supertopic|document image
+document image analysis|Supertopic|document image
+spectrum measurement|Supertopic|dynamic spectrum access
+dynamic spectrum|Supertopic|dynamic spectrum access, spectrum sensing
+cognitive radio technology|Supertopic|dynamic spectrum access, spectrum sensing
+style sheet|Supertopic|electronic document
+emotional speech|Supertopic|emotion recognition
+basic emotion|Supertopic|emotion recognition, facial expression
+affect recognition|Supertopic|emotion recognition, facial expression
+human emotion|Supertopic|emotion recognition, facial expression
+double threshold|Supertopic|energy detection, energy detector
+ensemble classification|Supertopic|ensemble classifier, ensemble learning
+ensemble model|Supertopic|ensemble learning
+ensemble algorithm|Supertopic|ensemble learning
+ensemble technique|Supertopic|ensemble learning
+covariance matrix adaptation|Supertopic|evolution strategy
+black-box optimization|Supertopic|evolution strategy
+memetic algorithm|Supertopic|evolutionary algorithm
+constrained problem|Supertopic|evolutionary algorithm
+artificial bee colony|Supertopic|evolutionary algorithm, swarm intelligence
+high-quality solution|Supertopic|evolutionary algorithm
+cartesian genetic programming|Supertopic|evolutionary algorithm, genetic programming
+global optimization problem|Supertopic|evolutionary algorithm, particle swarm, particle swarm algorithm, pso, pso algorithm
+grammatical evolution|Supertopic|evolutionary algorithm, genetic programming
+exploration and exploitation|Supertopic|evolutionary algorithm, particle swarm, particle swarm algorithm
+multi objective optimizations (moo)|Supertopic|evolutionary algorithm
+mutation operator|Supertopic|evolutionary algorithm, particle swarm, particle swarm algorithm, pso, pso algorithm
+scatter search|Supertopic|evolutionary algorithm, tabu search
+estimation of distribution algorithm|Supertopic|evolutionary algorithm
+genetic operator|Supertopic|evolutionary algorithm
+gene expression programming|Supertopic|evolutionary algorithm, genetic programming
+premature convergence|Supertopic|evolutionary algorithm, particle swarm, particle swarm algorithm, pso algorithm
+dynamic optimization problem (dop)|Supertopic|evolutionary algorithm, particle swarm, particle swarm algorithm, pso, pso algorithm
+search process|Supertopic|evolutionary algorithm
+self-adaptive|Supertopic|evolutionary algorithm
+fitness evaluation|Supertopic|evolutionary algorithm
+hybrid algorithm|Supertopic|evolutionary algorithm, particle swarm, particle swarm algorithm, pso, pso algorithm
+evolution strategy|Supertopic|evolutionary algorithm
+interpretability|Supertopic|evolutionary algorithm
+evolutionary strategy|Supertopic|evolutionary algorithm
+evolutionary computation|Supertopic|evolutionary algorithm
+scale factor|Supertopic|evolutionary algorithm
+evolutionary optimization|Supertopic|evolutionary algorithm
+candidate solution|Supertopic|evolutionary algorithm
+numerical optimization|Supertopic|evolutionary algorithm
+evolutionary process|Supertopic|evolutionary algorithm
+symbolic regression|Supertopic|evolutionary algorithm, genetic programming
+evolutionary search|Supertopic|evolutionary algorithm
+multiobjective optimization|Supertopic|evolutionary algorithm
+evolutionary programming|Supertopic|evolutionary algorithm
+differential evolution|Supertopic|evolutionary algorithm
+evolutionary computation technique|Supertopic|evolutionary computation, genetic programming, particle swarm, particle swarm algorithm, pso, pso algorithm
+evolutionary stable strategy|Supertopic|evolutionary game
+replicator dynamic|Supertopic|evolutionary game theory
+expert knowledge|Supertopic|expert system, knowledge based system
+fuzzy expert system|Supertopic|expert system
+eye detection|Supertopic|face detection, face image
+face tracking|Supertopic|face detection
+skin detection|Supertopic|face detection
+cascade classifier|Supertopic|face detection, object detection
+skin color model|Supertopic|face detection
+haar feature|Supertopic|face detection
+frontal face|Supertopic|face detection, face image
+haar-like feature|Supertopic|face detection
+real-time face detection|Supertopic|face detection
+face detection algorithm|Supertopic|face detection
+gabor feature|Supertopic|face image, gabor filter, gabor wavelet
+feret database|Supertopic|face image
+face hallucination|Supertopic|face image
+gender recognition|Supertopic|face image, gender classification
+illumination normalization|Supertopic|face image
+illumination variation|Supertopic|face image
+face recognition performance|Supertopic|face image, face recognition algorithm
+3d face model|Supertopic|face image, face modeling, face model
+face feature|Supertopic|face image
+face image|Supertopic|face recognition
+human face|Supertopic|face recognition
+active appearance model|Supertopic|face recognition
+principle component analysis|Supertopic|face recognition
+small sample size|Supertopic|face recognition
+gabor filter|Supertopic|face recognition
+illumination condition|Supertopic|face recognition
+emotion recognition|Supertopic|face recognition
+linear discriminants|Supertopic|face recognition
+face detection|Supertopic|face recognition
+non-negative matrix factorization algorithm|Supertopic|face recognition
+sign language recognition|Supertopic|face recognition, gesture recognition
+gabor wavelet|Supertopic|face recognition
+local feature|Supertopic|face recognition, object recognition
+facial feature point|Supertopic|face recognition
+face recognition system|Supertopic|face recognition
+binary pattern|Supertopic|face recognition
+class information|Supertopic|face recognition
+audio-visual|Supertopic|face recognition
+face model|Supertopic|face recognition
+appearance model|Supertopic|face recognition
+image representation|Supertopic|face recognition, image retrieval, object recognition
+single image|Supertopic|face recognition
+facial image|Supertopic|face recognition
+face modeling|Supertopic|face recognition
+face recognition algorithm|Supertopic|face recognition
+lighting condition|Supertopic|face recognition
+local texture|Supertopic|face recognition
+recognition algorithm|Supertopic|face recognition
+eigenfaces|Supertopic|face recognition algorithm
+emotional expression|Supertopic|facial expression
+3d face|Supertopic|facial expression
+facial feature extraction|Supertopic|facial expression, facial image
+head pose|Supertopic|facial expression
+facial expression recognition|Supertopic|facial expression
+facial action coding system|Supertopic|facial expression
+gender classification|Supertopic|facial image
+machining feature|Supertopic|feature recognition
+kernel trick|Supertopic|feature set
+prototype filter|Supertopic|filter bank
+gabor filter bank|Supertopic|filter bank
+first-order formula|Supertopic|first order logic, logic programming
+markov logic network|Supertopic|first order logic
+combination forecasting|Supertopic|forecasting accuracy, forecasting method, forecasting model
+forecasting technique|Supertopic|forecasting accuracy, forecasting method, forecasting model
+forecasting error|Supertopic|forecasting accuracy, forecasting method, forecasting model
+forecasting performance|Supertopic|forecasting accuracy, forecasting method, forecasting model
+forecasting system|Supertopic|forecasting accuracy, forecasting method, forecasting model
+fuzzy time series|Supertopic|forecasting accuracy, forecasting method, forecasting model
+automated reasoning|Supertopic|formal logic
+satisfiability|Supertopic|formal logic
+higher order logic|Supertopic|formal logic
+boolean algebra|Supertopic|formal logic
+program verification|Supertopic|formal logic
+modal logic|Supertopic|formal logic
+kripke semantics|Supertopic|formal logic
+logic programming|Supertopic|formal logic
+theorem provers|Supertopic|formal logic
+dempster-shafer theory|Supertopic|formal logic
+separation logic|Supertopic|formal logic
+description logic|Supertopic|formal logic, knowledge representation
+first order logic|Supertopic|formal logic
+automated theorem proving|Supertopic|formal logic
+formal proof|Supertopic|formal logic
+proof system|Supertopic|formal logic
+formal method|Supertopic|formal logic
+temporal logic|Supertopic|formal logic
+sequent calculus|Supertopic|formal logic
+formal framework|Supertopic|formal method
+formal model|Supertopic|formal method
+automatic verification|Supertopic|formal method
+formal semantics|Supertopic|formal method
+formal approach|Supertopic|formal method
+model-checking technique|Supertopic|formal method
+formal specification|Supertopic|formal method
+formal modeling|Supertopic|formal model
+formal modelling|Supertopic|formal model
+z notation|Supertopic|formal specification
+cognitive map|Supertopic|fuzzy cognitive map
+filter bank|Supertopic|gabor filter
+gabor wavelet transforms|Supertopic|gabor wavelet
+game analysis|Supertopic|game model
+coalition formation|Supertopic|game theory
+evolutionarily stable strategy|Supertopic|game theory
+stochastic game|Supertopic|game theory
+incentive mechanism|Supertopic|game theory
+retail price|Supertopic|game theory
+stackelberg game|Supertopic|game theory
+cooperative game|Supertopic|game theory
+evolutionary game theory|Supertopic|game theory
+nash equilibrium|Supertopic|game theory
+mechanism design|Supertopic|game theory
+repeated game|Supertopic|game theory
+optimal strategy|Supertopic|game theory
+prisoners dilemma|Supertopic|game theory
+leader-follower|Supertopic|game theory
+game-theoretic|Supertopic|game theory
+computer game|Supertopic|game theory
+utility function|Supertopic|game theory
+multi-agent learning|Supertopic|game theory
+evolutionary game|Supertopic|game theory
+dynamic spectrum sharing|Supertopic|game theory
+game model|Supertopic|game theory
+prisoner dilemma|Supertopic|game theory
+evolutionary algorithm|Supertopic|genetic algorithm
+simple genetic algorithm|Supertopic|genetic algorithm
+penalty function|Supertopic|genetic algorithm
+hybrid genetic algorithm|Supertopic|genetic algorithm
+genetic fuzzy system|Supertopic|genetic algorithm
+fitness function|Supertopic|genetic algorithm
+genetic programming|Supertopic|genetic algorithm
+simulated annealing|Supertopic|genetic algorithm
+fuzzy simulation|Supertopic|genetic algorithm
+genetic-fuzzy|Supertopic|genetic fuzzy system
+linear genetic programming|Supertopic|genetic programming
+3d pose estimation|Supertopic|gesture recognition, pose estimation
+hand image|Supertopic|gesture recognition
+human motion analysis|Supertopic|gesture recognition
+facial expression|Supertopic|gesture recognition
+hand tracking|Supertopic|gesture recognition
+human pose|Supertopic|gesture recognition, pose estimation
+hand gesture|Supertopic|gesture recognition
+action recognition|Supertopic|gesture recognition
+kinect|Supertopic|gesture recognition
+graph-matching algorithm|Supertopic|graph matching
+probabilistic graphical model|Supertopic|graphical model, inference engine
+approximate inference|Supertopic|graphical model, inference engine
+message passing algorithm|Supertopic|graphical model, inference engine
+graphical modeling|Supertopic|graphical model
+loopy belief propagation|Supertopic|graphical model, inference engine
+grey relation|Supertopic|grey relational analysis
+hand-gesture recognition|Supertopic|hand gesture
+hand shape|Supertopic|hand gesture
+hand posture|Supertopic|hand gesture
+hand motion|Supertopic|hand gesture
+hand posture recognition|Supertopic|hand posture
+handwritten word|Supertopic|handwriting recognition
+handwritten text|Supertopic|handwriting recognition
+printed text|Supertopic|handwritten text, optical character recognition
+heuristic approach|Supertopic|heuristic programming
+adaptive critic design|Supertopic|heuristic programming
+home automation system|Supertopic|home automation
+patient data|Supertopic|hospital data processing
+human face detection|Supertopic|human face
+human face recognition|Supertopic|human face
+monocular image|Supertopic|human pose
+human pose estimation|Supertopic|human pose
+human-robot interface|Supertopic|human robot interaction
+nonverbal behavior|Supertopic|human robot interaction
+human-human interaction|Supertopic|human robot interaction
+human-robot collaboration|Supertopic|human robot interaction
+whole-body motion|Supertopic|humanoid robot, humanoid robotics
+biped walking|Supertopic|humanoid robot, humanoid robotics
+walking motion|Supertopic|humanoid robot, humanoid robotics
+gait planning|Supertopic|humanoid robot, humanoid robotics
+human robot interaction|Supertopic|humanoid robot, humanoid robotics
+dynamic walking|Supertopic|humanoid robot, humanoid robotics
+walking control|Supertopic|humanoid robot, humanoid robotics
+inverted pendulum model|Supertopic|humanoid robot, humanoid robotics
+imitation learning|Supertopic|humanoid robotics
+hybrid optimization algorithm|Supertopic|hybrid algorithm
+hybrid evolutionary algorithm|Supertopic|hybrid algorithm
+hybrid pso|Supertopic|hybrid particle swarm optimization, hybrid particle swarm optimization algorithm
+illumination invariant|Supertopic|illumination condition
+web image|Supertopic|image annotation
+automatic image annotation|Supertopic|image annotation
+similar image|Supertopic|image database
+bag-of-visual-words|Supertopic|image representation
+image search|Supertopic|image retrieval
+image annotation|Supertopic|image retrieval
+clickthrough data|Supertopic|image retrieval
+video retrieval|Supertopic|image retrieval
+color feature|Supertopic|image retrieval
+image database|Supertopic|image retrieval
+color histogram|Supertopic|image retrieval
+descriptor|Supertopic|image retrieval, object recognition
+visual feature|Supertopic|image retrieval
+content based retrieval|Supertopic|image retrieval
+nearest neighbor search|Supertopic|image retrieval
+video shot|Supertopic|image retrieval
+implicit feedback|Supertopic|image retrieval
+visual similarity|Supertopic|image retrieval
+image feature|Supertopic|image retrieval, object recognition
+image search engine|Supertopic|image search
+image identification|Supertopic|image understanding
+image rendering|Supertopic|image understanding
+explicit feedback|Supertopic|implicit feedback
+principal-agent theory|Supertopic|incentive mechanism
+incentive scheme|Supertopic|incentive mechanism
+grammatical inference|Supertopic|inference engine
+fuzzy inference system (fis)|Supertopic|inference engine
+formal learning|Supertopic|informal learning
+relation extraction|Supertopic|information extraction
+extracting information|Supertopic|information extraction
+free text|Supertopic|information extraction, text processing
+web information extraction|Supertopic|information extraction
+intelligence analyst|Supertopic|intelligence analysis
+intelligent controller|Supertopic|intelligent control
+control and automation|Supertopic|intelligent control
+delay dependent|Supertopic|intelligent control
+systems design|Supertopic|intelligent control, intelligent system
+distributed parameter system|Supertopic|intelligent control
+smart sensor|Supertopic|intelligent control
+smart city|Supertopic|intelligent environment, smart environment
+smart manufacturing|Supertopic|intelligent environment, smart environment
+smart home|Supertopic|intelligent environment, smart environment
+human operator|Supertopic|intelligent robot
+robot behavior|Supertopic|intelligent robot
+service robot|Supertopic|intelligent robot
+robot learning|Supertopic|intelligent robot
+task planning|Supertopic|intelligent robot
+laser range finder|Supertopic|intelligent robot
+humanoid robot|Supertopic|intelligent robot
+robot motion|Supertopic|intelligent robot
+visual slam|Supertopic|intelligent robot
+robotic hand|Supertopic|intelligent robot
+real robot|Supertopic|intelligent robot
+human walking|Supertopic|intelligent robot
+modular robotics|Supertopic|intelligent robot
+humanoid robotics|Supertopic|intelligent robot
+microrobot|Supertopic|intelligent robot
+anthropomorphic robot|Supertopic|intelligent robot
+wall climbing robot|Supertopic|intelligent robot
+robot dynamic|Supertopic|intelligent robot
+intelligent computing|Supertopic|intelligent system
+human driver|Supertopic|intelligent system
+advanced traffic management system|Supertopic|intelligent system
+intelligent transportation|Supertopic|intelligent system
+intelligent material|Supertopic|intelligent system
+grey system|Supertopic|intelligent system, system theory
+pedagogical agent|Supertopic|intelligent tutoring
+fuzzy rule-based classifier|Supertopic|interpretability
+ion bombardment|Supertopic|ion implantation
+microsoft kinect|Supertopic|kinect
+extreme learning machine|Supertopic|knowledge acquisition
+knowledge engineer|Supertopic|knowledge acquisition, knowledge base, knowledge engineering
+share knowledge|Supertopic|knowledge acquisition
+knowledge management system|Supertopic|knowledge acquisition
+knowledge discovery|Supertopic|knowledge acquisition
+case-based reasoning (cbr)|Supertopic|knowledge based system
+knowledge engineering|Supertopic|knowledge based system
+knowledge management|Supertopic|knowledge based system
+relational database|Supertopic|knowledge based system
+domain knowledge|Supertopic|knowledge based system
+knowledge representation|Supertopic|knowledge based system
+real time system|Supertopic|knowledge based system
+common-sense knowledge base|Supertopic|knowledge based system
+relational database system|Supertopic|knowledge based system
+knowledge base|Supertopic|knowledge based system
+knowledge discovery process|Supertopic|knowledge discovery
+content management system|Supertopic|knowledge engineering
+content management|Supertopic|knowledge engineering
+mobile interaction|Supertopic|knowledge management
+tacit knowledge|Supertopic|knowledge management
+social software|Supertopic|knowledge management
+knowledge acquisition|Supertopic|knowledge management
+sustainable competitive advantage|Supertopic|knowledge management
+enterprise 2.0|Supertopic|knowledge management
+knowledge exchange|Supertopic|knowledge management
+knowledge transfer|Supertopic|knowledge management
+informal learning|Supertopic|knowledge management
+explicit knowledge|Supertopic|knowledge management
+wiki|Supertopic|knowledge management
+organizational learning|Supertopic|knowledge management
+knowledge representation and reasoning|Supertopic|knowledge representation, logic programming
+ontology language|Supertopic|knowledge representation
+natural language understanding|Supertopic|knowledge representation, natural language processing, natural language processing system
+formal ontology|Supertopic|knowledge representation
+background knowledge|Supertopic|knowledge representation
+non-monotonic reasoning|Supertopic|knowledge representation, logic programming
+answer set programming|Supertopic|knowledge representation, logic programming
+automatic vehicle identification|Supertopic|license plate location
+vehicle license plate|Supertopic|license plate location
+license plate detection|Supertopic|license plate location
+proof search|Supertopic|linear logic, sequent calculus
+global feature|Supertopic|local feature
+meta programming|Supertopic|logic programming
+complexity result|Supertopic|logic programming
+event calculus|Supertopic|logic programming
+constraint logic programming|Supertopic|logic programming
+inductive logic programming|Supertopic|logic programming, machine learning
+logic program|Supertopic|logic programming
+argumentation|Supertopic|logic programming
+program analysis|Supertopic|logic programming
+propositional logic|Supertopic|logic programming
+horn clause|Supertopic|logic programming
+linear logic|Supertopic|logic programming
+modal operator|Supertopic|logic programming, modal logic
+prolog (programming language)|Supertopic|logic programming
+datalog|Supertopic|logic programming
+termination analysis|Supertopic|logic program
+link prediction|Supertopic|machine learning
+classifier|Supertopic|machine learning
+reinforcement learning (rl)|Supertopic|machine learning
+back-propagation neural network|Supertopic|machine learning
+training sample|Supertopic|machine learning
+cluster analysis|Supertopic|machine learning
+forecasting method|Supertopic|machine learning
+back propagation neural network|Supertopic|machine learning
+parameter learning|Supertopic|machine learning
+training set|Supertopic|machine learning
+forecasting accuracy|Supertopic|machine learning
+associative processing|Supertopic|machine learning
+pattern recognition|Supertopic|machine learning
+test sample|Supertopic|machine learning
+test set|Supertopic|machine learning
+topic model|Supertopic|machine learning, natural language processing, natural language processing system
+forecasting model|Supertopic|machine learning
+supervised machine learning|Supertopic|machine learning
+ensemble learning|Supertopic|machine learning
+neural network model|Supertopic|machine learning
+target language|Supertopic|machine translation, speech transmission
+human evaluation|Supertopic|machine translation
+translation model|Supertopic|machine translation, statistical machine translation
+translation system|Supertopic|machine translation, statistical machine translation
+bilingual dictionary|Supertopic|machine translation
+parallel corpus|Supertopic|machine translation, statistical machine translation
+translation process|Supertopic|machine translation
+automatic evaluation|Supertopic|machine translation, speech transmission
+english sentence|Supertopic|machine translation
+automatic translation|Supertopic|machine translation
+isomap|Supertopic|manifold learning
+local geometry|Supertopic|manifold learning
+manifold learning algorithm|Supertopic|manifold learning
+neighborhood graph|Supertopic|manifold learning
+low-dimensional manifold|Supertopic|manifold learning
+intrinsic dimension|Supertopic|manifold learning
+mean shift tracking|Supertopic|mean shift algorithm
+vcg mechanism|Supertopic|mechanism design
+incentive compatibility|Supertopic|mechanism design
+optimal mechanism|Supertopic|mechanism design
+strategy proof|Supertopic|mechanism design
+auction mechanism|Supertopic|mechanism design
+medical database|Supertopic|medical computing
+hospital data processing|Supertopic|medical computing
+telehealth|Supertopic|medical computing
+records management|Supertopic|medical computing
+personal health record|Supertopic|medical computing
+memetic|Supertopic|memetic algorithm
+mobile base|Supertopic|mobile manipulator
+mobile manipulation|Supertopic|mobile manipulator
+dynamic logic|Supertopic|modal logic
+epistemic logic|Supertopic|modal logic
+kripke model|Supertopic|modal logic
+hybrid logic|Supertopic|modal logic
+deontic logic|Supertopic|modal logic
+classifier selection|Supertopic|multiple classifier system, multiple classifier
+individual classifier|Supertopic|multiple classifier system, multiple classifier
+combining classifier|Supertopic|multiple classifier system, multiple classifier
+classifier fusion|Supertopic|multiple classifier system, multiple classifier
+multirobot system|Supertopic|multipurpose robot
+multi-robot system|Supertopic|multipurpose robot
+multirobots|Supertopic|multipurpose robot
+multiple robot|Supertopic|multipurpose robot
+multi-robot team|Supertopic|multipurpose robot
+quadrational unified processed robot|Supertopic|multipurpose robot
+robot team|Supertopic|multi-robot system, multirobot system
+multi-robot coordination|Supertopic|multi-robot system, multirobot system
+name recognition|Supertopic|named entity recognition
+payoff function|Supertopic|nash equilibrium
+strategic game|Supertopic|nash equilibrium
+stackelberg equilibrium|Supertopic|nash equilibrium, stackelberg game
+non-cooperative game|Supertopic|nash equilibrium
+correlated equilibrium|Supertopic|nash equilibrium
+mixed strategy|Supertopic|nash equilibrium
+zero-sum game|Supertopic|nash equilibrium
+game-theoretic model|Supertopic|nash equilibrium
+solution concept|Supertopic|nash equilibrium
+semantic relatedness|Supertopic|natural language processing
+word embedding|Supertopic|natural language processing, natural language processing system
+syntactic parsing|Supertopic|natural language processing, natural language processing system
+named entity|Supertopic|natural language processing
+sentiment analysis|Supertopic|natural language processing, natural language processing system
+natural language text|Supertopic|natural language processing, natural language processing system
+spoken language processing|Supertopic|natural language processing, natural language processing system
+syntactic structure|Supertopic|natural language processing, natural language processing system
+statistical language model|Supertopic|natural language processing, natural language processing system
+maximum entropy model|Supertopic|natural language processing, natural language processing system
+text processing|Supertopic|natural language processing, natural language processing system
+question answering|Supertopic|natural language processing, natural language processing system
+synset|Supertopic|natural language processing, natural language processing system
+information extraction|Supertopic|natural language processing, natural language processing system
+machine translation|Supertopic|natural language processing, natural language processing system
+cross-language information retrieval|Supertopic|natural language processing
+relevance model|Supertopic|natural language processing, natural language processing system
+n-gram language model|Supertopic|natural language processing, natural language processing system
+abstracting and indexing|Supertopic|natural language processing, natural language processing system
+treebanks|Supertopic|natural language processing, natural language processing system
+machine translation system|Supertopic|natural language processing, natural language processing system
+sequence labeling|Supertopic|natural language processing, natural language processing system
+lexical resource|Supertopic|natural language processing
+named entity recognition|Supertopic|natural language processing, natural language processing system
+dialogue system|Supertopic|natural language processing, natural language processing system
+parse tree|Supertopic|natural language processing, natural language processing system
+spoken dialogue system|Supertopic|natural language processing, natural language processing system
+information retrieval technology|Supertopic|natural language processing, natural language processing system
+speech transmission|Supertopic|natural language processing, natural language processing system
+pseudo relevance feedback|Supertopic|natural language processing, natural language processing system
+natural language generation|Supertopic|natural language processing, natural language processing system
+neuro-fuzzy controller|Supertopic|neuro-fuzzy
+neuro-fuzzy model|Supertopic|neuro-fuzzy, neuro-fuzzy system
+non-cooperative game theory|Supertopic|non-cooperative game
+default reasoning|Supertopic|non-monotonic reasoning
+defeasible reasoning|Supertopic|non-monotonic reasoning
+defeasible logic|Supertopic|non-monotonic reasoning
+nsga-ii algorithm|Supertopic|nsga-ii
+multi objective algorithm|Supertopic|nsga-ii
+scene understanding|Supertopic|object detection
+object detection algorithm|Supertopic|object detection
+pedestrian detection|Supertopic|object detection
+object location|Supertopic|object detection, object tracking
+object localization|Supertopic|object detection
+detecting object|Supertopic|object detection
+object classification|Supertopic|object detection
+background clutter|Supertopic|object detection
+motion detection|Supertopic|object recognition
+image understanding|Supertopic|object recognition
+depth estimation|Supertopic|object recognition
+background subtraction|Supertopic|object recognition
+intelligent video surveillance|Supertopic|object recognition
+hidden markov modeling|Supertopic|object recognition
+object detection|Supertopic|object recognition
+object segmentation|Supertopic|object recognition
+pose estimation|Supertopic|object recognition
+object tracking|Supertopic|object recognition
+object contour|Supertopic|object recognition
+shape matching|Supertopic|object recognition
+detection of moving object|Supertopic|object recognition
+moving-object detection|Supertopic|object recognition
+automatic target recognition|Supertopic|object recognition
+3d object recognition|Supertopic|object recognition
+sift|Supertopic|object recognition
+tracking method|Supertopic|object tracking
+visual object tracking|Supertopic|object tracking
+real-time object tracking|Supertopic|object tracking
+camshift|Supertopic|object tracking
+object tracking algorithm|Supertopic|object tracking
+multi-object tracking|Supertopic|object tracking
+object appearance|Supertopic|object tracking
+mean shift algorithm|Supertopic|object tracking
+moving object tracking|Supertopic|object tracking
+tracking object|Supertopic|object tracking
+bhattacharyya coefficient|Supertopic|object tracking
+partial occlusion|Supertopic|object tracking
+tracking process|Supertopic|object tracking
+robust tracking|Supertopic|object tracking
+product review|Supertopic|opinion mining
+polarity classification|Supertopic|opinion mining
+sentiment classification|Supertopic|opinion mining, text processing
+connected component analysis|Supertopic|optical character recognition
+ocr|Supertopic|optical character recognition
+document image|Supertopic|optical character recognition
+license plate location|Supertopic|optical character recognition
+learning organization|Supertopic|organizational learning
+organizational memory|Supertopic|organizational learning
+bilingual corpus|Supertopic|parallel corpus
+multi objective particle swarm optimization|Supertopic|pareto front, particle swarm, particle swarm algorithm, pso, pso algorithm
+pareto distribution|Supertopic|pareto principle
+binary particle swarm optimization|Supertopic|particle swarm, particle swarm algorithm, pso, pso algorithm
+hybrid particle swarm optimization|Supertopic|particle swarm, particle swarm algorithm, pso, pso algorithm
+particle swarm optimization technique|Supertopic|particle swarm, particle swarm algorithm, pso, pso algorithm
+pareto dominance|Supertopic|particle swarm, particle swarm algorithm, pso algorithm
+local convergence|Supertopic|particle swarm, particle swarm algorithm, pso algorithm
+global optimal solution|Supertopic|particle swarm, particle swarm algorithm, pso, pso algorithm
+hybrid particle swarm optimization algorithm|Supertopic|particle swarm, particle swarm algorithm, pso, pso algorithm
+quantum-behaved particle swarm optimization|Supertopic|particle swarm, particle swarm algorithm, pso, pso algorithm
+feature recognition|Supertopic|pattern recognition
+character recognition|Supertopic|pattern recognition
+sketch recognition|Supertopic|pattern recognition
+syntactic pattern recognition|Supertopic|pattern recognition
+color image|Supertopic|pattern recognition
+dimensionality reduction|Supertopic|pattern recognition
+object recognition|Supertopic|pattern recognition
+pattern recognition system|Supertopic|pattern recognition
+graph matching|Supertopic|pattern recognition
+feature set|Supertopic|pattern recognition
+activity recognition|Supertopic|pattern recognition
+pattern classification|Supertopic|pattern recognition
+k nearest neighbor algorithm|Supertopic|pattern recognition
+image retrieval|Supertopic|pattern recognition
+conditional random fields (crfs)|Supertopic|pattern recognition
+face recognition|Supertopic|pattern recognition
+gesture recognition|Supertopic|pattern recognition
+pneumatic cylinder|Supertopic|pneumatic drive
+pneumatic artificial muscle|Supertopic|pneumatic drive
+head pose estimation|Supertopic|pose estimation
+camera pose estimation|Supertopic|pose estimation
+object pose|Supertopic|pose estimation
+secondary system|Supertopic|primary system
+principle component|Supertopic|principle component analysis
+probabilistic modeling|Supertopic|probabilistic model
+online product|Supertopic|product review
+customer review|Supertopic|product review
+product feature|Supertopic|product review
+propositional formula|Supertopic|propositional logic
+pneumatic drive|Supertopic|pulse amplitude modulation
+qa system|Supertopic|question answering
+passage retrieval|Supertopic|question answering
+natural language question|Supertopic|question answering
+complex question|Supertopic|question answering
+question classification|Supertopic|question answering
+random forest classifier|Supertopic|random forest
+rbf network|Supertopic|rbf, rbfnn
+real-time scheduling algorithm|Supertopic|real time scheduling
+uml profile|Supertopic|real time system
+safety critical system|Supertopic|real time system
+cyber-physical system|Supertopic|real time system
+real-time java|Supertopic|real time system
+schedulability analysis|Supertopic|real time system
+real time scheduling|Supertopic|real time system
+distributed scheduling|Supertopic|real time system
+real-time task|Supertopic|real time system
+timing analysis|Supertopic|real time system
+real time operating system|Supertopic|real time system
+pre-emptive scheduling|Supertopic|real time system
+real-time rendering|Supertopic|real time system
+reactive system|Supertopic|real time system
+worst-case execution time|Supertopic|real time system
+real-time embedded system|Supertopic|real time system
+view-dependent|Supertopic|real-time rendering
+health record|Supertopic|records management
+electronic record|Supertopic|records management
+electronic health record system|Supertopic|records management
+relational schema|Supertopic|relational data
+sql query|Supertopic|relational database, relational database system
+relational algebra|Supertopic|relational database, relational database system
+query execution|Supertopic|relational database, relational database system
+relational data|Supertopic|relational database
+functional dependency|Supertopic|relational database, relational database system
+relational query|Supertopic|relational database, relational database system
+sql|Supertopic|relational database, relational database system
+relational database management system|Supertopic|relational database, relational database system
+temporal database|Supertopic|relational database, relational database system
+relational model|Supertopic|relational database system
+interactive robot|Supertopic|robot learning
+multipurpose robot|Supertopic|robot learning
+safety critical software|Supertopic|safety critical system
+sat-solving|Supertopic|sat solver
+clause learning|Supertopic|sat solver
+satisfiability modulo theory|Supertopic|satisfiability
+self-adaptive software|Supertopic|self-adaptive
+sentence similarity|Supertopic|semantic relatedness
+word similarity|Supertopic|semantic relatedness
+concept similarity|Supertopic|semantic relatedness
+semantic distance|Supertopic|semantic relatedness
+opinion mining|Supertopic|sentiment analysis
+imperative program|Supertopic|separation logic
+program logic|Supertopic|separation logic
+hoare logic|Supertopic|separation logic
+cut elimination|Supertopic|sequent calculus
+service robotics|Supertopic|service robot
+mobile service robot|Supertopic|service robot
+shape retrieval|Supertopic|shape matching
+sift descriptor|Supertopic|sift
+annealing|Supertopic|simulated annealing
+meta-heuristic approach|Supertopic|simulated annealing
+simulated annealing algorithm|Supertopic|simulated annealing
+tabu search|Supertopic|simulated annealing
+smart finance|Supertopic|smart city
+smart energy|Supertopic|smart city
+smart transportation solution|Supertopic|smart city
+home automation|Supertopic|smart home
+intelligent sensor|Supertopic|smart sensor
+social robotics|Supertopic|social robot
+soft computing method|Supertopic|soft computing
+radio environment|Supertopic|spectrum sensing
+noise power|Supertopic|spectrum sensing
+false alarm probability|Supertopic|spectrum sensing
+probability of detection|Supertopic|spectrum sensing
+cooperative spectrum sensing|Supertopic|spectrum sensing
+missed detection|Supertopic|spectrum sensing
+sensing scheme|Supertopic|spectrum sensing
+cyclostationarity|Supertopic|spectrum sensing
+radio spectrum|Supertopic|spectrum sensing
+energy detector|Supertopic|spectrum sensing
+primary user|Supertopic|spectrum sensing
+energy detection|Supertopic|spectrum sensing
+primary system|Supertopic|spectrum sensing
+wideband spectrum|Supertopic|spectrum sensing
+cyclostationary|Supertopic|spectrum sensing
+wireless microphone|Supertopic|spectrum sensing
+ieee 802.22|Supertopic|spectrum sensing
+statistical machine translation|Supertopic|speech transmission
+speech transcription|Supertopic|speech transmission
+unit selection|Supertopic|spoken language processing
+word alignment|Supertopic|statistical machine translation
+particle swarm|Supertopic|swarm intelligence
+stigmergy|Supertopic|swarm intelligence
+pso algorithm|Supertopic|swarm intelligence
+ant system|Supertopic|swarm intelligence
+particle swarm algorithm|Supertopic|swarm intelligence
+pso|Supertopic|swarm intelligence
+particle swarm optimization|Supertopic|swarm intelligence
+swarm robotics|Supertopic|swarm intelligence
+swarm of robot|Supertopic|swarm robotics
+swarm robot|Supertopic|swarm robotics
+robotic swarm|Supertopic|swarm robotics
+robot swarm|Supertopic|swarm robotics
+grey relational analysis|Supertopic|system theory
+system testing|Supertopic|system theory
+grey theory|Supertopic|system theory
+grey system theory|Supertopic|system theory
+grey prediction|Supertopic|system theory
+grey model|Supertopic|system theory
+supervisory control theory|Supertopic|system theory
+system dynamics model|Supertopic|system theory
+tabu search algorithm|Supertopic|tabu search
+variable neighborhood search|Supertopic|tabu search
+neighborhood structure|Supertopic|tabu search
+iterated local search|Supertopic|tabu search
+source language|Supertopic|target language
+temporal property|Supertopic|temporal logic
+ltl|Supertopic|temporal logic
+branching time|Supertopic|temporal logic
+interval temporal logic|Supertopic|temporal logic
+inverse document frequency|Supertopic|term frequency
+scene text|Supertopic|text detection
+natural scene image|Supertopic|text detection
+text region|Supertopic|text detection
+text input|Supertopic|text entry
+text document|Supertopic|text mining
+text mining technique|Supertopic|text mining
+text data|Supertopic|text mining
+text representation|Supertopic|text mining
+textual data|Supertopic|text mining
+text line|Supertopic|text processing
+word processing|Supertopic|text processing
+text summarization|Supertopic|text processing
+textual entailment|Supertopic|text processing
+document classification|Supertopic|text processing
+text entry|Supertopic|text processing
+term frequency|Supertopic|text processing
+text mining|Supertopic|text processing
+text localization|Supertopic|text region
+sentence extraction|Supertopic|text summarization
+automatic text summarization|Supertopic|text summarization
+automatic summarization|Supertopic|text summarization
+static timing analysis|Supertopic|timing analysis
+hierarchical dirichlet process|Supertopic|topic model
+urban traffic network|Supertopic|traffic network
+phrase-based statistical machine translation|Supertopic|translation model
+acceleration data|Supertopic|triaxial accelerometer
+underwater construction|Supertopic|underwater ballistics
+unmanned underwater vehicle|Supertopic|underwater ballistics
+underwater ballistics|Supertopic|underwater structure
+video search|Supertopic|video retrieval
+video browsing|Supertopic|video retrieval
+video collection|Supertopic|video retrieval
+suction cup|Supertopic|wall climbing robot
+mediawiki|Supertopic|wiki
+electronic document|Supertopic|word processing
+word sense disambiguation|Supertopic|word segmentation
+chinese word segmentation|Supertopic|word segmentation
+word sense|Supertopic|word sense disambiguation

@@ -1,0 +1,4 @@
+Location|Do you want to know the location of which place inside POLYU|Location
+Elective Subjects|Which master programme you want to query its elective subjects?|Elective Subjects
+Compulsory Subjects|Which master programme you want to query its compulsory subjects?|Compulsory Subjects
+Email|Which office/people do you want to know its/his/her email?|Email

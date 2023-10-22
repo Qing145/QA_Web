@@ -1,0 +1,19 @@
+Sentiment analysis (also known as opinion mining or emotion AI) is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information. Sentiment analysis is widely applied to voice of the customer materials such as reviews and survey responses, online and social media, and healthcare materials for applications that range from marketing to customer service to clinical medicine. With the rise of deep language models, such as RoBERTa, also more difficult data domains can be analyzed, e.g., news texts where authors typically express their opinion/sentiment less explicitly.
+
+
+Types:
+Subjectivity/objectivity identification, This task is commonly defined as classifying a given text (usually a sentence) into one of two classes: objective or subjective.
+Feature/aspect-based, It refers to determining the opinions or sentiments expressed on different features or aspects of entities, e.g., of a cell phone, a digital camera, or a bank.
+Intensity Ranking, Emotions and sentiments are subjective in nature. The degree of emotions/sentiments expressed in a given text at the document, sentence—to what degree of intensity is expressed in the opinion of a document, a sentence.
+
+
+Methods and features
+Existing approaches to sentiment analysis can be grouped into three main categories: knowledge-based techniques, statistical methods, and hybrid approaches.
+
+
+Evaluation
+The accuracy of a sentiment analysis system is, in principle, how well it agrees with human judgments. This is usually measured by variant measures based on precision and recall over the two target categories of negative and positive texts.
+
+Challenges of Sentiment analysis are Context-dependent errors, Negation Detection , Multilingual Data, Emojis, Potential Biases in Model Training.
+
+Some popular sentiment analysis applications include social media monitoring, customer support management, and analyzing customer feedback.

@@ -1,0 +1,216 @@
+Joshua Lederberg|Field of Work|genetics, microbiology
+I. J. Good|Field of Work|cosmology, cryptography, statistics
+John Searle|Field of Work|philosophy of mind, philosophy of language
+Raymond Kurzweil|Field of Work|speech synthesis, computer programming, optical character recognition, futures studies, speech recognition
+Stephen Wolfram|Field of Work|mathematics, physics, Informatics
+Seymour Papert|Field of Work|cognitive science
+Kevin Warwick|Field of Work|artificial intelligence, cybernetics, Robotics
+John Hopfield|Field of Work|biology
+Douglas B. Lenat|Field of Work|artificial intelligence, ontology, knowledge base
+Roger Schank|Field of Work|artificial intelligence, education science
+Eliezer Yudkowsky|Field of Work|artificial intelligence, decision theory, transhumanism, friendly artificial intelligence
+Hans Moravec|Field of Work|Robotics
+Arthur Samuel|Field of Work|machine learning
+W. Ross Ashby|Field of Work|cybernetics
+Hal Abelson|Field of Work|law, ethics, Informatics, informatics
+Bernard Widrow|Field of Work|electrical engineering
+Mark Steedman|Field of Work|computational linguistics
+Oliver Brock|Field of Work|machine learning, Robotics
+Paul Jorion|Field of Work|fishery, transhumanism, economic system, financial system, posthumanism, mortgage-backed security trading, mathematics, epistemology, artificial intelligence, psychoanalysis, humanism
+Luc Steels|Field of Work|artificial intelligence
+Richard Greenblatt|Field of Work|computer programming
+David M. Blei|Field of Work|topic model, machine learning, artificial intelligence
+Michael I. Jordan|Field of Work|machine learning, artificial intelligence
+Rose Dieng Kuntz|Field of Work|artificial intelligence
+Yann LeCun|Field of Work|deep learning, artificial intelligence, Informatics
+Yoshua Bengio|Field of Work|deep learning, artificial intelligence
+Stuart J. Russell|Field of Work|artificial intelligence
+Ben Goertzel|Field of Work|artificial intelligence
+Vladimir Gorodetski|Field of Work|artificial intelligence
+Anatolii Kargin|Field of Work|artificial intelligence researcher, Informatics
+The Japanese Society for Artificial Intelligence|Field of Work|artificial intelligence
+Yorick Wilks|Field of Work|artificial intelligence
+Victor Konstantinovich Finn|Field of Work|artificial intelligence
+Adam Cheyer|Field of Work|artificial intelligence
+Andrew Barto|Field of Work|Informatics, artificial intelligence
+Andy Clark|Field of Work|logic, metaphysics
+Cynthia Solomon|Field of Work|Informatics
+Bernhard Schölkopf|Field of Work|machine learning, artificial intelligence
+Bertram Raphael|Field of Work|artificial intelligence
+C. Raymond Perrault|Field of Work|artificial intelligence
+Charles Rosen|Field of Work|viticulture
+Dana S. Nau|Field of Work|automated planning and scheduling
+Donald W. Loveland|Field of Work|Informatics
+Eric Grimson|Field of Work|artificial intelligence, computer vision
+Frank van Harmelen|Field of Work|Semantic Web
+Hartmut Neven|Field of Work|physics
+Wally Feurzeig|Field of Work|Informatics
+Hugo de Garis|Field of Work|artificial intelligence, Evolvable hardware
+James F. Allen|Field of Work|artificial intelligence, computational linguistics
+James Hendler|Field of Work|artificial intelligence
+Jeff Dean|Field of Work|machine learning, compiler, computer architecture, distributed computing, information retrieval
+Josh Bongard|Field of Work|evolutionary computation, Evolutionary robotics
+Juan Pavón|Field of Work|Informatics
+Leslie P. Kaelbling|Field of Work|Robotics
+Louis Hodes|Field of Work|mathematics
+Marcus Hutter|Field of Work|artificial intelligence
+Mark A. O'Neill|Field of Work|ecosystem model
+Nils John Nilsson|Field of Work|artificial intelligence, artificial intelligence
+Oren Etzioni|Field of Work|Informatics
+Raymond Reiter|Field of Work|non-monotonic logic
+Richard Fikes|Field of Work|Informatics
+Richard S. Sutton|Field of Work|reinforcement learning
+Ronald J. Brachman|Field of Work|artificial intelligence, artificial intelligence
+Toby Walsh|Field of Work|artificial intelligence, artificial intelligence
+Steve Omohundro|Field of Work|artificial intelligence, artificial intelligence
+Steven M. LaValle|Field of Work|Robotics
+Sven Koenig|Field of Work|artificial intelligence, artificial intelligence
+Tim Finin|Field of Work|knowledge-based system, social informatics, artificial intelligence, natural language processing, Semantic Web, artificial intelligence
+Tom M. Mitchell|Field of Work|machine learning
+Zoubin Ghahramani|Field of Work|machine learning
+Oussama Khatib|Field of Work|Informatics, Robotics
+Nando de Freitas|Field of Work|Informatics
+Austin Tate|Field of Work|artificial intelligence, artificial intelligence
+Barbara J. Grosz|Field of Work|artificial intelligence, artificial intelligence
+Lenhart Schubert|Field of Work|artificial intelligence, artificial intelligence
+Jun Wang|Field of Work|genomics
+Amnon Shashua|Field of Work|Informatics
+Rayid Ghani|Field of Work|Informatics
+Radhika Nagpal|Field of Work|Informatics
+John D. Lafferty|Field of Work|Informatics
+Eric P. Xing|Field of Work|machine learning
+Henry Kautz|Field of Work|artificial intelligence, artificial intelligence
+Pedro Domingos|Field of Work|artificial intelligence, artificial intelligence
+Ilya Sutskever|Field of Work|machine learning
+Shane Legg|Field of Work|machine learning
+Barney Pell|Field of Work|Informatics
+Murray Shanahan|Field of Work|artificial intelligence, artificial intelligence
+Ashutosh Saxena|Field of Work|machine learning, Robotics
+Tomáš Mikolov|Field of Work|Word2vec, natural language processing
+Richard S. Zemel|Field of Work|mathematics
+Ian J. Goodfellow|Field of Work|deep learning
+Klaus-Robert Müller|Field of Work|machine learning, artificial intelligence, artificial intelligence
+Alexander J. Smola|Field of Work|machine learning, artificial intelligence, artificial intelligence
+Laurens van der Maaten|Field of Work|machine learning
+Janusz Kacprzyk|Field of Work|artificial intelligence
+Koray Kavukcuoglu|Field of Work|deep learning, machine learning
+Benjamin Blankertz|Field of Work|machine learning, brain–computer interface
+Joaquin Quiñonero Candela|Field of Work|bioinformatics
+Tom Heskes|Field of Work|machine learning
+Kate Devlin|Field of Work|human–computer interaction, artificial intelligence
+Raquel Urtasun|Field of Work|machine learning, artificial intelligence
+Maximilian Nickel|Field of Work|machine learning
+Emanuel Todorov|Field of Work|neuroscience
+Gregory Grefenstette|Field of Work|Informatics
+Roberto Navigli|Field of Work|Informatics, multilingualism, natural language processing, computational linguistics, natural language understanding
+Henning Sprekeler|Field of Work|computational neuroscience
+Wojciech Samek|Field of Work|deep learning, computer vision, machine learning
+Pushpak Bhattacharyya|Field of Work|Informatics
+Carla Gomes|Field of Work|artificial intelligence, computational sustainability
+Andreas Krause|Field of Work|machine learning, artificial intelligence
+Le Song|Field of Work|machine learning
+Nathan Srebro|Field of Work|machine learning
+Sewoong Oh|Field of Work|machine learning
+Emma Brunskill|Field of Work|Informatics
+Joëlle Pineau|Field of Work|Robotics, artificial intelligence, Informatics
+Ming-Yu Liu|Field of Work|deep learning, computer vision
+Joseph Weizenbaum|Field of Work|Informatics
+Michael Kohlhase|Field of Work|mathematics
+Jürgen Schmidhuber|Field of Work|artificial intelligence
+John McCarthy|Field of Work|artificial intelligence
+Scott E. Fahlman|Field of Work|Informatics
+J. C. R. Licklider|Field of Work|Informatics
+Edward Feigenbaum|Field of Work|Informatics
+Raj Reddy|Field of Work|artificial intelligence, Robotics, human–computer interaction
+Terry Winograd|Field of Work|Informatics
+Judea Pearl|Field of Work|Informatics, philosophy of science
+Peter Norvig|Field of Work|computer
+Jaron Lanier|Field of Work|Informatics
+Richard Wallace|Field of Work|artificial intelligence
+Geoffrey Hinton|Field of Work|machine learning, deep learning
+Aravind Joshi|Field of Work|computational linguistics
+Gerald Jay Sussman|Field of Work|cognitive science
+Wolfgang Wahlster|Field of Work|artificial intelligence
+Jonathan Schaeffer|Field of Work|artificial intelligence
+Marvin Minsky|Field of Work|artificial intelligence, Informatics, philosophy of mind, cognitive science
+Nathan Eagle|Field of Work|artificial intelligence
+Ngoc Thanh Nguyen|Field of Work|artificial intelligence
+Peter E. Hart|Field of Work|artificial intelligence
+Robert Haralick|Field of Work|artificial intelligence
+Ross D. King|Field of Work|artificial intelligence
+Yoav Shoham|Field of Work|artificial intelligence
+Zygmunt Vetulani|Field of Work|artificial intelligence
+Zhang Bo|Field of Work|artificial intelligence
+ICIA|Field of Work|artificial intelligence
+frame language|Field of Work|artificial intelligence
+Jozef Kelemen|Field of Work|artificial intelligence
+Allen Institute for Artificial Intelligence|Field of Work|artificial intelligence
+Solange Ghernaouti|Field of Work|artificial intelligence
+Jyrki Joutsensalo|Field of Work|artificial intelligence
+International Centre for Numerical Methods in Engineering|Field of Work|artificial intelligence
+Alice Recoque|Field of Work|artificial intelligence
+Future of Life Institute|Field of Work|artificial intelligence
+Fei-Fei Li|Field of Work|artificial intelligence
+Nuria Oliver|Field of Work|artificial intelligence
+Li Deyi|Field of Work|artificial intelligence
+Maria L. Gini|Field of Work|artificial intelligence
+Barbara Dunin-Kęplicz|Field of Work|artificial intelligence
+Christopher J. Mungall|Field of Work|artificial intelligence
+Gerard de Melo|Field of Work|artificial intelligence
+Italian Association for Artificial Intelligence|Field of Work|artificial intelligence
+Susanne Biundo-Stephan|Field of Work|artificial intelligence
+Brent Hecht|Field of Work|artificial intelligence
+Paul Schrater|Field of Work|artificial intelligence
+Steps Towards Artificial Intelligence|Field of Work|artificial intelligence
+Hannu Toivonen|Field of Work|artificial intelligence
+Sean Gourley|Field of Work|artificial intelligence
+Jason Weston|Field of Work|artificial intelligence
+Shaul Markovitch|Field of Work|artificial intelligence
+Partnership on AI|Field of Work|artificial intelligence
+Thomas Bolander|Field of Work|artificial intelligence
+Jens Lehmann|Field of Work|artificial intelligence
+Ruslan Salakhutdinov|Field of Work|artificial intelligence
+Ruzena Bajcsy|Field of Work|artificial intelligence, Robotics, computer vision
+Daphne Koller|Field of Work|machine learning
+Sarit Kraus|Field of Work|artificial intelligence, Informatics
+Karen Spärck Jones|Field of Work|Informatics
+Katia Sycara|Field of Work|artificial intelligence, Semantic Web
+Sebastian Thrun|Field of Work|Robotics, machine learning
+Sebastian Lapuschkin|Field of Work|machine learning
+Stefan Chmiela|Field of Work|machine learning, artificial intelligence
+Blaž Zupan|Field of Work|machine learning, artificial intelligence, bioinformatics
+Jiaxiang Wu|Field of Work|artificial neural network, protein structure prediction, machine learning, artificial intelligence
+Radityo Eko Prasojo|Field of Work|deep learning, information extraction, artificial intelligence, natural language processing, Semantic Web
+Marc Toussaint|Field of Work|Robotics, machine learning
+Jean-Pierre Seifert|Field of Work|computer security, cryptography
+Varish Vyankatesh Mulwad|Field of Work|machine learning, natural language processing, Semantic Web
+Jay Pujara|Field of Work|artificial intelligence
+Pan Kessel|Field of Work|machine learning, artificial intelligence
+Shinichi Nakajima|Field of Work|machine learning, artificial intelligence
+Lauritz Thamsen|Field of Work|machine learning, artificial intelligence
+Robert A. Vandermeulen|Field of Work|machine learning, artificial intelligence
+Grégoire Montavon|Field of Work|machine learning, artificial intelligence
+Chad Mills|Field of Work|machine learning, artificial intelligence, computational linguistics
+Daniel Campos|Field of Work|computational linguistics
+Wolfgang Hönig|Field of Work|machine learning, Robotics
+Joel Lehman|Field of Work|evolutionary computation
+Xiang Zhang|Field of Work|machine learning, deep learning
+Volker Markl|Field of Work|machine learning, big data
+Karen Myers|Field of Work|Informatics
+Giuseppe Caire|Field of Work|wireless communication
+Shanavas Muhammad|Field of Work|research
+Timnit Gebru|Field of Work|data mining, algorithmic bias
+Marinka Žitnik|Field of Work|machine learning, medicine, artificial intelligence, bioinformatics
+Charles Lee Isbell, Jr.|Field of Work|machine learning, artificial intelligence
+Begüm Demir|Field of Work|remote sensing, signal processing, Image analysis, machine learning
+Boi Faltings|Field of Work|artificial intelligence
+Kristof T. Schütt|Field of Work|machine learning, artificial intelligence
+Kunihiko Fukushima|Field of Work|Informatics
+Danqi Chen|Field of Work|artificial intelligence, natural language processing
+Oleg Anshakov|Field of Work|artificial intelligence, Non-classical logic
+Byron Boots|Field of Work|machine learning, artificial intelligence, Informatics, Robotics
+Pearl Pu|Field of Work|human–computer interaction
+Kristian Kersting|Field of Work|machine learning
+Lex Fridman|Field of Work|computer vision
+Rong Zhou|Field of Work|digital image processing, knowledge representation and reasoning, machine learning
+Klaus Obermayer|Field of Work|machine learning, artificial neural network, computational neuroscience

@@ -1,0 +1,496 @@
+evolutionary computation technique|Book|<Evolutionary Computation>, Ashish M. Gujarathi, B. V. Babu
+intelligent decision support system|Book|<Intelligent Decision Support Systems>, Miquel Sànchez-Marrè
+game-theoretic model|Book|<Games, Information, and Politics>, Scott Gates, Brian D. Humes
+principle component|Book|<Separation of Singing Voice from Music Using Extended Robust Principle Component Analysis and Deep Learning>, Feng Li
+cooperative game|Book|<Agile Software Development>, Alistair Cockburn
+genetic programming|Book|<Foundations of Genetic Programming>, William B. Langdon, Riccardo Poli
+subject heading|Book|<Subject Heading Authority List, UCLA Biomedical Library>, University of California, Los Angeles. Library
+face feature|Book|<Face Image Analysis with Convolutional Neural Networks>, Stefan Duffner
+classifier selection|Book|<Combining Pattern Classifiers>, Ludmila I. Kuncheva
+gait planning|Book|<Robotic Walking in Natural Terrain>, David S. Wettergreen
+interactive robot|Book|<Human-Robot Interaction>, Gholamreza Anbarjafari, Sergio Escalera
+sociology|Book|<Sociology of Organizations>, Mary Godwyn, Jody Hoffer Gittell
+biped robot|Book|<Biped Robots>, Armando Carlos De Pina Filho
+sat-solving|Book|<Understanding and Enhancing CDCL-based SAT Solvers>, Edward Zulkoski
+image retrieval|Book|<Integrated Region-Based Image Retrieval>, James Z. Wang
+psychology|Book|<Fundamentals of Psychology>, Michael Eysenck
+ensemble algorithm|Book|<Ensemble Methods>, Zhi-Hua Zhou
+relational database|Book|<Relational Database Design and Implementation>, Jan L. Harrington
+neuro-fuzzy model|Book|<Deep Neuro-Fuzzy Systems with Python>, Himanshu Singh, Yunis Ahmad Lone
+bayesian approach|Book|<Overview of Bayesian Approach to Statistical Methods>, Vinaitheerthan Renganathan
+similar image|Book|<Investigating Internet Crimes>, Todd G. Shipley, Art Bowker
+3d face model|Book|<3D Face Modeling, Analysis and Recognition>, Mohamed Daoudi, Anuj Srivastava, Remco Veltkamp
+graphology|Book|<Gestalt Graphology>, Felix Klein
+radio environment|Book|<Source Localization in a Cognitive Radio Environment Consisting of Frequency and Spatial Mobility>, Agur S. Adams
+facial image|Book|<Advances in Face Detection and Facial Image Analysis>, Michal Kawulok, Emre Celebi, Bogdan Smolka
+local binary pattern|Book|<Computer Vision Using Local Binary Patterns>, Matti Pietikäinen, Abdenour Hadid, Guoying Zhao, Timo Ahonen
+feature recognition|Book|<Parametric and Feature-Based CAD/CAM>, Jami J. Shah, Martti Mäntylä
+face alignment|Book|<Designing Convolutional Neural Networks for Face Alignment and Anti-spoofing>, Amin Jourabloo
+forecasting performance|Book|<Time Series Models for Short-Term Forecasting Performance Indicators>, Arno Palmrich
+microrobot|Book|<Advanced Robotics & Intelligent Machines>, Institution of Electrical Engineers
+model-checking technique|Book|<Systems and Software Verification>, B. Berard, M. Bidoit, A. Finkel, F. Laroussinie, A. Petit, L. Petrucci, P. Schnoebelen
+human action|Book|<Human Action>, Ludwig Von Mises
+automatic evaluation|Book|<Automatic Assessment of Prosody in Second Language Learning>, Florian Hönig
+decision table|Book|<Decision Table Languages and Systems>, John R. Metzner, Bruce H. Barnes
+commonsense knowledge|Book|<Representations of Commonsense Knowledge>, Ernest Davis
+estimation of distribution algorithm|Book|<Estimation of Distribution Algorithms>, Pedro Larrañaga, José A. Lozano
+facial expression recognition|Book|<Facial Expression Recognition>, A W Young
+binary decision diagram (bdd)|Book|<Binary Decision Diagrams and Applications for VLSI CAD>, Shin-ichi Minato
+syntactic pattern recognition|Book|<Syntactic and Structural Pattern Recognition>, Gabriel Ferrate, Theo Pavlidis, Alberto Sanfeliu, Horst Bunke
+datalog program|Book|<Logic Based Program Synthesis and Transformation>, Alberto Pettorossi
+medical database|Book|<Electronic Medical Records>, Jerome H. Carter, American College of Physicians--American Society of Internal Medicine
+named entity|Book|<Bootstrapping Named Entity Annotation by Means of Active Machine Learning>, Fredrik Olsson
+algorithmics|Book|<Network Algorithmics>, George Varghese
+defeasible logic|Book|<A Defeasible Logic Programming-Based Framework to Support Argumentation in Semantic Web Applications>, Naeem Khalid Janjua
+parameter adaptation|Book|<Dynamic Parameter Adaptation for Meta-Heuristic Optimization Algorithms Through Type-2 Fuzzy Logic>, Frumen Olivas, Fevrier Valdez, Oscar Castillo, Patricia Melin
+transaction database|Book|<Transaction Processing>, Seppo Sippu, Eljas Soisalon-Soininen
+event calculus|Book|<Commonsense Reasoning>, Erik T. Mueller
+classifier ensemble|Book|<Hybrid one‑class classifier ensemble based on fuzzy integral for open‑lexicon handwritten Arabic word recognition>, Bilal Hadjadji, Youcef Chibani, Hassiba Nemmour
+common-sense|Book|<The Ministry of Common Sense>, Martin Lindstrom
+relational database management system|Book|<Fundamentals of Relational Database Management Systems>, S. Sumathi, S. Esakkirajan
+output-tracking|Book|<Observers and Macroeconomic Systems>, Ric D. Herbert
+manifold learning algorithm|Book|<A Fusion Scheme of Local Manifold Learning Methods>, Xianglei Xing
+dialogue management|Book|<Statistical Methods for Spoken Dialogue Management>, Blaise Thomson
+ai planning|Book|<Recent Advances in AI Planning>, Susanne Biundo, Maria Fox
+object location|Book|<The Oxford Handbook of Numerical Cognition>, Roi Cohen Kadosh, Ann Dowker
+formal approach|Book|<Non-Formal Approach to Ethnicity>, Zacchaeus O. Ogunnika
+system testing|Book|<Manage Software Testing>, Peter Farrell-Vinay
+ocr|Book|<Core 3 and 4 for OCR>, Douglas Quadling, Hugh Neill
+evolutionary game theory|Book|<Evolutionary Game Theory>, Jörgen W. Weibull
+modular robotics|Book|<Modular Robots: Theory and Practice>, Guilin Yang, I-Ming Chen
+uml profile|Book|<The UML Profile for Framework Architectures>, Marcus Fontoura, Wolfgang Pree, Bernhard Rumpe
+image retrieval system|Book|<Intelligent Image Databases>, Yihong Gong
+computer keyboard|Book|<COMPUTER KEYBOARD SHORTCUT KEYS>,  Z.Y. HIMSAGAR
+model checking problem|Book|<The Priority Inversion Problem and Real-time Symbolic Model Checking>, Carnegie-Mellon University. Computer Science Dept, Sérgio V. Campos
+convolutional neural network|Book|<Convolutional Neural Networks In Python>, Frank Millstein
+cascade classifier|Book|<Computer Vision Systems>, Mario Fritz, Bernt Schiele, Justus H. Piater
+spoken dialogue system|Book|<Spoken Dialogue Systems>, Kristiina Jokinen, Michael McTear
+principal-agent theory|Book|<The Theory of Incentives>, Jean-Jacques Laffont, David Martimort
+clickthrough data|Book|<Advances in Information Retrieval>, David E. Losada, Juan M. Fernández-Luna
+high-quality solution|Book|<The Quality Solution: The Stakeholder's Guide to Improving Health Care>, David B. Nash, Neil I. Goldfarb
+informal learning|Book|<Informal Learning>, Jay Cross
+gabor wavelet|Book|<Wavelet Analysis and Its Applications, and Active Media Technology 2004>, Jian-Ping Li, John Daugman, Victor Wickerhauser
+game theory|Book|<Game Theory>, Shaun Hargreaves Heap, Shaun P. Hargreaves Heap, Yanis Varoufakis
+face hallucination|Book|<Exploiting Space-time Statistics of Videos for Face "hallucination">, Göksel Dedeoğlu
+character set|Book|<Oracle PL/SQL Programming>, Steven Feuerstein, Bill Pribyl
+8-bit signed integer|Book|<Access 2003 VBA Programmer's Reference>, Patricia Cardoza, Teresa Hennig, Graham Seach, Armen Stein
+web image|Book|<Web Microanalysis of Big Image Data>, Peter Bajcsy, Joe Chalfoun, Mylene Simon
+license plate detection|Book|<Vehicle License Plate Detection and Recognition>, Guanghan Ning
+pso algorithm|Book|<Swarm Intelligence and Bio-Inspired Computation>, Tamás Varga, András Király, János Abonyi
+markov chain monte carlo method|Book|<Markov Chain Monte Carlo in Practice>, W.R. Gilks, S. Richardson, David Spiegelhalter
+random subspace|Book|<Random Subspace Method in Classification and Mapping of FMRI Data Patterns>, Tianwen Chen
+automatic verification|Book|<Automatic Verification Methods for Finite State Systems>, Joseph Sifakis
+mobile manipulation|Book|<Approaches to Probabilistic Model Learning for Mobile Manipulation Robots>, Jürgen Sturm
+bayesian model|Book|<Bayesian Model Selection and Statistical Modeling>, Tomohiro Ando
+mutation operator|Book|<Genetic Algorithms Reference Volume 2 Mutation Operator for Numerical Optimization Problems>, Tomasz Dominik Gwiazda
+evidential reasoning|Book|<Evidential Reasoning in Archaeology>, Robert Chapman, Alison Wylie
+multiobjective optimization|Book|<Nonlinear Multiobjective Optimization>, Kaisa Miettinen
+scale factor|Book|<Edexcel Higher>, David Baker
+cellular automaton model|Book|<Cellular Automaton Modeling of Biological Pattern Formation>, Andreas Deutsch, Sabine Dormann
+bhattacharyya coefficient|Book|<Information Processing and Management>, Vinu V Das, R. Vijayakumar, Narayan C. Debnath, Janahanlal Stephen, Natarajan Meghanathan, Suresh Sankaranarayanan, P.M. Thankachan, Ford Lumban Gaol, Nessy Thankachan
+expert system|Book|<Payroll Fraud Detection and Prevention Audit Expert System>, Titus Oniyilo
+combining classifier|Book|<Combining Pattern Classifiers>, Ludmila I. Kuncheva
+electronic record|Book|<Implementing Electronic Document and Record Management Systems>, Azad Adam
+nash equilibrium|Book|<Stability and Perfection of Nash Equilibria>, Eric E. C. van Damme, van Damme (E.E.C.)
+semi-tensor product|Book|<An Introduction To Semi-tensor Product Of Matrices And Its Applications>, Cheng Daizhan, Qi Hongsheng, Zhao Yin
+information extraction|Book|<Information Extraction>, Sunita Sarawagi
+tracking process|Book|<Eye-Tracking Processes and Styles in Sight Translation>, Wenchao Su
+adaptive backstepping|Book|<Adaptive Backstepping Control of Uncertain Systems>, Jing Zhou, Changyun Wen
+fuzzy cognitive map|Book|<Fuzzy Cognitive Maps for Applied Sciences and Engineering>, Elpiniki I. Papageorgiou
+sensing scheme|Book|<Proceedings of International Conference on Wireless Communication>, Hari Vasudevan, Zoran Gajic, Amit A. Deshmukh
+commonsense reasoning|Book|<Commonsense Reasoning>, Erik T. Mueller
+genetic fuzzy system|Book|<Genetic Fuzzy Systems>, Oscar Cord¢n
+smart material|Book|<Engineering Analysis of Smart Material Systems>, Donald J. Leo
+decision tree|Book|<Data Mining with Decision Trees>, Lior Rokach
+syntax|Book|<English Syntax>, Jong-Bok Kim, Peter Sells
+evolutionary computation|Book|<Evolutionary Computation>, D. Dumitrescu, Beatrice Lazzerini, Lakhmi C. Jain, A. Dumitrescu
+kripke model|Book|<Kripke’s Worlds>, Olivier Gasquet, Andreas Herzig, Bilal Said, François Schwarzentruber
+face modeling|Book|<3D Face Modeling, Analysis and Recognition>, Mohamed Daoudi, Anuj Srivastava, Remco Veltkamp
+formal learning|Book|<Recognizing Green Skills Through Non-formal Learning>, Margarita Pavlova, Madhu Singh
+moving object tracking|Book|<Tracking of Moving Objects in Video Sequences>, S R Boselin Prabhu, , S Sheeba Rani and V Kamatchi Sundari, V Kamatchi Sundari
+cut elimination|Book|<Methods of Cut-Elimination>, Matthias Baaz, Alexander Leitsch
+decision theory|Book|<Decision Theory>, Giovanni Parmigiani, Lurdes Inoue
+handwritten document|Book|<Handwritten Historical Document Analysis, Recognition, And Retrieval - State Of The Art And Future Trends>, Andreas Fischer, Marcus Liwicki, Rolf (Jurg) Ingold
+temporal logic|Book|<An Introduction to Practical Formal Methods Using Temporal Logic>, Michael Fisher
+video browsing|Book|<A Unified Framework for Video Summarization, Browsing & Retrieval>, Ziyou Xiong, Regunathan Radhakrishnan, Ajay Divakaran, Zou Yong-Rui, Thomas S. Huang
+video shot|Book|<Multimodal Video Characterization and Summarization>, Michael A. Smith, Takeo Kanade
+front banner|Book|<Atlas of the World's Languages>, R.E. Asher, Christopher Moseley
+synset|Book|<Natural Language Processing with Python>, Steven Bird, Ewan Klein, Edward Loper
+black-box optimization|Book|<Black Box Optimization, Machine Learning, and No-Free Lunch Theorems>, Panos M. Pardalos, Varvara Rasskazova, Michael N. Vrahatis
+hand gesture|Book|<Rude Hand Gestures of the World>, Romana Lefevre
+humanoid robot|Book|<Biologically Inspired Control of Humanoid Robot Arms>, Adam Spiers, Said Ghani Khan, Guido Herrmann
+action language|Book|<Language, Action, and Context>, Brigitte Nerlich, David D. Clarke
+background knowledge|Book|<Building Background Knowledge for Academic Achievement>, Robert J. Marzano
+z notation|Book|<ZUM '98: The Z Formal Specification Notation>, Jonathan P. Bowen, Andreas Fett, Michael G. Hinchey
+particle swarm algorithm|Book|<Swarm Intelligence and Bio-Inspired Computation>, Shichang Sun, Hongbo Liu
+text summarization|Book|<Advances in Automatic Text Summarization>, Mani Maybury
+dynamic optimization problem (dop)|Book|<Evolutionary Computation for Dynamic Optimization Problems>, Shengxiang Yang, Xin Yao
+pneumatic drive|Book|<Pneumatic Drives>, Peter Beater
+constraint logic programming|Book|<Functional and Constraint Logic Programming>, Julio Marino
+case-based reasoning (cbr)|Book|<Case-Based Reasoning>, Michael M. Richter, Rosina O. Weber
+human-robot collaboration|Book|<Human-Human vs. Human-Robot Collaboration>, Lin Liu
+four temperaments|Book|<The Four Temperaments>, Rudolf Steiner
+text processing|Book|<Cognitive Aspects of Electronic Text Processing>, Herre van Oostendorp, Sjaak de Mul
+activity recognition|Book|<Human Activity Recognition Challenge>, Md Atiqur Rahman Ahad, Paula Lago, Sozo Inoue
+parallel corpus|Book|<Parallel Corpora for Contrastive and Translation Studies>, Irene Doval, M. Teresa Sánchez Nieto
+cyclostationary|Book|<Generalizations of Cyclostationary Signal Processing>, Antonio Napolitano
+automatic target recognition|Book|<Automatic Target Recognition>, Bruce Jay Schachter
+content based retrieval|Book|<Content-Based Image and Video Retrieval>, Oge Marques, Borko Furht
+logic programming|Book|<Mathematical Aspects of Logic Programming Semantics>, Pascal Hitzler, Anthony Seda
+inverse document frequency|Book|<Learn about Term Frequency--inverse Document Frequency in Text Analysis in Python with Data from how ISIS Uses Twitter Dataset (2016)>, Feng Shi
+inference algorithm|Book|<Inference Algorithm Performance and Selection Under Constrained Resources>, Brett Jason Borghetti
+web ontology language|Book|<Owl>, Lee W. Lacy
+potential game|Book|<Potential Game Theory>, Quang Duy Lã, Yong Huat Chew, Boon-Hee Soong
+probabilistic graphical model|Book|<Probabilistic Graphical Models>, Daphne Koller, Nir Friedman
+attitude controller|Book|<Fault-Tolerant Attitude Control of Spacecraft>, Qinglei Hu, Bing Xiao, Bo Li, Youmin Zhang
+name recognition|Book|<The Cognitive Psychology of Proper Names>, Serge Bredart, Tim Brennen, Tim Valentine
+automatic translation|Book|<Automatic Translation of Languages>, Aldo Ghizzetti
+robot behavior|Book|<Robot Programming>, Joe Jones, Daniel Roth
+mobile service robot|Book|<Autonomous Land Vehicles>, Karsten Berns, Ewald Puttkamer
+formal ontology|Book|<Formal Ontology in Information Systems>, F. Neuhaus, B. Brodaric
+maximum entropy model|Book|<Maximum-entropy Models in Science and Engineering>, Jagat Narain Kapur
+spatial index|Book|<Beginning Spatial with SQL Server 2008>, Alastair Aitchison
+color feature|Book|<Image Color Feature Extraction Techniques>, Jyotismita Chaki, Nilanjan Dey
+human-action recognition|Book|<Human Activity Recognition and Prediction>, Yun Fu
+coalgebraic|Book|<Stochastic Coalgebraic Logic>, Ernst-Erich Doberkat
+bayesian inference|Book|<Bayesian Inference in Statistical Analysis>, George E. P. Box, George C. Tiao
+haar-like feature|Book|<Handbook of Face Recognition>, Stan Z. Li, Anil K. Jain
+optimal strategy|Book|<Designing Optimal Strategies for Mineral Exploration>, J.G. De Geoffroy, T.K. Wignall
+fuzzy classification|Book|<Multiple Fuzzy Classification Systems>, Rafał Scherer
+radial based function|Book|<Radial Basis Function (RBF) Neural Network Control for Mechanical Systems>, Jinkun Liu
+text document|Book|<Developing the economic information system for automated analysis of unstructured text documents>, М. Дли, Г. Росс, О. Булыгина, П. Козлов
+analytic hierarchy|Book|<Decision Making for Leaders>, Thomas L. Saaty
+parameter learning|Book|<Neural Fuzzy Control Systems with Structure and Parameter Learning>, C. T. Lin, Ching Tai Lin
+mutation operation|Book|<Stable Mutations for Evolutionary Algorithms>, Andrzej Obuchowicz
+graph matching|Book|<Fast Parallel Algorithms for Graph Matching Problems>, Marek Karpiński, Marek Karpinski, Wojciech Rytter
+sinology|Book|<Orientalism in Sinology>, Adrian Chan
+visual slam|Book|<Introduction to Visual SLAM>, Xiang Gao, Tao Zhang
+knowledge management|Book|<Knowledge Management in Organizations>, Donald Hislop, Rachelle Bosua, Remko Helms
+ensemble classification|Book|<Ensemble Classification Methods with Applications in R>, Esteban Alfaro, Matías Gámez, Noelia García
+graph neural network|Book|<Graph Neural Networks: Foundations, Frontiers, and Applications>, Lingfei Wu, Peng Cui, Jian Pei, Liang Zhao
+recommender system|Book|<Recommender Systems>, Charu C. Aggarwal
+ensemble model|Book|<Hands-On Ensemble Learning with Python>, George Kyriakides, Konstantinos G. Margaritis
+memetic|Book|<Memetic Computation>, Abhishek Gupta, Yew-Soon Ong
+monadic second-order logic|Book|<Graph Structure and Monadic Second-Order Logic>, Bruno Courcelle, Joost Engelfriet
+fuzzy clustering analysis|Book|<Algorithms for Fuzzy Clustering>, Sadaaki Miyamoto, Hidetomo Ichihashi, Katsuhiro Honda
+appearance modeling|Book|<Material Appearance Modeling: A Data-Coherent Approach>, Yue Dong, Stephen Lin, Baining Guo
+artificial intelligence|Book|<Artificial Intelligence: The Basics>, Kevin Warwick
+object segmentation|Book|<Semantic Video Object Segmentation for Content-Based Multimedia Applications>, Ju Guo, C.-C. Jay Kuo
+computer game|Book|<Careers in the Computer Game Industry>, Dave Gerardi, Peter Suciu
+non-player character|Book|<The Game Master's Book of Non-Player Characters>, Jeff Ashworth
+heuristic approach|Book|<Data Mining: A Heuristic Approach>, Abbass, Hussein A., Sarker, Ruhul, Newton, Charles S.
+service robot|Book|<Service Robot Applications>, Yoshihiko Takahashi
+real time scheduling|Book|<Real-Time Systems>, Albert M. K. Cheng
+real-time embedded system|Book|<Real-Time Concepts for Embedded Systems>, Qing Li, Caroline Yao
+microsoft kinect|Book|<Beginning Microsoft Kinect for Windows SDK 2.0>, Mansib Rahman
+humanoid robotics|Book|<Introduction to Humanoid Robotics>, Shuuji Kajita, Hirohisa Hirukawa, Kensuke Harada, Kazuhito Yokoi
+probabilistic inference|Book|<An Introduction to Lifted Probabilistic Inference>, Guy Van den Broeck, Kristian Kersting, Sriraam Natarajan, David Poole
+tabu search|Book|<Tabu Search>, Fred W. Glover, Manuel Laguna
+records management|Book|<Student Records Management>, Henrianne K. Wakefield, American Association of Collegiate Registrars and Admissions Officers
+distributed scheduling|Book|<Process Planning and Scheduling for Distributed Manufacturing>, Lihui Wang, Weiming Shen
+optical font|Book|<Intelligent Information and Database Systems>, Ngoc Thanh Nguyen, Chong-Gun Kim, Adam Janiak
+spoken dialogue|Book|<Spoken Dialogue Systems>, Kristiina Jokinen, Michael McTear
+epistemic logic|Book|<Dynamic Epistemic Logic>, Hans van Ditmarsch, Wiebe van der Hoek, Barteld Kooi
+boolean satisfiability|Book|<Bridging Constraint Satisfaction and Boolean Satisfiability>, Justyna Petke
+handwritten word|Book|<Advances in Handwriting Recognition>, Seong-Whan Lee
+license plate location|Book|<Proceedings of the International Conference on Information Engineering and Applications (IEA) 2012>, Zhicai Zhong
+grey theory|Book|<Grey Systems>, Sifeng Liu, Jeffrey Yi Lin Forrest
+recurrent neural network (rnn)|Book|<Recurrent Neural Networks>, Fathi M. Salem
+Bayes' theorem|Book|<The Theory That Would Not Die>, Sharon Bertsch McGrayne
+facial expression|Book|<The Psychology of Facial Expression>, James Anderson Russell, James A. Russell, José Miguel Fernández-Dols, Keith Oatley
+dialogue system|Book|<Spoken Dialogue Systems>, Kristiina Jokinen, Michael McTear
+formal specification|Book|<Formal Specification>, Nimal Nissanke
+human-robot interface|Book|<Human–Robot Interaction>, Dan Zhang, Bin Wei
+smart home|Book|<Ecological Design of Smart Home Networks>, N. Saito, D Menga
+object recognition|Book|<Visual Object Recognition>, Kristen Grauman, Bastian Leibe
+utility function|Book|<The Generalized Fechner-Thurstone Direct Utility Function and Some of its Uses>, R.L. Basmann, D.J. Slottje, K. Hayes, J.D. Johnson, D.J. Molina
+text entry|Book|<Text Entry Systems>, I. Scott MacKenzie, Kumiko Tanaka-Ishii
+neighborhood structure|Book|<Neighborhood Structure, Crime, and Fear of Crime>, Clete Snell
+intelligent video surveillance|Book|<Intelligent Video Surveillance>, Yunqian Ma, Gang Qian
+syntactic structure|Book|<Syntactic Structures>, Noam Chomsky
+machining feature|Book|<Setup Planning for Machining>, Manjuri Hazarika, Uday Shanker Dixit
+graphical model|Book|<Learning in Graphical Models>, Michael Irwin Jordan
+rule induction|Book|<Data Mining and Knowledge Discovery Approaches Based on Rule Induction Techniques>, Evangelos Triantaphyllou, Giovanni Felici
+bilingual dictionary|Book|<Translation and Bilingual Dictionaries>, Chan Sin-wai
+cognitive modeling|Book|<Cognitive Modeling>, Thad A. Polk, Colleen M. Seifert
+sign language recognition|Book|<Sign Language Recognition in a Large Scale Sign Database>, Pat Jangyodsuk
+multiple classifier system|Book|<Multiple Classifier Systems>, Fabio Roli, Josef Kittler
+wordnet|Book|<WordNet>, George A. Miller
+swarm of robot|Book|<Swarm Robotics: A Formal Approach>, Heiko Hamann
+emotional speech|Book|<Encoding and Decoding of Emotional Speech>, Aijun Li
+image database|Book|<Intelligent Image Database Systems>, S K Chang, E Jungert, G Tortora
+multilayer perceptrons|Book|<Multilayer Perceptrons>, Ruth Vang-Mata
+background subtraction|Book|<Background Subtraction>, Ahmed Elgammal
+decision support technique|Book|<Decision Support Systems>, Sitansu S. Mittra
+coalgebra|Book|<Universal Algebra and Coalgebra>, Klaus Denecke, Shelly L. Wismath
+ambient intelligence|Book|<Handbook of Ambient Intelligence and Smart Environments>, Hideyuki Nakashima, Hamid Aghajan, Juan Carlos Augusto
+human-human interaction|Book|<Social Psychology>, Theodore M. Newcomb, Ralph H. Turner, Philip E. Converse
+static timing analysis|Book|<Static Timing Analysis for Nanometer Designs>, J. Bhasker, Rakesh Chadha
+coalition formation|Book|<Coalition Formation and Social Choice>, Ad M.A. Van Deemen
+sentiment analysis|Book|<New Opportunities for Sentiment Analysis and Information Processing>, Sharaff, Aakanksha, Sinha, G. R., Bhatia, Surbhi
+enterprise 2.0|Book|<Enterprise 2.0>, Niall Cook
+grammatical inference|Book|<Grammatical Inference: Algorithms and Applications>, Arlindo L. Oliveira
+complex activity|Book|<Methodology of Complex Activity>, Mikhail V. Belov, Dmitry A. Novikov
+face tracking|Book|<Consistent and Accurate Face Tracking and Recognition in Videos>, Yiran Liu
+hybrid logic|Book|<Hybrid Logic and its Proof-Theory>, Torben Braüner
+text clustering|Book|<Text Mining>, Ashok N. Srivastava, Mehran Sahami
+control and automation|Book|<Introduction to Plant Automation and Controls>, Raymond F. Gardner
+machine translation system|Book|<Chinese-English Machine Translation System>, University of California, Berkeley. Department of Linguistics, William S.-Y. Wang
+sustainable competitive advantage|Book|<Strategy for Sustainable Competitive Advantage>, Ian Chaston
+theorem provers|Book|<Automated Theorem Proving in Software Engineering>, Johann M. Schumann
+natural language processing|Book|<Natural Language Processing with Python>, Steven Bird, Ewan Klein, Edward Loper
+human evaluation|Book|<Statistics for Human Service Evaluation>, Reginald O. York
+intelligent system|Book|<Intelligent System and Computing>, Yang Yi
+answer set programming|Book|<Theory and Applications of Answer Set Programming>, Esra Erdem
+electronic health record system|Book|<Key Capabilities of an Electronic Health Record System>, Institute of Medicine, Board on Health Care Services, Committee on Data Standards for Patient Safety
+MediaWiki wikitext|Book|<MediaWiki>, Daniel J. Barrett
+image annotation|Book|<Creating New Medical Ontologies for Image Annotation>, Liana Stanescu, Dumitru Dan Burdescu, Marius Brezovan, Cristian Gabriel Mihai
+hand shape|Book|<Shape of the Hand>, Pandit V.K. Sharma
+walking control|Book|<Modeling, Simulation and Optimization of Bipedal Walking>, Katja Mombaur, Karsten Berns
+common-sense reasoning|Book|<Common Sense, Reasoning, & Rationality>, Renée Elio
+memetics|Book|<Memetics>, Tim Tyler
+social robot|Book|<Social Robots from a Human Perspective>, Jane Vincent, Sakari Taipale, Bartolomeo Sapio, Giuseppe Lugano, Leopoldina Fortunati
+dominance-based rough set approach|Book|<Understanding and Using Rough Set Based Feature Selection: Concepts, Techniques and Applications>, Muhammad Summair Raza, Usman Qamar
+hopfield network|Book|<Neural Computation in Hopfield Networks and Boltzmann Machines>, James P. Coughlin, Robert H. Baran
+disjunctive logic program|Book|<Foundations of Disjunctive Logic Programming>, Jorge Lobo, Jack Minker, Arcot Rajasekar
+video collection|Book|<Rapidly Deployable Low-cost Traffic Data and Video Collection Device>, Jory Andrew Schwach
+bayesian network|Book|<Bayesian Networks>, Olivier Pourret, Patrick Naïm, Bruce Marcot
+binary decision tree|Book|<Generation and Termination of Binary Decision Trees for Nonparametric Multiclass Classification>, Saul Brian Gelfand, Sanjoy K. Mitter, MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS.
+recognition algorithm|Book|<Fuzzy Models and Algorithms for Pattern Recognition and Image Processing>, James C. Bezdek, James Keller, Raghu Krisnapuram, Nikhil Pal
+content management|Book|<Web Content Management>, Deane Barker
+sql query|Book|<SQL Queries for Mere Mortals>, John L. Viescas
+cognitive architecture|Book|<Cognitive Architectures>, Maria Isabel Aldinhas Ferreira, João Silva Sequeira, Rodrigo Ventura
+face detection|Book|<Face Detection and Modeling for Recognition>, Rein-Lien Hsu
+image search engine|Book|<An Introduction to Search Engines and Web Navigation>, Mark Levene
+feedforward neural network|Book|<Feedforward Neural Network Methodology>, Terrence L. Fine
+document analysis|Book|<Document Analysis Systems VI>, Simone Marinai, Andreas Dengel
+human robot interaction|Book|<Human–Robot Interaction>, Dan Zhang, Bin Wei
+backpropagation algorithm|Book|<New Backpropagation Algorithm with Type-2 Fuzzy Weights for Neural Networks>, Fernando Gaxiola, Patricia Melin, Fevrier Valdez
+search process|Book|<Mastering the Job Search Process in Recreation and Leisure Services>, Craig Ross, Brent Beggs, Sarah J. Young
+genetic-fuzzy|Book|<Genetic Fuzzy Systems>, Oscar Cord¢n
+active appearance model|Book|<Active Appearance Models Revisited>, Iain Matthews, Simon Baker
+ontology language|Book|<Owl>, Lee W. Lacy
+spatial query|Book|<Spatial Data Management>, Nikos Mamoulis
+simple genetic algorithm|Book|<The Simple Genetic Algorithm>, Michael D. Vose
+automated reasoning|Book|<Handbook of Practical Logic and Automated Reasoning>, John Harrison
+detecting object|Book|<Advanced Computational Intelligence for Object Detection, Feature Extraction and Recognition in Smart Sensor Environments>, Marcin Woźniak
+association mining|Book|<Data Mining, Southeast Asia Edition>, Jiawei Han, Jian Pei, Micheline Kamber
+real-time object tracking|Book|<Real-time 3D Contour Analysis for Object Tracking>, Muhammad Usman Butt
+cognitive science|Book|<Cognitive Science Perspectives on Personality and Emotion>, G. Matthews
+real-time face detection|Book|<Digital Architecture for Real-time Face Detection for Deep Video Packet Inspection Systems>, Smrity Bhattarai
+intelligent sensor|Book|<Intelligent Sensor Networks>, Fei Hu, Qi Hao
+system theory|Book|<General System Theory>, Ludwig von Bertalanffy
+word embedding|Book|<Cross-Lingual Word Embeddings>, Anders Søgaard, Ivan Vulić, Sebastian Ruder, Manaal Faruqui
+extreme learning machine|Book|<Extreme Learning Machine>, Guang-Bin Huang
+latent variable model|Book|<Latent Variable Models and Factor Analysis>, David J. Bartholomew, Martin Knott, Irini Moustaki
+soft computing|Book|<Applications and Science in Soft Computing>, Ahmad Lotfi
+ensemble learning|Book|<Ensemble Learning Algorithms With Python>, Jason Brownlee
+facial action coding system|Book|<Facial Action Coding System>, Paul Ekman, Wallace V. Friesen
+background subtraction method|Book|<Moving Object Detection Using Background Subtraction>, Soharab Hossain Shaikh, Khalid Saeed, Nabendu Chaki
+cyclostationarity|Book|<Cyclostationarity: Theory and Methods>, Fakher Chaari, Jacek Leśkow, Antonio Napolitano, Andrea Sanchez-Ramirez
+higher order logic|Book|<Isabelle/HOL>, Tobias Nipkow, Lawrence C. Paulson, Markus Wenzel
+sa algorithm|Book|<Object Management in Distributed Database Systems for Stationary and Mobile Computing Environments>, Wujuan Lin, Bharadwaj Veeravalli
+best response|Book|<Practice Single Best Answer Questions for the Final FRCA>, Hozefa Ebrahim, Khalid Hasan, Mark Tindall, Michael Clarke, Natish Bindal
+propositional logic|Book|<The Propositional Logic of Avicenna>, Avicenna
+leader-follower|Book|<Exploring Distance in Leader-follower Relationships>, Michelle C. Bligh, Ronald E. Riggio
+detecting moving object|Book|<Tracking of Moving Objects in Video Sequences>, S R Boselin Prabhu, , S Sheeba Rani and V Kamatchi Sundari, V Kamatchi Sundari
+ltl|Book|<Investigation of Methodologies Used by Less-than-truckload (LTL) Motor Carriers to Determine Fuel Surcharges>, Keith B. Grant, John L. Kent
+product feature|Book|<Feature Based Product Life-Cycle Modelling>, René Soenen, Gustav J. Olling
+haar feature|Book|<Handbook of Face Recognition>, Stan Z. Li, Anil K. Jain
+digital game|Book|<Mapping Digital Game Culture in China>, Marcella Szablewicz
+decision procedure|Book|<Decision Procedures>, Daniel Kroening, Ofer Strichman
+object detection|Book|<2D Object Detection and Recognition>, Yali Amit
+patient data|Book|<From Patient Data to Medical Knowledge>, Paul Taylor
+frame difference|Book|<Applications of a Frame Difference Generator>, W. K. Pratt, Harry C. Andrews, UNIVERSITY OF SOUTHERN CALIFORNIA LOS ANGELES DEPT OF ELECTRICAL ENGINEERING., United States. Air Force. Systems Command. Space Systems Division
+statistical machine translation|Book|<Statistical Machine Translation>, Philipp Koehn
+multirobot system|Book|<Multi-Robot Systems>, Toshiyuki Yasuda
+negative association rule|Book|<Association Rule Mining>, Chengqi Zhang, Shichao Zhang
+robot dynamic|Book|<Dynamic Analysis of Robot Manipulators>, Constantinos A. Balafoutis, Rajnikant V. Patel
+small sample size|Book|<Small Sample Size Solutions>, Rens van de Schoot, Milica Miočević
+speech transmission|Book|<Digital Speech Transmission>, Peter Vary, Rainer Martin
+grey system|Book|<Grey Systems>, Sifeng Liu, Jeffrey Yi Lin Forrest
+multiple robot|Book|<Neural Networks for Cooperative Control of Multiple Robot Arms>, Shuai Li, Yinyan Zhang
+Cynthia Werner|Book|<The Transformation of Central Asia>, Pauline Jones Luong
+wireless microphone|Book|<The Sound Reinforcement Handbook>, Gary Davis, Gary D. Davis
+kinect|Book|<Kinect體感程式設計入門與應用-第二版 (電子書)>, 王森
+robot team|Book|<Robot Teams>, Tucker Balch, Lynne E. Parker
+foreground object|Book|<Background Modeling and Foreground Detection for Video Surveillance>, Thierry Bouwmans, Fatih Porikli, Benjamin Höferlin, Antoine Vacavant
+attitude stabilization|Book|<Attitude Stabilization for CubeSat>, Mohammed Chessab Mahdi
+domain knowledge|Book|<Domain Knowledge for Interactive System Design>, Alistair G. Sutcliffe, Frans van Assche, David Benyon
+reinforcement learning (rl)|Book|<Deep Reinforcement Learning with Python>, Sudharsan Ravichandiran
+text data|Book|<Mining Text Data>, Charu C. Aggarwal, ChengXiang Zhai
+chinese character|Book|<Learning Mandarin Chinese Characters Volume 1>, Yi Ren
+forecasting technique|Book|<Forecasting>, Spyros G. Makridakis, Steven C. Wheelwright, Rob J. Hyndman
+query execution|Book|<Query Execution in Direct>, University of Wisconsin--Madison. Computer Sciences Department, D. J. DeWitt
+attitude tracking|Book|<Fault-Tolerant Attitude Control of Spacecraft>, Qinglei Hu, Bing Xiao, Bo Li, Youmin Zhang
+forecasting error|Book|<Forecasting Accuracy of Crude Oil Futures Prices>, Mr.Manmohan S. Kumar
+smart city|Book|<Smart Cities>, Houbing Song, Ravi Srinivasan, Tamim Sookoor, Sabina Jeschke
+swarm robot|Book|<Space-Time Continuous Models of Swarm Robotic Systems>, Heiko Hamann
+intelligent environment|Book|<Intelligent Environments 2016>, P. Novais, S. Konomi
+linear genetic programming|Book|<Linear Genetic Programming>, Markus F. Brameier, Wolfgang Banzhaf
+shape retrieval|Book|<Shape Analysis and Retrieval of Multimedia Objects>, Maytham H. Safar, Cyrus Shahabi
+description logic|Book|<An Introduction to Description Logic>, Franz Baader, Ian Horrocks, Carsten Lutz, Uli Sattler
+horn clause|Book|<Computing in Horn Clause Theories>, Peter Padawitz
+sequent calculus|Book|<Proof Theory>, Katalin Bimbo
+smart manufacturing|Book|<Digital Twin Driven Smart Manufacturing>, Fei Tao, Meng Zhang, A.Y.C. Nee
+knowledge engineering|Book|<An Introduction to Knowledge Engineering>, Simon Kendal, Malcolm Creen
+image descriptor|Book|<Local Image Descriptor: Modern Approaches>, Bin Fan, Zhenhua Wang, Fuchao Wu
+basic emotion|Book|<The Expression of Emotion>, Catharine Abell, Joel Smith
+dynamic logic|Book|<Dynamic Logic>, David Harel, Dexter Kozen, Jerzy Tiuryn
+fitness evaluation|Book|<Fitness Evaluation of the Horse>, Jean-Pierre Hourdebaigt, LMT
+datalog|Book|<A Guided Tour of Relational Databases and Beyond>, Mark Levene, George Loizou
+test sample|Book|<Round 1 Hot Mix Asphalt Laboratory Molded Proficiency Sample Program>, Garland W. Steele
+knowledge representation and reasoning|Book|<Knowledge Representation and Reasoning>, Ronald Brachman, Hector Levesque
+ensemble technique|Book|<Applications of Supervised and Unsupervised Ensemble Methods>, Oleg Okun
+prisoners dilemma|Book|<Prisoner's Dilemma>, William Poundstone
+machine translation|Book|<Analysing English-Arabic Machine Translation>, Zakaryia Almahasees
+hidden markov modeling|Book|<Markov Models for Pattern Recognition>, Gernot A. Fink
+non-parametric bayesian|Book|<Fundamentals of Nonparametric Bayesian Inference>, Subhashis Ghosal, Aad van der Vaart
+deontic logic|Book|<New Studies in Deontic Logic>, R. Hilpinen
+timing analysis|Book|<Static Timing Analysis for Nanometer Designs>, J. Bhasker, Rakesh Chadha
+intelligent controller|Book|<Intelligent Control Design and MATLAB Simulation>, Jinkun Liu
+decision tree learning|Book|<Meta-Learning in Decision Tree Induction>, Krzysztof Grąbczewski
+spatial clustering|Book|<Spatial Cluster Modelling>, Andrew B. Lawson, David G.T. Denison
+cognitive map|Book|<Cognitive Mapping>, Scott Freundschuh, NATIONAL UNIV OF IRELAND
+handwriting recognition|Book|<Fundamentals in Handwriting Recognition>, Sebastiano Impedovo
+text input|Book|<Handheld and Ubiquitous Computing>, Hans-W. Gellersen
+organizational learning|Book|<Organizational Learning>, David Schwandt, Michael J. Marquardt
+inductive logic|Book|<Argument and Inference>, Gregory Johnson
+intelligent transportation|Book|<Information Technology and Intelligent Transportation Systems>, Valentina Emilia Balas, Lakhmi C. Jain, Xiangmo Zhao
+robot hand|Book|<The Human Hand as an Inspiration for Robot Hand Development>, Ravi Balasubramanian, Veronica J. Santos
+decision model|Book|<Statistics, Data Analysis, and Decision Modeling>, James Robert Evans
+isomap|Book|<Data-Driven 3D Facial Animation>, Zhigang Deng, Ulrich Neumann
+support vector machine (svm)|Book|<Support Vector Machines and Perceptrons>, M.N. Murty, Rashmi Raghava
+background subtraction technique|Book|<Moving Object Detection Using Background Subtraction Algorithms>, Priyank Shah
+textual data|Book|<Exploring Textual Data>, Ludovic Lebart, A. Salem, L. Berry
+lexical resource|Book|<Towards a Multifunctional Lexical Resource>, Dennis Spohr
+Termination analysis|Book|<Verification, Induction, Termination Analysis>, Simon Siegler, Nathan Wasser
+image rendering|Book|<Rendering Techniques ’99>, Dani Lischinski, Greg W. Larson
+smart energy|Book|<Smart Energy Grid Engineering>, Hossam Gabbar
+forecasting method|Book|<Forecasting>, Spyros G. Makridakis, Steven C. Wheelwright, Rob J. Hyndman
+data clustering|Book|<Data Clustering>, Charu C. Aggarwal, Chandan K. Reddy
+robot learning|Book|<Interdisciplinary Approaches to Robot Learning>, John Demiris
+knowledge engineer|Book|<Contemporary Knowledge Engineering and Cognition>, Franz Schmalhofer, Gerhard Strube
+face recognition|Book|<Handbook of Face Recognition>, Stan Z. Li, Anil K. Jain
+reaction wheel|Book|<The Reaction Wheel Pendulum>, Daniel J. Block, Karl J. Åström, Mark W. Spong
+natural language generation|Book|<Building Natural Language Generation Systems>, Ehud Reiter, Robert Dale
+relational algebra|Book|<Fundamentals of Relational Database Management Systems>, S. Sumathi, S. Esakkirajan
+relational query|Book|<New Concepts for Parallel Object-Relational Query Processing>, Michael Jaedicke
+long short term memory neural network|Book|<Long Short-Term Memory Networks With Python>, Jason Brownlee
+game analysis|Book|<Introduction to Game Analysis>, Clara Fernández-Vara
+ion bombardment|Book|<Some Effects of Ion Bombardment on the Emitting Properties of Oxide-coated Cathodes>, Herbert Hollister
+communicating sequential process|Book|<A Multiprocessor Implementation of CSP (Communicating Sequential Processes).>, Hwa-Chung Feng, UTAH UNIV SALT LAKE CITY DEPT OF COMPUTER SCIENCE.
+grey system theory|Book|<Grey Systems>, Sifeng Liu, Jeffrey Yi Lin Forrest
+knowledge discovery|Book|<Knowledge Discovery from Legal Databases>, Andrew Stranieri, John Zeleznikow
+evolution strategy|Book|<Co-evolution Strategy Canvas>, Jiang Yong Lu
+proof system|Book|<Space in Weak Propositional Proof Systems>, Ilario Bonacina
+text detection|Book|<Video Text Detection>, Tong Lu, Shivakumara Palaiahnakote, Chew Lim Tan, Wenyin Liu
+rule base|Book|<Rule Based Systems for Big Data>, Han Liu, Alexander Gegov, Mihaela Cocea
+fuzzy expert system|Book|<Fuzzy Expert Systems and Fuzzy Reasoning>, William Siler, James J. Buckley
+color filter array|Book|<A Color Filter Array Interpolation Method for Digital Cameras Using Alias Cancellation>, Vikram V. Appia
+formal method|Book|<What is a Formal Method?>, Jeannette M. Wing
+decision support system|Book|<Decision Support Systems>, Sitansu S. Mittra
+local descriptor|Book|<Local Image Descriptor: Modern Approaches>, Bin Fan, Zhenhua Wang, Fuchao Wu
+propositional calculus|Book|<Propositional and Predicate Calculus: A Model of Argument>, Derek Goldrei
+adaptive neural control|Book|<Stable Adaptive Neural Network Control>, S.S. Ge, C.C. Hang, T.H. Lee, Tao Zhang
+logic program|Book|<Logic Program Synthesis and Transformation - Meta-Programming in Logic>, Laurent Fribourg, Franco Turini
+defeasible reasoning|Book|<Adaptive Logics for Defeasible Reasoning>, Christian Straßer
+automated theorem proving|Book|<Automated Theorem Proving>, Wolfgang Bibel
+content-based image retrieval|Book|<Content-Based Image Retrieval>, Vipin Tyagi
+tacit knowledge|Book|<Tacit Knowledge in Organizational Learning>, Busch, Peter
+natural language processing system|Book|<Evaluating Natural Language Processing Systems>, Karen Sparck Jones, Julia R. Galliers
+fuzzy simulation|Book|<Fuzzy Hybrid Computing in Construction Engineering and Management>, Aminah Robinson Fayek
+view-dependent|Book|<View-Dependent Character Animation>, Parag Chaudhuri, Prem Kalra, Subhashis Banerjee
+image identification|Book|<Dental Image Processing for Human Identification>, Deven N. Trivedi, Nimit D. Shah, Ashish M. Kothari, Rohit M. Thanki
+cognitive wireless network|Book|<Cognitive Wireless Networks>, Frank H. P. Fitzek, Marcos D. Katz
+candidate solution|Book|<Research Anthology on Machine Learning Techniques, Methods, and Applications>, Management Association, Information Resources
+text localization|Book|<The Moving Text>, Anthony Pym
+knowledge exchange|Book|<Entrepreneurship and Knowledge Exchange>, Jay Mitra, John Edmondson
+fuzzy classifier|Book|<Fuzzy Classifier Design>, Ludmila I. Kuncheva
+robotic hand|Book|<Underactuated Robotic Hands>, Lionel Birglen, Thierry Laliberté, Clément M. Gosselin
+strategy proof|Book|<Strategy-proof Truthfulness in Mechanism Design with Interdependent Valuations>, Ayman Ahmed Sabry Abdel Rahman Ghoneim
+moving-object detection|Book|<Moving Object Detection and Tracking for Event-based Video Analysis>, Filiz Bunyak
+sql|Book|<SQL Server 2019/2017資料庫設計與開發實務(電子書)>, 陳會安
+grammatical evolution|Book|<Grammatical Evolution>, Michael O'Neill, Conor Ryan
+forecasting accuracy|Book|<A Simple Forecasting Accuracy Criterion Under Rational Expectations>, Mr.José M. Barrionuevo
+32-bit signed integer|Book|<Modeling Our World>, Michael Zeiler, chael Zeiler
+english sentence|Book|<An Introduction to English Sentence Structure>, Andrew Radford
+Ghasem Bahram Afshar|Book|<The Statesman's Year-Book 1974-75>, J. Paxton
+image feature|Book|<Image Feature Detectors and Descriptors>, Ali Ismail Awad, Mahmoud Hassaballah
+skin color model|Book|<Skin Color Model Evaluation by Goodness-of-fit Tests>, Weier Lu
+local geometry|Book|<Spheroidal Geodesics, Reference Systems, & Local Geometry>, Paul D. Thomas
+human driver|Book|<Cognitive Computing for Human-Robot Interaction>, Mamta Mittal, Rajiv Ratn Shah, Sudipta Roy
+sift descriptor|Book|<Computer Vision - ECCV 2008>, David Forsyth, Philip Torr, Andrew Zisserman
+differential evolution|Book|<Differential Evolution>, Anyong Qing
+robust tracking|Book|<Perturbation Compensator based Robust Tracking Control and State Estimation of Mechanical Systems>, SangJoo Kwon, Wan Kyun Chung
+commonsense|Book|<Commonsense Reasoning>, Erik T. Mueller
+gesture recognition|Book|<Motion Tracking and Gesture Recognition>, Carlos Travieso-Gonzalez
+real-time task|Book|<Self Aware Security for Real Time Task Schedules in Reconfigurable Hardware Platforms>, Krishnendu Guha, Sangeet Saha, Amlan Chakrabarti
+multi objective optimizations (moo)|Book|<Multi-objective Optimization: Techniques And Applications In Chemical Engineering (Second Edition)>, Rangaiah Gade Pandu
+dimensionality reduction|Book|<Nonlinear Dimensionality Reduction Techniques>, Sylvain Lespinats, Benoit Colange, Denys Dutykh
+associative classification|Book|<Demand-Driven Associative Classification>, Adriano Veloso, Wagner Meira Jr.
+schedulability analysis|Book|<Schedulability Analysis of Resource Access Control Protocols in Real-time Systems>, Min-Ih Chen, University of Illinois at Urbana-Champaign. Department of Computer Science
+16-bit signed integer|Book|<Access 2003 VBA Programmer's Reference>, Patricia Cardoza, Teresa Hennig, Graham Seach, Armen Stein
+bayesian filtering|Book|<Bayesian Filtering and Smoothing>, Simo Särkkä
+home automation|Book|<Home Automation>, Lisa Montgomery, Editor, Electronic House Magazine
+multi-agent learning|Book|<Scaling Multi-agent Learning in Complex Environments>, Chongjie Zhang
+replicator dynamic|Book|<Game Theory Evolving>, Herbert Gintis
+statistical model|Book|<Methods of Statistical Model Estimation>, Joseph M. Hilbe, Andrew P. Robinson
+rough set model|Book|<Incomplete Information System and Rough Set Theory>, Xibei Yang, Jingyu Yang
+intelligent robot|Book|<Advances in Robot Design and Intelligent Control>, Aleksandar Rodić, Theodor Borangiu
+particle swarm optimization|Book|<Particle Swarm Optimization>, Andrea E. Olsson
+termination analysis|Book|<Verification, Induction, Termination Analysis>, Simon Siegler, Nathan Wasser
+implicit feedback|Book|<User Modeling, Adaptation, and Personalization>, Geert-Jan Houben, Gord McCalla, Fabio Pianesi, Massimo Zancanaro
+knowledge base|Book|<Knowledge-base Assisted Database Retrieval Systems>, Xu Wu, Tadao Ichikawa, Nick Cercone
+character recognition system|Book|<Character Recognition Systems>, Mohamed Cheriet, Nawwaf Kharma, Cheng-Lin Liu, Ching Suen
+image collection|Book|<Structures of Image Collections>, Howard F. Greisdorf, Brian Clark O'Connor
+reactive system|Book|<Reactive Systems in Java>, Clement Escoffier, Ken Finnigan
+object appearance|Book|<Principles of Colour and Appearance Measurement>, Asim Kumar Roy Choudhury
+backstepping control|Book|<Adaptive Backstepping Control of Uncertain Systems>, Jing Zhou, Changyun Wen
+content based filtering|Book|<Hands-On Recommendation Systems with Python>, Rounak Banik
+forecasting model|Book|<Forecasting>, Spyros G. Makridakis, Steven C. Wheelwright, Rob J. Hyndman
+discernibility matrix|Book|<Rough Sets and Knowledge Technology>, JingTao Yao, Pawan Lingras, Wei-Zhi Wu, Nick Cercone, Marcin Szczuka, Dominik Slezak
+prisoner dilemma|Book|<Prisoner's Dilemma>, William Poundstone
+generative adversarial network|Book|<Generative Adversarial Networks for Image-to-Image Translation>, Arun Solanki, Anand Nayyar, Mohd Naved
+particle swarm optimization technique|Book|<Particle Swarm Optimization>, Alex Lazinica
+centralized scheduling|Book|<World Class Master Scheduling>, Donald H. Sheldon
+ensemble classifier|Book|<Ensemble Classification Methods with Applications in R>, Esteban Alfaro, Matías Gámez, Noelia García
+word sense disambiguation|Book|<Word Sense Disambiguation>, Eneko Agirre, Philip Edmonds
+relational database system|Book|<Fundamentals of Relational Database Management Systems>, S. Sumathi, S. Esakkirajan
+coalitional game|Book|<Cooperative Game Theory Tools in Coalitional Control Networks>, Francisco Javier Muros
+multi objective algorithm|Book|<Multi-Objective Optimization using Evolutionary Algorithms>, Kalyanmoy Deb
+pattern classification|Book|<Pattern Classification>, Richard O. Duda, Peter E. Hart, David G. Stork
+answer set|Book|<Questions and answers for job interview Offshore Oil & Gas Rigs>, Petrogav International Oil & Gas Training Center
+link prediction|Book|<Hidden Link Prediction in Stochastic Social Networks>, Pandey, Babita, Khamparia, Aditya
+image search|Book|<Recent Advances in Intelligent Image Search and Video Retrieval>, Chengjun Liu
+n-gram language model|Book|<Large Scale Distributed Semantic N-gram Language Model>, Yuandong Jiang
+historical document|Book|<Authority and the Historical Document in Late Twentieth-Century Literature>, Elizabeth Rich
+social software|Book|<Recent Trends and Developments in Social Software>, John Breslin, Thomas N. Burg, Hong-Gee Kim, Tom Raftery, Jan-Hinrik Schmidt
+anthropomorphic robot|Book|<Anthropomorphic Robot Design and User Interaction Associated with Motion>, National Aeronautics and Space Adm Nasa
+inference|Book|<Aspects of Statistical Inference>, A. H. Welsh
+scale invariant feature transform (sift)|Book|<Pattern Recognition>, Adam Herout
+partial occlusion|Book|<The Partial Occlusion Effect: Utilizing Semi-transparency in 3D Human-computer Interaction>, International Business Machines Corporation. Research Division, Shumin Zhai, William A. S. Buxton, Paul Milgram
+evolutionary search|Book|<Agent-Based Evolutionary Search>, Ruhul A. Sarker, Tapabrata Ray
+robot swarm|Book|<Swarm Robotics: A Formal Approach>, Heiko Hamann
+face image|Book|<Face Image Analysis by Unsupervised Learning>, Marian Stewart Bartlett
+real-time rendering|Book|<Real-Time Rendering>, Tomas Akenine-Möller, Eric Haines, Naty Hoffman
+decision-theoretic|Book|<Mathematical Statistics>, Thomas S. Ferguson
+boolean formula|Book|<The Steiner Tree Problem>, Hans Jürgen Prömel, Angelika Steger
+propositional formula|Book|<Propositional Logic>, Hans Kleine Büning, Theodor Lettmann
+document image processing|Book|<Document Image Processing>, Ergina Kavallieratou, Laurence Likforman-Sulem
+individual classifier|Book|<Multiple Classifier Systems>, Michal Haindl, Josef Kittler, Fabio Roli
+swarm intelligence|Book|<Swarm Intelligence>, Felix Chan, Manoj Tiwari
+system dynamics model|Book|<Modeling the Environment>, Andrew Ford, Frederick Andrew Ford
+task planning|Book|<Planning and Task Performance in a Second Language>, Rod Ellis
+mediawiki|Book|<MediaWiki>, Daniel J. Barrett
+nonverbal behavior|Book|<The Social Context of Nonverbal Behavior>, Pierre Philippot, Robert S. Feldman, Erik J. Coats
+visual object tracking|Book|<Visual Object Tracking from Correlation Filter to Deep Learning>, Weiwei Xing, Weibin Liu, Jun Wang, Shunli Zhang, Lihui Wang, Yuxiang Yang, Bowen Song
+functional dependency|Book|<Relational Database Technology>, Suad Alagic
+intelligence analysis|Book|<Intelligence Analysis Fundamentals>, Godfrey Garner, Patrick McGlynn
+strategic game|Book|<Online Dating as A Strategic Game>, Maurice Kwok-to Choi, Kwok-bun Chan
+systems theory|Book|<General System Theory>, Ludwig von Bertalanffy
+learning organization|Book|<The Oxford Handbook of the Learning Organization>, Anders Örtenblad
+local binary pattern (lbp)|Book|<Computer Vision Using Local Binary Patterns>, Matti Pietikäinen, Abdenour Hadid, Guoying Zhao, Timo Ahonen
+intelligent computing|Book|<Advanced Intelligent Computing Theories and Applications. With Aspects of Artificial Intelligence>, De-Shuang Huang, Donald C. Wunsch, Daniel S. Levine, Kang-Hyun Jo
+proof search|Book|<Reductive Logic and Proof-search>, David J. Pym, Eike Ritter
+human face recognition|Book|<Handbook of Face Recognition>, Stan Z. Li, Anil K. Jain

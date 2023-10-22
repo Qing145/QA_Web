@@ -1,0 +1,93 @@
+Accountancy - MSc|Mode of Study|Mixed Mode
+Accounting and Finance Analytics - MSc|Mode of Study|Mixed Mode
+Applied Language Sciences - Doctor|Mode of Study|Mixed Mode
+Applied Mathematics for Science and Technology (Actuarial and Investment Science) - MSc|Mode of Study|Full-time
+Applied Mathematics for Science and Technology (Decision Science) - MSc|Mode of Study|Part-time
+Applied Psychology - Master|Mode of Study|Mixed Mode
+Applied Psychology (Diverse Learning Needs) - Master|Mode of Study|Mixed Mode
+Aviation Engineering - MSc|Mode of Study|Mixed and On-line Mode
+Bilingual Corporate Communication - MA|Mode of Study|Mixed Mode
+Biomedical Engineering - MSc|Mode of Study|Mixed Mode
+Blockchain Technology - MSc|Mode of Study|Mixed Mode
+Building Services Engineering - MEng|Mode of Study|Mixed Mode
+Building Services Engineering - MSc|Mode of Study|Mixed Mode
+Business Administration - Doctor|Mode of Study|Mixed Mode
+Business Administration - Master|Mode of Study|Part-time
+Business Administration - Master|Mode of Study|Full-time
+Business Analytics - MSc|Mode of Study|Mixed Mode
+Business Management - MSc|Mode of Study|Full-time
+China Business Studies - MSc|Mode of Study|Full-time
+Chinese Culture - MA|Mode of Study|Mixed Mode
+Chinese Linguistics - MA|Mode of Study|Mixed Mode
+Civil Engineering - MSc|Mode of Study|Mixed Mode
+Construction and Real Estate - MSc|Mode of Study|Mixed Mode
+Construction Law and Dispute Resolution - MSc|Mode of Study|Mixed Mode
+Corporate Governance - Master|Mode of Study|Part-time
+Data Science and Analytics - MSc|Mode of Study|Mixed Mode
+Design - Master|Mode of Study|Mixed Mode
+Electrical Engineering - MSc|Mode of Study|Mixed Mode
+Electronic and Information Engineering - MSc|Mode of Study|Mixed Mode
+Engineering Business Management - MSc/PgD|Mode of Study|Mixed Mode
+Engineering Doctorate - EngD|Mode of Study|Mixed Mode
+English Studies for the Professions - MA|Mode of Study|Mixed Mode
+Environmental Management and Engineering - MSc|Mode of Study|Mixed Mode
+Facility Management - MSc|Mode of Study|Mixed Mode
+Fashion and Textile Design - MA|Mode of Study|Full-time
+Fashion and Textiles - MA|Mode of Study|Mixed Mode
+Finance (Corporate Finance) - Master|Mode of Study|Part-time
+Finance (Financial Economics in Energy and Environment) - Master|Mode of Study|Full-time
+Finance (Investment Management) - Master|Mode of Study|Part-time
+Finance (Investment Management) - Master|Mode of Study|Full-time
+Fire and Safety Engineering - MSc|Mode of Study|Mixed Mode
+Geomatics (Geographic Information Systems) - MSc|Mode of Study|Mixed Mode
+Geomatics (Surveying) - MSc|Mode of Study|Mixed Mode
+Global Food Safety Management and Risk Analysis - MSc|Mode of Study|Mixed Mode
+Global Hospitality Business - MSc|Mode of Study|Full-time
+Global Supply Chain Management - MSc/PgD|Mode of Study|Mixed Mode
+Guidance and Counselling - MA|Mode of Study|Mixed Mode
+Health Communication - Master|Mode of Study|On-line Mode
+Health Informatics - MSc|Mode of Study|Mixed Mode
+Health Science - Doctor|Mode of Study|Mixed Mode
+High Performance Buildings - MSc|Mode of Study|Mixed Mode
+Hospitality and Tourism Management - MSc Scheme|Mode of Study|Mixed Mode
+Hospitality Business Innovation - MSc|Mode of Study|On-line Mode
+Hotel and Tourism Management - Doctor|Mode of Study|Mixed Mode
+Human Resource Management - MSc|Mode of Study|Mixed Mode
+Industrial Logistics Systems - MSc|Mode of Study|Mixed Mode
+Information Technology - MSc|Mode of Study|Mixed Mode
+International Real Estate and Construction - Doctor|Mode of Study|Part-time
+International Shipping and Transport Logistics - MSc|Mode of Study|Full-time
+International Shipping and Transport Logistics - MSc/PgD|Mode of Study|Mixed Mode
+Knowledge and Technology Management - MSc|Mode of Study|Mixed Mode
+Manipulative Physiotherapy - MSc|Mode of Study|Mixed Mode
+Manufacturing Systems Engineering and Management - MSc/PgD|Mode of Study|Mixed Mode
+Marketing Management - MSc|Mode of Study|Mixed Mode
+Mechanical Engineering - MSc|Mode of Study|Mixed Mode
+Medical Imaging and Radiation Science - MSc|Mode of Study|Mixed Mode
+Medical Laboratory Science - MSc|Mode of Study|Mixed Mode
+Medical Physics - MSc|Mode of Study|Mixed Mode
+Multimedia and Entertainment Technology - MSc|Mode of Study|Full-time
+Nursing - Master|Mode of Study|Full-time
+Nursing - MSc|Mode of Study|Mixed Mode
+Nutrition and Healthy Ageing - MSc|Mode of Study|Mixed Mode
+Occupational Therapy - MSc|Mode of Study|Mixed Mode
+Operational Research and Risk Analysis - MSc|Mode of Study|Mixed Mode
+Operations Management - MSc|Mode of Study|Mixed Mode
+Professional Accounting - Master/PgD|Mode of Study|Mixed Mode
+Project Management - MSc|Mode of Study|Mixed Mode
+Rehabilitation of People with Developmental Disabilities - MSc|Mode of Study|Mixed Mode
+Rehabilitation Sciences - MSc|Mode of Study|Mixed Mode
+School and Community Psychology - MA|Mode of Study|Mixed Mode
+Social Policy and Social Development - MA|Mode of Study|Mixed Mode
+Social Work - Doctor|Mode of Study|Mixed Mode
+Social Work - Master|Mode of Study|Part-time
+Social Work (Family-centred Practice and Family Therapy) - MA|Mode of Study|Mixed Mode
+Social Work (Mental Health) - MA|Mode of Study|Mixed Mode
+Speech Therapy - Master|Mode of Study|Full-time
+Sports Physiotherapy - MSc|Mode of Study|Mixed Mode
+Supply Chain and Logistics Management - MSc/PgD|Mode of Study|Mixed Mode
+Sustainable Urban Development - MSc|Mode of Study|Mixed Mode
+Teaching Chinese as a Foreign Language - MA|Mode of Study|Mixed Mode
+Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) - MA/PgD|Mode of Study|Mixed Mode
+Translating and Interpreting - MA|Mode of Study|Mixed Mode
+Urban Informatics and Smart Cities - MSc|Mode of Study|Mixed ModeAccountancy - MSc|Full Name|Master of Science in AccountancyAccounting and Finance Analytics - MSc|Full Name|Master of Science in Accounting and Finance Analytics

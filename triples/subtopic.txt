@@ -1,0 +1,273 @@
+abstract argumentation|Subtopic|argumentation semantics, argumentation semantics
+action recognition|Subtopic|human action, human-action recognition, human action
+active appearance model|Subtopic|face alignment
+activity recognition|Subtopic|triaxial accelerometer, human activity recognition, complex activity, activity model
+ambient intelligence|Subtopic|smart environment, ambient assisted living, intelligent environment
+annealing|Subtopic|simulated annealing method, sa algorithm, ion implantation, annealing temperature, laser annealing, thermal-annealing
+answer set programming|Subtopic|disjunctive logic program, action language, answer set
+anthropomorphic robot|Subtopic|social robot, biped robot, motion generation, robot hand
+appearance model|Subtopic|appearance modeling
+approximate inference|Subtopic|expectation propagation, exact inference
+argumentation|Subtopic|argumentation framework
+argumentation framework|Subtopic|abstract argumentation
+artificial bee colony|Subtopic|artificial bee colony algorithm
+artificial intelligence|Subtopic|bayesian network, intelligent control, swarm intelligence, decision support system, natural language processing, intelligent tutoring, common-sense, system theory, ai planning, intelligence analysis, cognitive system, genetic algorithm, expert system, decision theory, commonsense, knowledge based system, bayesian model, common-sense computing, bayesian approach, bayesian framework, heuristic programming, medical computing, cellular automaton, multi agent system (mas), soft computing, commonsense reasoning, intelligent robot, ambient intelligence, game theory, inference engine, natural language processing system, formal logic, intelligent system, common-sense reasoning
+associative processing|Subtopic|genetic network programming, associative storage, frequent item, transaction database, apriori algorithm, negative association rule, interestingness measure, association mining, associative classification
+associative storage|Subtopic|pulse amplitude modulation, bidirectional associative memory, content addressable memory
+attitude control|Subtopic|attitude controller, reaction wheel, attitude stabilization, attitude tracking
+attribute reduction|Subtopic|positive region, knowledge reduction, discernibility matrix, decision system
+automatic target recognition|Subtopic|target classification, target recognition
+back propagation neural network|Subtopic|backpropagation algorithm, gated recurrent unit, artificial neural network model, recurrent neural network (rnn), graph neural network, generative adversarial network, pulse coupled neural network, long short term memory neural network, feedforward neural network, adaptive network based fuzzy inference system, convolutional neural network, hopfield network, delayed neural network, learning vector quantization
+background subtraction|Subtopic|foreground object, background subtraction method, detecting moving object, dynamic background, moving object segmentation, frame difference, foreground segmentation, shadow removal, background subtraction technique
+back-propagation neural network|Subtopic|delayed neural network, hopfield network, convolutional neural network, adaptive network based fuzzy inference system, graph neural network, feedforward neural network, pulse coupled neural network, long short term memory neural network
+backstepping|Subtopic|output-tracking, adaptive backstepping, backstepping control, adaptive neural control, stochastic nonlinear system, feedback form, backstepping design, dynamic surface control, closed-loop signal
+bayesian approach|Subtopic|bayesian filtering, variational approximation, gibbs sampling, bayesian classifier, latent variable model, variational bayesian, probabilistic inference, probabilistic model, bayesian estimation, prior information, variational inference, mcmc method, bayesian inference, naive bayes, inference algorithm, graphical model, non-parametric bayesian, markov chain monte carlo method
+bayesian classifier|Subtopic|bayesian classification, naive bayesian classifier
+bayesian estimation|Subtopic|bayesian estimator
+bayesian framework|Subtopic|bayesian inference, naive bayes, bayesian estimation, inference algorithm, bayesian filtering, variational approximation, bayesian classifier, latent variable model, variational bayesian, probabilistic model, prior information, variational inference, gibbs sampling, markov chain monte carlo method, graphical model, non-parametric bayesian
+bayesian model|Subtopic|bayesian inference, naive bayes, bayesian estimation, inference algorithm, mcmc method, bayesian filtering, variational approximation, bayesian classifier, latent variable model, variational bayesian, probabilistic inference, probabilistic model, prior information, variational inference, deep belief network, gibbs sampling, markov chain monte carlo method, non-parametric bayesian, graphical model
+biped robot|Subtopic|zero moment point, walking pattern
+boolean algebra|Subtopic|boolean network, boolean satisfiability, boolean operation, coalgebra, boolean formula, coalgebraic
+boolean network|Subtopic|semi-tensor product
+cellular automaton|Subtopic|quantum-dot cellular automaton, cellular automaton, cellular automata model, two-dimensional cellular automaton, cellular automaton model
+character recognition|Subtopic|handwritten digit recognition, writer identification, optical character recognition, character recognition system, chinese character, handwritten word recognition, word segmentation, character set, document analysis, handwriting recognition, binarizations, text detection, off-line handwritten
+chinese character|Subtopic|chinese character recognition, handwritten chinese character, chinese language
+classifier|Subtopic|bayesian classifier, support vector machine (svm), base classifier, k-nn classifier, fuzzy classifier, fuzzy classification, bayes classifier, adaptive boosting, multiple classifier system, decision tree, bayesian network classifier, naive bayes classifier, associative classifier, multiple classifier, class label
+cluster analysis|Subtopic|text clustering, data clustering, cluster number, cluster validity, fuzzy clustering analysis, spatial clustering, cluster validation, document clustering, dendrograms, hierarchical cluster analysis, clustering quality, k-means clustering
+cluster validity|Subtopic|cluster validity index
+coalition formation|Subtopic|coalitional game, coalition structure
+cognitive network|Subtopic|cognitive wireless network
+cognitive system|Subtopic|cognitive science, fuzzy cognitive map, cognitive process, cognitive modeling, cognitive architecture, cognitive network, dynamic spectrum access, spectrum sensing
+color filter array|Subtopic|color interpolation, bayer pattern
+color image|Subtopic|color filter array, color image enhancement, color image segmentation, gray-scale image, color component
+commonsense|Subtopic|commonsense knowledge
+common-sense computing|Subtopic|common-sense knowledge, commonsense knowledge
+common-sense reasoning|Subtopic|common-sense knowledge
+commonsense reasoning|Subtopic|common-sense knowledge, commonsense knowledge
+communicating sequential process|Subtopic|communicating sequential process
+computer game|Subtopic|digital game
+content based retrieval|Subtopic|image indexing, fourier descriptor, image descriptor, content-based video retrieval, content based filtering, 3d model retrieval, similarity retrieval, relevance feedback, retrieval efficiency, local binary pattern, 3d object retrieval, shape information, local binary pattern (lbp), content-based image retrieval, content provider, image retrieval system, image collection
+cooperative game|Subtopic|nash bargaining solution, shapley value
+datalog|Subtopic|datalog program
+decision analysis|Subtopic|multi-criteria decision analysis
+decision model|Subtopic|decision modeling
+decision procedure|Subtopic|presburger arithmetic
+decision rule|Subtopic|dominance relation, rule induction, attribute reduction, dominance-based rough set approach, rough set model
+decision support system|Subtopic|decision support technique, decision system, intelligent decision support system, decision model, clinical decision support, multi-criteria decision analysis, group support system
+decision table|Subtopic|rough set model, dominance-based rough set approach, dominance relation, attribute reduction, rule induction
+decision theory|Subtopic|sat solver, decision-theoretic, multi-criteria decision making, analytic hierarchy, decision procedure, binary decision diagram (bdd), decision table, group decision-making, intelligent decision support system, evidential reasoning, decision rule, decision model, decision analysis, analytic network process
+decision tree|Subtopic|decision-tree algorithm, random subspace, naive bayes, binary decision tree, decision tree induction, classification rule, fuzzy decision tree, classifier ensemble, spatial index, decision tree model, random forest, ensemble classifier, decision tree learning, spatial query
+decision-tree algorithm|Subtopic|c4.5 algorithm
+deep learning|Subtopic|deep belief network
+description logic|Subtopic|fuzzy description logic, web ontology language
+descriptor|Subtopic|scale invariant feature transform (sift), local descriptor, local invariant feature, image descriptor, texture descriptor, shape descriptor
+dialogue system|Subtopic|spoken language understanding, spoken dialogue, dialogue management
+differential evolution|Subtopic|multi-objective differential evolution, modified differential evolution, parameter adaptation, mutation operation
+dimensionality reduction|Subtopic|dimensionality reduction method, locality preserving projection, random projection, manifold learning, fisher discriminant analysis, curse of dimensionality, small sample size problem, subspace learning
+distributed parameter system|Subtopic|distributed parameter
+distributed scheduling|Subtopic|centralized scheduling
+document analysis|Subtopic|skew detection
+document clustering|Subtopic|document representation
+document image|Subtopic|document image processing, handwritten document, historical document, word image, printed document, document image analysis
+dynamic spectrum access|Subtopic|spectrum measurement, dynamic spectrum, cognitive radio technology
+electronic document|Subtopic|style sheet
+emotion recognition|Subtopic|emotional speech, basic emotion, affect recognition, human emotion
+energy detection|Subtopic|double threshold
+energy detector|Subtopic|double threshold
+ensemble classifier|Subtopic|ensemble classification
+ensemble learning|Subtopic|ensemble model, ensemble classification, ensemble algorithm, ensemble technique, random subspace
+evolution strategy|Subtopic|covariance matrix adaptation, black-box optimization
+evolutionary algorithm|Subtopic|memetic algorithm, constrained problem, artificial bee colony, high-quality solution, cartesian genetic programming, global optimization problem, grammatical evolution, exploration and exploitation, multi objective optimizations (moo), mutation operator, scatter search, estimation of distribution algorithm, genetic operator, gene expression programming, premature convergence, dynamic optimization problem (dop), search process, self-adaptive, fitness evaluation, hybrid algorithm, evolution strategy, interpretability, evolutionary strategy, evolutionary computation, scale factor, evolutionary optimization, candidate solution, numerical optimization, evolutionary process, symbolic regression, evolutionary search, multiobjective optimization, evolutionary programming, differential evolution
+evolutionary computation|Subtopic|genetic network programming, evolutionary computation technique
+evolutionary game|Subtopic|evolutionary stable strategy
+evolutionary game theory|Subtopic|replicator dynamic
+expert system|Subtopic|expert knowledge, fuzzy expert system
+face detection|Subtopic|eye detection, face tracking, skin detection, cascade classifier, skin color model, haar feature, frontal face, haar-like feature, real-time face detection, face detection algorithm
+face image|Subtopic|face alignment, gabor feature, eye detection, feret database, face hallucination, gender recognition, illumination normalization, illumination variation, frontal face, face recognition performance, 3d face model, face feature
+face modeling|Subtopic|3d face model
+face model|Subtopic|3d face model
+face recognition|Subtopic|face image, human face, local descriptor, active appearance model, principle component analysis, small sample size, gabor filter, illumination condition, dimensionality reduction method, emotion recognition, linear discriminants, face detection, non-negative matrix factorization algorithm, sign language recognition, gabor wavelet, local feature, facial feature point, face recognition system, binary pattern, class information, locality preserving projection, manifold learning, audio-visual, face model, subspace learning, appearance model, image representation, single image, facial image, face modeling, face recognition algorithm, lighting condition, local texture, recognition algorithm
+face recognition algorithm|Subtopic|face recognition performance, eigenfaces
+facial expression|Subtopic|human emotion, emotional expression, affect recognition, basic emotion, 3d face, facial feature extraction, head pose, facial expression recognition, facial action coding system
+facial image|Subtopic|facial feature extraction, gender classification
+feature recognition|Subtopic|machining feature
+feature set|Subtopic|kernel trick
+filter bank|Subtopic|prototype filter, gabor filter bank
+first order logic|Subtopic|first-order formula, markov logic network
+forecasting accuracy|Subtopic|combination forecasting, forecasting technique, forecasting error, forecasting performance, forecasting system, fuzzy time series
+forecasting method|Subtopic|fuzzy time series, forecasting system, forecasting performance, forecasting error, forecasting technique, combination forecasting
+forecasting model|Subtopic|combination forecasting, forecasting system, fuzzy time series, forecasting error, forecasting performance, forecasting technique
+formal logic|Subtopic|automated reasoning, satisfiability, higher order logic, boolean algebra, program verification, modal logic, kripke semantics, logic programming, theorem provers, dempster-shafer theory, separation logic, description logic, first order logic, automated theorem proving, formal proof, proof system, formal method, temporal logic, sequent calculus
+formal method|Subtopic|formal framework, formal model, automatic verification, formal semantics, formal approach, model-checking technique, formal specification
+formal model|Subtopic|formal modeling, formal modelling
+formal specification|Subtopic|z notation
+fuzzy cognitive map|Subtopic|cognitive map
+gabor filter|Subtopic|gabor feature, filter bank
+gabor wavelet|Subtopic|gabor feature, gabor wavelet transforms
+game model|Subtopic|game analysis
+game theory|Subtopic|coalition formation, evolutionarily stable strategy, stochastic game, incentive mechanism, retail price, stackelberg game, cooperative game, decision-theoretic, evolutionary game theory, nash equilibrium, mechanism design, repeated game, optimal strategy, prisoners dilemma, leader-follower, game-theoretic, computer game, utility function, multi-agent learning, evolutionary game, dynamic spectrum sharing, game model, prisoner dilemma
+gender classification|Subtopic|gender recognition
+genetic algorithm|Subtopic|evolutionary algorithm, simple genetic algorithm, penalty function, hybrid genetic algorithm, genetic fuzzy system, fitness function, genetic programming, simulated annealing, fuzzy simulation
+genetic fuzzy system|Subtopic|genetic-fuzzy
+genetic programming|Subtopic|gene expression programming, grammatical evolution, cartesian genetic programming, linear genetic programming, symbolic regression, genetic network programming, evolutionary computation technique
+gesture recognition|Subtopic|3d pose estimation, hand image, human motion analysis, facial expression, sign language recognition, hand tracking, human pose, hand gesture, action recognition, kinect
+graph matching|Subtopic|graph-matching algorithm
+graphical model|Subtopic|probabilistic graphical model, approximate inference, message passing algorithm, graphical modeling, loopy belief propagation
+grey relational analysis|Subtopic|grey relation
+hand gesture|Subtopic|hand-gesture recognition, hand shape, hand posture, hand motion
+hand posture|Subtopic|hand posture recognition
+handwriting recognition|Subtopic|handwritten word, handwritten text, handwritten document
+handwritten text|Subtopic|printed text
+heuristic programming|Subtopic|heuristic approach, adaptive critic design
+home automation|Subtopic|home automation system
+hospital data processing|Subtopic|patient data
+human face|Subtopic|human face detection, human face recognition
+human pose|Subtopic|monocular image, human pose estimation
+human robot interaction|Subtopic|human-robot interface, nonverbal behavior, social robot, human-human interaction, human-robot collaboration
+humanoid robot|Subtopic|whole-body motion, biped walking, walking motion, motion generation, zero moment point, walking pattern, gait planning, human robot interaction, dynamic walking, walking control, inverted pendulum model
+humanoid robotics|Subtopic|human robot interaction, gait planning, motion generation, walking motion, biped walking, whole-body motion, walking pattern, imitation learning, zero moment point, inverted pendulum model, dynamic walking, walking control
+hybrid algorithm|Subtopic|hybrid optimization algorithm, hybrid evolutionary algorithm
+hybrid particle swarm optimization|Subtopic|hybrid pso
+hybrid particle swarm optimization algorithm|Subtopic|hybrid pso
+illumination condition|Subtopic|illumination invariant
+image annotation|Subtopic|web image, automatic image annotation
+image database|Subtopic|similarity retrieval, similar image
+image representation|Subtopic|bag-of-visual-words
+image retrieval|Subtopic|image search, image annotation, clickthrough data, video retrieval, color feature, image database, color histogram, descriptor, visual feature, content based retrieval, nearest neighbor search, video shot, implicit feedback, image representation, visual similarity, image feature
+image search|Subtopic|image search engine
+image understanding|Subtopic|image identification, image rendering
+implicit feedback|Subtopic|explicit feedback
+incentive mechanism|Subtopic|principal-agent theory, incentive scheme
+inference engine|Subtopic|non-parametric bayesian, bayesian inference, inference algorithm, grammatical inference, probabilistic inference, loopy belief propagation, variational inference, message passing algorithm, approximate inference, fuzzy inference system (fis), probabilistic graphical model
+informal learning|Subtopic|formal learning
+information extraction|Subtopic|relation extraction, extracting information, free text, web information extraction
+intelligence analysis|Subtopic|intelligence analyst
+intelligent control|Subtopic|intelligent controller, control and automation, delay dependent, systems design, distributed parameter system, smart sensor
+intelligent environment|Subtopic|smart city, smart manufacturing, smart home
+intelligent robot|Subtopic|human operator, robot behavior, service robot, robot learning, task planning, laser range finder, humanoid robot, robot motion, visual slam, robotic hand, real robot, human walking, modular robotics, humanoid robotics, microrobot, anthropomorphic robot, wall climbing robot, robot dynamic
+intelligent system|Subtopic|intelligent computing, human driver, systems design, advanced traffic management system, intelligent transportation, intelligent material, grey system
+intelligent tutoring|Subtopic|pedagogical agent
+interpretability|Subtopic|fuzzy rule-based classifier
+ion implantation|Subtopic|ion bombardment
+kinect|Subtopic|microsoft kinect
+knowledge acquisition|Subtopic|extreme learning machine, knowledge engineer, share knowledge, knowledge management system, knowledge discovery
+knowledge base|Subtopic|knowledge engineer
+knowledge based system|Subtopic|case-based reasoning (cbr), knowledge engineering, commonsense knowledge, knowledge management, relational database, domain knowledge, knowledge representation, real time system, evidential reasoning, common-sense knowledge base, relational database system, knowledge base, intelligent decision support system, expert knowledge
+knowledge discovery|Subtopic|knowledge discovery process
+knowledge engineering|Subtopic|content management system, content management, knowledge engineer
+knowledge management|Subtopic|mobile interaction, tacit knowledge, social software, knowledge acquisition, sustainable competitive advantage, enterprise 2.0, knowledge exchange, knowledge transfer, ambient assisted living, informal learning, explicit knowledge, wiki, organizational learning
+knowledge representation|Subtopic|knowledge representation and reasoning, description logic, ontology language, natural language understanding, formal ontology, background knowledge, non-monotonic reasoning, answer set programming
+license plate location|Subtopic|automatic vehicle identification, vehicle license plate, license plate detection
+linear logic|Subtopic|proof search
+local feature|Subtopic|global feature, local invariant feature
+logic programming|Subtopic|meta programming, complexity result, event calculus, constraint logic programming, inductive logic programming, first-order formula, knowledge representation and reasoning, answer set programming, logic program, argumentation, non-monotonic reasoning, program analysis, propositional logic, horn clause, linear logic, modal operator, prolog (programming language), datalog
+logic program|Subtopic|termination analysis, answer set
+machine learning|Subtopic|link prediction, classifier, reinforcement learning (rl), back-propagation neural network, training sample, cluster analysis, forecasting method, back propagation neural network, inductive logic programming, parameter learning, training set, forecasting accuracy, associative processing, pattern recognition, test sample, test set, topic model, forecasting model, supervised machine learning, ensemble learning, neural network model
+machine translation|Subtopic|target language, human evaluation, translation model, translation system, bilingual dictionary, parallel corpus, translation process, automatic evaluation, english sentence, automatic translation
+manifold learning|Subtopic|isomap, local geometry, manifold learning algorithm, neighborhood graph, low-dimensional manifold, intrinsic dimension
+mean shift algorithm|Subtopic|mean shift tracking
+mechanism design|Subtopic|vcg mechanism, incentive compatibility, optimal mechanism, strategy proof, auction mechanism
+medical computing|Subtopic|medical database, hospital data processing, telehealth, records management, personal health record
+memetic algorithm|Subtopic|memetic
+mobile manipulator|Subtopic|mobile base, mobile manipulation
+modal logic|Subtopic|dynamic logic, modal operator, epistemic logic, kripke model, hybrid logic, deontic logic
+multiple classifier system|Subtopic|classifier selection, individual classifier, combining classifier, classifier fusion
+multiple classifier|Subtopic|classifier selection, individual classifier, combining classifier, classifier fusion
+multipurpose robot|Subtopic|multirobot system, multi-robot system, multirobots, multiple robot, multi-robot team, quadrational unified processed robot
+multi-robot system|Subtopic|robot team, multi-robot coordination
+multirobot system|Subtopic|robot team, multi-robot coordination
+named entity recognition|Subtopic|name recognition
+nash equilibrium|Subtopic|payoff function, strategic game, stackelberg equilibrium, non-cooperative game, correlated equilibrium, mixed strategy, zero-sum game, game-theoretic model, solution concept
+natural language processing|Subtopic|semantic relatedness, word segmentation, word embedding, syntactic parsing, named entity, sentiment analysis, natural language text, spoken language processing, syntactic structure, statistical language model, topic model, maximum entropy model, text processing, natural language understanding, question answering, synset, information extraction, machine translation, cross-language information retrieval, relevance model, n-gram language model, abstracting and indexing, treebanks, machine translation system, sequence labeling, lexical resource, named entity recognition, dialogue system, parse tree, spoken dialogue system, information retrieval technology, speech transmission, pseudo relevance feedback, natural language generation
+natural language processing system|Subtopic|parse tree, spoken dialogue system, information retrieval technology, maximum entropy model, speech transmission, pseudo relevance feedback, named entity recognition, spoken language processing, syntactic structure, statistical language model, dialogue system, machine translation, sequence labeling, question answering, natural language understanding, text processing, natural language generation, information extraction, synset, word embedding, syntactic parsing, word segmentation, treebanks, machine translation system, abstracting and indexing, n-gram language model, relevance model, sentiment analysis, natural language text, topic model
+neuro-fuzzy|Subtopic|neuro-fuzzy controller, neuro-fuzzy model
+neuro-fuzzy system|Subtopic|neuro-fuzzy model
+non-cooperative game|Subtopic|non-cooperative game theory
+non-monotonic reasoning|Subtopic|default reasoning, defeasible reasoning, defeasible logic
+nsga-ii|Subtopic|nsga-ii algorithm, multi objective algorithm
+object detection|Subtopic|scene understanding, object detection algorithm, pedestrian detection, object location, object localization, detecting object, object classification, background clutter, cascade classifier
+object recognition|Subtopic|motion detection, image understanding, depth estimation, descriptor, background subtraction, intelligent video surveillance, hidden markov modeling, object detection, image feature, image representation, object segmentation, pose estimation, object tracking, object contour, shape matching, detection of moving object, local feature, moving-object detection, automatic target recognition, 3d object recognition, sift
+object tracking|Subtopic|tracking method, object location, visual object tracking, real-time object tracking, camshift, object tracking algorithm, multi-object tracking, object appearance, mean shift algorithm, moving object tracking, tracking object, bhattacharyya coefficient, partial occlusion, tracking process, robust tracking
+opinion mining|Subtopic|product review, polarity classification, sentiment classification
+optical character recognition|Subtopic|connected component analysis, ocr, document image, license plate location, printed text, skew detection
+organizational learning|Subtopic|learning organization, organizational memory
+parallel corpus|Subtopic|bilingual corpus
+pareto front|Subtopic|multi objective particle swarm optimization
+pareto principle|Subtopic|pareto distribution
+particle swarm|Subtopic|binary particle swarm optimization, mutation operation, global optimization problem, exploration and exploitation, hybrid particle swarm optimization, particle swarm optimization technique, hybrid algorithm, evolutionary computation technique, pareto dominance, mutation operator, local convergence, premature convergence, global optimal solution, multi objective particle swarm optimization, dynamic optimization problem (dop), hybrid particle swarm optimization algorithm, quantum-behaved particle swarm optimization
+particle swarm algorithm|Subtopic|exploration and exploitation, pareto dominance, evolutionary computation technique, hybrid algorithm, particle swarm optimization technique, hybrid particle swarm optimization, mutation operation, quantum-behaved particle swarm optimization, binary particle swarm optimization, global optimization problem, mutation operator, local convergence, premature convergence, global optimal solution, multi objective particle swarm optimization, dynamic optimization problem (dop), hybrid particle swarm optimization algorithm
+pattern recognition|Subtopic|feature recognition, multiple classifier system, character recognition, multiple classifier, sketch recognition, syntactic pattern recognition, color image, learning vector quantization, dimensionality reduction, object recognition, pattern recognition system, graph matching, feature set, activity recognition, pattern classification, k nearest neighbor algorithm, image retrieval, conditional random fields (crfs), face recognition, gesture recognition
+pattern recognition system|Subtopic|quantum-dot cellular automaton, cellular automata model
+pneumatic drive|Subtopic|pneumatic cylinder, pneumatic artificial muscle
+pose estimation|Subtopic|head pose estimation, 3d pose estimation, human pose, camera pose estimation, object pose
+primary system|Subtopic|secondary system
+principle component analysis|Subtopic|principle component
+probabilistic model|Subtopic|probabilistic modeling
+product review|Subtopic|online product, customer review, product feature
+propositional logic|Subtopic|propositional formula
+pso|Subtopic|hybrid particle swarm optimization, quantum-behaved particle swarm optimization, particle swarm optimization technique, hybrid particle swarm optimization algorithm, dynamic optimization problem (dop), multi objective particle swarm optimization, global optimal solution, mutation operator, global optimization problem, binary particle swarm optimization, hybrid algorithm, evolutionary computation technique
+pso algorithm|Subtopic|hybrid particle swarm optimization algorithm, dynamic optimization problem (dop), multi objective particle swarm optimization, global optimal solution, premature convergence, local convergence, mutation operator, global optimization problem, binary particle swarm optimization, quantum-behaved particle swarm optimization, mutation operation, hybrid particle swarm optimization, particle swarm optimization technique, hybrid algorithm, evolutionary computation technique, pareto dominance
+pulse amplitude modulation|Subtopic|pneumatic drive
+question answering|Subtopic|qa system, passage retrieval, natural language question, complex question, question classification
+random forest|Subtopic|random forest classifier
+rbf|Subtopic|rbf network
+rbfnn|Subtopic|rbf network
+real time scheduling|Subtopic|real-time scheduling algorithm
+real time system|Subtopic|uml profile, safety critical system, cyber-physical system, real-time java, schedulability analysis, real time scheduling, distributed scheduling, real-time task, timing analysis, real time operating system, pre-emptive scheduling, real-time rendering, reactive system, worst-case execution time, real-time embedded system
+real-time rendering|Subtopic|view-dependent
+records management|Subtopic|health record, electronic record, electronic health record system
+relational data|Subtopic|relational schema
+relational database|Subtopic|sql query, relational algebra, query execution, relational data, functional dependency, relational query, sql, relational database management system, temporal database
+relational database system|Subtopic|query execution, relational algebra, relational model, functional dependency, relational query, sql, relational database management system, temporal database, sql query
+robot learning|Subtopic|interactive robot, multipurpose robot
+safety critical system|Subtopic|safety critical software
+sat solver|Subtopic|sat-solving, clause learning
+satisfiability|Subtopic|sat solver, satisfiability modulo theory
+self-adaptive|Subtopic|self-adaptive software
+semantic relatedness|Subtopic|sentence similarity, word similarity, concept similarity, semantic distance
+sentiment analysis|Subtopic|opinion mining
+separation logic|Subtopic|imperative program, program logic, hoare logic
+sequent calculus|Subtopic|cut elimination, proof search
+service robot|Subtopic|service robotics, mobile service robot
+shape matching|Subtopic|shape retrieval
+sift|Subtopic|sift descriptor
+simulated annealing|Subtopic|annealing, meta-heuristic approach, simulated annealing algorithm, tabu search
+simulated annealing algorithm|Subtopic|sa algorithm
+smart city|Subtopic|smart finance, smart energy, smart transportation solution
+smart environment|Subtopic|smart home, smart city, smart manufacturing
+smart home|Subtopic|home automation
+smart sensor|Subtopic|intelligent sensor
+social robot|Subtopic|social robotics
+soft computing|Subtopic|soft computing method
+spectrum sensing|Subtopic|radio environment, noise power, false alarm probability, probability of detection, cooperative spectrum sensing, missed detection, sensing scheme, cyclostationarity, radio spectrum, energy detector, primary user, energy detection, primary system, wideband spectrum, cyclostationary, dynamic spectrum, cognitive radio technology, wireless microphone, ieee 802.22
+speech transmission|Subtopic|target language, statistical machine translation, speech transcription, automatic evaluation
+spoken dialogue system|Subtopic|dialogue management, spoken dialogue, spoken language understanding
+spoken language processing|Subtopic|unit selection
+stackelberg game|Subtopic|stackelberg equilibrium
+statistical machine translation|Subtopic|parallel corpus, word alignment, translation model, translation system
+swarm intelligence|Subtopic|particle swarm, stigmergy, pso algorithm, ant system, particle swarm algorithm, pso, particle swarm optimization, swarm robotics, artificial bee colony
+swarm robotics|Subtopic|swarm of robot, swarm robot, robotic swarm, robot swarm
+system theory|Subtopic|grey relational analysis, system testing, grey theory, grey system theory, grey prediction, grey model, grey system, supervisory control theory, system dynamics model
+tabu search|Subtopic|tabu search algorithm, variable neighborhood search, neighborhood structure, scatter search, iterated local search
+target language|Subtopic|source language
+temporal logic|Subtopic|temporal property, ltl, branching time, interval temporal logic
+term frequency|Subtopic|inverse document frequency
+text detection|Subtopic|scene text, natural scene image, text region
+text entry|Subtopic|text input
+text mining|Subtopic|text document, text mining technique, text data, text representation, textual data
+text processing|Subtopic|text line, word processing, text summarization, document representation, text detection, free text, sentiment classification, textual entailment, document classification, text entry, term frequency, text mining, text clustering
+text region|Subtopic|text localization
+text summarization|Subtopic|sentence extraction, automatic text summarization, automatic summarization
+timing analysis|Subtopic|static timing analysis
+topic model|Subtopic|hierarchical dirichlet process
+traffic network|Subtopic|urban traffic network
+translation model|Subtopic|phrase-based statistical machine translation
+triaxial accelerometer|Subtopic|acceleration data
+underwater ballistics|Subtopic|underwater construction, unmanned underwater vehicle
+underwater structure|Subtopic|underwater ballistics
+video retrieval|Subtopic|content-based video retrieval, video search, video browsing, video collection
+wall climbing robot|Subtopic|suction cup
+wiki|Subtopic|mediawiki
+word processing|Subtopic|electronic document
+word segmentation|Subtopic|word sense disambiguation, chinese word segmentation
+word sense disambiguation|Subtopic|word sense

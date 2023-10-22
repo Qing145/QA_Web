@@ -1,0 +1,29 @@
+School of Accounting and Finance (SAF)|Taught Postgraduate Programmes|Accountancy - MSc, Accounting and Finance Analytics - MSc, Corporate Governance - Master, Finance (Corporate Finance) - MSc, Finance (Financial Economics in Energy and Environment) - MSc, Finance (Investment Management) - MSc, Professional Accounting - MSc, Professional Accounting - PgD
+Faculty of Humanities (FH)|Taught Postgraduate Programmes|Applied Language Sciences - Doctor, Speech Therapy - MSc
+Department of Applied Mathematics (AMA)|Taught Postgraduate Programmes|Applied Mathematics for Science and Technology (Actuarial and Investment Science) - MSc, Applied Mathematics for Science and Technology (Decision Science) - MSc, Data Science and Analytics - MSc, Operational Research and Risk Analysis - MSc
+Department of Applied Social Sciences (APSS)|Taught Postgraduate Programmes|Applied Psychology - MSc, Applied Psychology (Diverse Learning Needs) - MSc, Guidance and Counselling - MA, School and Community Psychology - MA, Social Policy and Social Development - MA, Social Work - Doctor, Social Work - MSc, Social Work (Family-centred Practice and Family Therapy) - MA, Social Work (Mental Health) - MA
+Department of Aeronautical and Aviation Engineering (AAE)|Taught Postgraduate Programmes|Aviation Engineering - MSc
+Department of Chinese and Bilingual Studies (CBS)|Taught Postgraduate Programmes|Bilingual Corporate Communication - MA, Chinese Linguistics - MA, Teaching Chinese as a Foreign Language - MA, Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) - MA, Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) - PgD, Translating and Interpreting - MA
+Department of Biomedical Engineering (BME)|Taught Postgraduate Programmes|Biomedical Engineering - MSc
+Department of Computing (COMP)|Taught Postgraduate Programmes|Blockchain Technology - MSc, Information Technology - MSc
+Department of Building Environment and Energy Engineering (BEEE)|Taught Postgraduate Programmes|Building Services Engineering - MEng, Building Services Engineering - MSc, Facility Management - MSc, Fire and Safety Engineering - MSc, High Performance Buildings - MSc, Sustainable Urban Development - MSc
+Faculty of Business (FB)|Taught Postgraduate Programmes|Business Administration - Doctor, Business Administration - MSc, Business Management - MSc, China Business Studies - MSc, FinTech - Doctor
+Department of Management and Marketing (MM)|Taught Postgraduate Programmes|Business Analytics - MSc, Human Resource Management - MSc, Marketing Management - MSc
+Department of Chinese Culture (CC)|Taught Postgraduate Programmes|Chinese Culture - MA
+Department of Civil and Environmental Engineering (CEE)|Taught Postgraduate Programmes|Civil Engineering - MSc, Environmental Management and Engineering - MSc
+Department of Building and Real Estate (BRE)|Taught Postgraduate Programmes|Construction and Real Estate - MSc, Construction Law and Dispute Resolution - MSc, International Real Estate and Construction - Doctor, Project Management - MSc
+School of Design (SD)|Taught Postgraduate Programmes|Design - Master, Multimedia and Entertainment Technology - MSc
+Department of Electrical Engineering (EE)|Taught Postgraduate Programmes|Electrical Engineering - MSc
+Department of Electronic and Information Engineering (EIE)|Taught Postgraduate Programmes|Electronic and Information Engineering - MSc
+Department of Industrial and Systems Engineering (ISE)|Taught Postgraduate Programmes|Engineering Business Management - MSc, Engineering Business Management - PgD, Engineering Doctorate - EngD, Industrial Logistics Systems - MSc, Knowledge and Technology Management - MSc, Manufacturing Systems Engineering and Management - MSc, Manufacturing Systems Engineering and Management - PgD
+Department of English and Communication (ENGL)|Taught Postgraduate Programmes|English Studies for the Professions - MA, Health Communication - MSc
+School of Fashion and Textiles (SFT)|Taught Postgraduate Programmes|Fashion and Textile Design - MA, Fashion and Textiles - MA
+Department of Land Surveying and Geo-Informatics (LSGI)|Taught Postgraduate Programmes|Geomatics (Geographic Information Systems) - MSc, Geomatics (Surveying) - MSc, Urban Informatics and Smart Cities - MSc
+Department of Applied Biology and Chemical Technology (ABCT)|Taught Postgraduate Programmes|Global Food Safety Management and Risk Analysis - MSc, Nutrition and Healthy Ageing - MSc
+School of Hotel and Tourism Management (SHTM)|Taught Postgraduate Programmes|Global Hospitality Business - MSc, Hospitality and Tourism Management - MSc, Hospitality Business Innovation - MSc, Hotel and Tourism Management - Doctor
+Department of Logistics and Maritime Studies (LMS)|Taught Postgraduate Programmes|Global Supply Chain Management - MSc, Global Supply Chain Management - PgD, International Shipping and Transport Logistics - MSc, International Shipping and Transport Logistics - PgD, Operations Management - MSc, Supply Chain and Logistics Management - MSc, Supply Chain and Logistics Management - PgD
+Faculty of Health and Social Sciences (FHSS)|Taught Postgraduate Programmes|Health Informatics - MSc
+School of Nursing (SN)|Taught Postgraduate Programmes|Health Science - Doctor, Nursing - MSc
+Department of Rehabilitation Sciences (RS)|Taught Postgraduate Programmes|Manipulative Physiotherapy - MSc, Occupational Therapy - MSc, Rehabilitation of People with Developmental Disabilities - MSc, Rehabilitation Sciences - MSc, Sports Physiotherapy - MSc
+Department of Mechanical Engineering (ME)|Taught Postgraduate Programmes|Mechanical Engineering - MSc
+Department of Health Technology and Informatics (HTI)|Taught Postgraduate Programmes|Medical Imaging and Radiation Science - MSc, Medical Laboratory Science - MSc, Medical Physics - MSc

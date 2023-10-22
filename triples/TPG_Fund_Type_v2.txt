@@ -1,0 +1,97 @@
+Accountancy MSc|Fund Type|Self-Financed
+Accounting and Finance Analytics MSc|Fund Type|Self-Financed
+Applied Language Sciences Doctor|Fund Type|Self-Financed
+Applied Mathematics for Science and Technology (Actuarial and Investment Science) MSc|Fund Type|Self-Financed
+Applied Mathematics for Science and Technology (Decision Science) MSc|Fund Type|Self-Financed
+Applied Psychology MSc|Fund Type|Self-Financed
+Applied Psychology (Diverse Learning Needs) MSc|Fund Type|Self-Financed
+Aviation Engineering MSc|Fund Type|Self-Financed
+Bilingual Corporate Communication MA|Fund Type|Self-Financed
+Biomedical Engineering MSc|Fund Type|Self-Financed
+Blockchain Technology MSc|Fund Type|Self-Financed
+Building Services Engineering MEng|Fund Type|Self-Financed
+Building Services Engineering MSc|Fund Type|Self-Financed
+Business Administration Doctor|Fund Type|Self-Financed
+Business Administration MSc|Fund Type|Self-Financed
+Business Administration MSc|Fund Type|Self-Financed
+Business Analytics MSc|Fund Type|Self-Financed
+Business Management MSc|Fund Type|Self-Financed
+China Business Studies MSc|Fund Type|Self-Financed
+Chinese Culture MA|Fund Type|Self-Financed
+Chinese Linguistics MA|Fund Type|Self-Financed
+Civil Engineering MSc|Fund Type|Self-Financed
+Construction and Real Estate MSc|Fund Type|Self-Financed
+Construction Law and Dispute Resolution MSc|Fund Type|Self-Financed
+Corporate Governance MSc|Fund Type|Self-Financed
+Data Science and Analytics MSc|Fund Type|Self-Financed
+Design MSc|Fund Type|Self-Financed
+Electrical Engineering MSc|Fund Type|Self-Financed
+Electronic and Information Engineering MSc|Fund Type|Self-Financed
+Engineering Business Management MSc|Fund Type|Self-Financed
+Engineering Business Management PgD|Fund Type|Self-Financed
+Engineering Doctorate EngD|Fund Type|Self-Financed
+English Studies for the Professions MA|Fund Type|Self-Financed
+Environmental Management and Engineering MSc|Fund Type|Self-Financed
+Facility Management MSc|Fund Type|Self-Financed
+Fashion and Textile Design MA|Fund Type|Self-Financed
+Fashion and Textiles MA|Fund Type|Self-Financed
+Finance (Corporate Finance) MSc|Fund Type|Self-Financed
+Finance (Financial Economics in Energy and Environment) MSc|Fund Type|Self-Financed
+Finance (Investment Management) MSc|Fund Type|Self-Financed
+Fire and Safety Engineering MSc|Fund Type|Self-Financed
+Geomatics (Geographic Information Systems) MSc|Fund Type|Self-Financed
+Geomatics (Surveying) MSc|Fund Type|Self-Financed
+Global Food Safety Management and Risk Analysis MSc|Fund Type|Self-Financed
+Global Hospitality Business MSc|Fund Type|Self-Financed
+Global Supply Chain Management MSc|Fund Type|Self-Financed
+Global Supply Chain Management PgD|Fund Type|Self-Financed
+Guidance and Counselling MA|Fund Type|Self-Financed
+Health Communication MSc|Fund Type|Self-Financed
+Health Informatics MSc|Fund Type|Self-Financed
+Health Science Doctor|Fund Type|Self-Financed
+High Performance Buildings MSc|Fund Type|Self-Financed
+Hospitality and Tourism Management MSc|Fund Type|Self-Financed
+Hospitality Business Innovation MSc|Fund Type|Self-Financed
+Hotel and Tourism Management Doctor|Fund Type|Self-Financed
+Human Resource Management MSc|Fund Type|Self-Financed
+Industrial Logistics Systems MSc|Fund Type|Self-Financed
+Information Technology MSc|Fund Type|Self-Financed
+International Real Estate and Construction Doctor|Fund Type|Self-Financed
+International Shipping and Transport Logistics MSc|Fund Type|Self-Financed
+International Shipping and Transport Logistics PgD|Fund Type|Self-Financed
+Knowledge and Technology Management MSc|Fund Type|Self-Financed
+Manipulative Physiotherapy MSc|Fund Type|Self-Financed
+Manufacturing Systems Engineering and Management MSc|Fund Type|Self-Financed
+Manufacturing Systems Engineering and Management PgD|Fund Type|Self-Financed
+Marketing Management MSc|Fund Type|Self-Financed
+Mechanical Engineering MSc|Fund Type|Self-Financed
+Medical Imaging and Radiation Science MSc|Fund Type|Self-Financed
+Medical Laboratory Science MSc|Fund Type|Self-Financed
+Medical Physics MSc|Fund Type|Self-Financed
+Multimedia and Entertainment Technology MSc|Fund Type|Self-Financed
+Nursing MSc|Fund Type|Self-Financed
+Nutrition and Healthy Ageing MSc|Fund Type|Self-Financed
+Occupational Therapy MSc|Fund Type|Self-Financed
+Operational Research and Risk Analysis MSc|Fund Type|Self-Financed
+Operations Management MSc|Fund Type|Self-Financed
+Professional Accounting MSc|Fund Type|Self-Financed
+Professional Accounting PgD|Fund Type|Self-Financed
+Project Management MSc|Fund Type|Self-Financed
+Rehabilitation of People with Developmental Disabilities MSc|Fund Type|Self-Financed
+Rehabilitation Sciences MSc|Fund Type|Self-Financed
+School and Community Psychology MA|Fund Type|Self-Financed
+Social Policy and Social Development MA|Fund Type|Self-Financed
+Social Work Doctor|Fund Type|Self-Financed
+Social Work MSc|Fund Type|Self-Financed
+Social Work (Family-centred Practice and Family Therapy) MA|Fund Type|Self-Financed
+Social Work (Mental Health) MA|Fund Type|Self-Financed
+Speech Therapy MSc|Fund Type|Self-Financed
+Sports Physiotherapy MSc|Fund Type|Self-Financed
+Supply Chain and Logistics Management MSc|Fund Type|Self-Financed
+Supply Chain and Logistics Management PgD|Fund Type|Self-Financed
+Sustainable Urban Development MSc|Fund Type|Self-Financed
+Teaching Chinese as a Foreign Language MA|Fund Type|Self-Financed
+Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) PgD|Fund Type|Self-Financed
+Teaching Chinese as a Foreign Language (with a specialism in Teaching Chinese as a Second Language in Hong Kong Schools) MA|Fund Type|Self-Financed
+Translating and Interpreting MA|Fund Type|Self-Financed
+Urban Informatics and Smart Cities MSc|Fund Type|Self-Financed

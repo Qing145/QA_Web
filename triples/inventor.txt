@@ -1,0 +1,46 @@
+algorithm|Inventor|Al-Khwarizmi, Al-Khwarizmi, Al-Khwarizmi
+bayesian network|Inventor|Thomas Bayes
+bayesian inference|Inventor|Thomas Bayes, Thomas Bayes
+hopfield network|Inventor|John Hopfield
+gibbs sampling|Inventor|Josiah Willard Gibbs
+naive bayes classifier|Inventor|Thomas Bayes
+markov chain monte carlo method|Inventor|Monte Carlo, Andrey Markov
+naive ayes classifier|Inventor|Thomas Bayes, Thomas Bayes
+boolean network|Inventor|George Boole
+Boolean function|Inventor|George Boole
+bayes classifier|Inventor|Thomas Bayes
+Bayer filter|Inventor|Bryce Bayer
+nash equilibrium|Inventor|John Forbes Nash
+Gale–Shapley algorithm|Inventor|Lloyd Shapley
+Shapley–Shubik power index|Inventor|Lloyd Shapley
+Shapley–Folkman lemma|Inventor|Lloyd Shapley
+Bondareva–Shapley theorem|Inventor|Lloyd Shapley
+Shapley-Shubik Theorem|Inventor|Lloyd Shapley
+Shapley value|Inventor|Lloyd Shapley
+Morlet wavelet|Inventor|Jean Morlet
+boolean algebra|Inventor|George Boole
+Kripke semantics|Inventor|Saul Kripke, Saul Kripke
+logical NOR|Inventor|Charles Sanders Peirce
+Anthenoides peircei|Inventor|Charles Sanders Peirce
+Peirce quincuncial projection|Inventor|Charles Sanders Peirce
+Peirce's law|Inventor|Charles Sanders Peirce
+Grupo de Estudios Peirceanos|Inventor|Charles Sanders Peirce
+Nash equilibrium|Inventor|John Forbes Nash
+horn clause|Inventor|Alfred Horn
+Vickrey–Clarke–Groves mechanism|Inventor|William Vickrey, Theodore Groves, Edward H. Clarke
+pareto principle|Inventor|Vilfredo Pareto
+Pareto efficiency|Inventor|Vilfredo Pareto
+Bhattacharyya distance|Inventor|Anil Kumar Bhattacharya
+pareto efficiency|Inventor|Vilfredo Pareto
+pareto distribution|Inventor|Vilfredo Pareto
+hoare logic|Inventor|Tony Hoare
+Java|Inventor|James Gosling
+Python|Inventor|Guido van Rossum
+Linux|Inventor|Linus Torvalds
+Windows|Inventor|Bill Gates
+C|Inventor|Dennis MacAlistair Ritchie
+C++|Inventor|Bjarne Stroustrup
+golang|Inventor|Robert Griesemer, Rob Pike, and Ken Thompson
+PHP|Inventor|Rasmus Lerdorf
+HTML|Inventor|Tim Berners-Lee
+JavaScript|Inventor|Brendan Eich
